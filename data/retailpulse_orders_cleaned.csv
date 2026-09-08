@@ -1,0 +1,1801 @@
+order_id,order_date,city,category,product_name,quantity,unit_price,discount_pct,payment_method,customer_age,customer_rating,revenue,day_type
+ORD100431,2026-06-18,Chennai,Beauty,Hair Serum,1.0,525.61,0.0,Credit Card,37.0,4.0,525.61,Weekday
+ORD101127,2026-02-19,Bengaluru,Beauty,Moisturizer,3.0,423.32,10.0,UPI,37.0,4.0,1142.9640000000002,Weekday
+ORD101303,2026-01-17,Bengaluru,Grocery,Basmati Rice 5kg,4.0,683.27,0.0,UPI,35.0,3.0,2733.08,Weekend
+ORD101454,2026-04-10,Pune,Fashion,Denim Jacket,2.0,1800.87,0.0,Credit Card,43.0,5.0,3601.74,Weekday
+ORD101718,2026-04-21,Mumbai,Home & Kitchen,LED Lamp,2.0,615.64,10.0,Net Banking,43.0,4.0,1108.152,Weekday
+ORD100993,2026-04-21,Bengaluru,Home & Kitchen,Storage Containers,1.0,510.12,0.0,Debit Card,35.0,5.0,510.12,Weekday
+ORD100237,2026-06-22,Chennai,Grocery,Green Tea Pack,3.0,250.38,0.0,UPI,20.0,4.0,751.14,Weekday
+ORD101049,2026-06-14,Chennai,Beauty,Moisturizer,2.0,435.57,0.0,Debit Card,32.0,,871.14,Weekend
+ORD101575,2026-05-28,Bengaluru,Home & Kitchen,Cushion Cover,2.0,346.93,0.0,Net Banking,33.0,5.0,693.86,Weekday
+ORD100127,2026-01-08,Bengaluru,Fashion,Sunglasses,2.0,867.47,0.0,Cash on Delivery,16.0,5.0,1734.94,Weekday
+ORD101178,2026-06-20,Bengaluru,Home & Kitchen,LED Lamp,2.0,612.45,20.0,Debit Card,32.0,3.0,979.9200000000001,Weekend
+ORD100359,2026-05-12,Bengaluru,Grocery,Cooking Oil 1L,3.0,193.07,25.0,Debit Card,28.0,4.0,434.4075,Weekday
+ORD101799,2026-04-04,Bengaluru,Fashion,Cotton T-Shirt,3.0,592.58,0.0,Credit Card,27.0,,1777.7400000000002,Weekend
+ORD101363,2026-05-23,Bengaluru,Home & Kitchen,Electric Kettle,1.0,1168.31,0.0,Credit Card,37.0,2.0,1168.31,Weekend
+ORD101159,2026-05-05,Bengaluru,Electronics,Bluetooth Speaker,2.0,1821.8,5.0,UPI,22.0,5.0,3461.4199999999996,Weekday
+ORD100397,2026-01-07,Hyderabad,Electronics,Power Bank,2.0,982.72,10.0,UPI,47.0,4.0,1768.8960000000002,Weekday
+ORD101691,2026-01-16,Delhi,Electronics,Smart Watch,1.0,3055.48,0.0,UPI,20.0,5.0,3055.48,Weekday
+ORD100651,2026-01-28,Bengaluru,Fashion,Sunglasses,1.0,932.45,0.0,Credit Card,32.0,5.0,932.45,Weekday
+ORD101563,2026-01-28,Chennai,Home & Kitchen,Storage Containers,1.0,497.86,0.0,Credit Card,35.0,1.0,497.86,Weekday
+ORD100631,2026-01-08,Bengaluru,Fashion,Backpack,2.0,1272.73,0.0,Net Banking,36.0,4.0,2545.46,Weekday
+ORD100603,2026-03-30,Mumbai,Electronics,Smart Watch,2.0,3056.71,25.0,Debit Card,32.0,2.0,4585.0650000000005,Weekday
+ORD100426,2026-06-08,Bengaluru,Electronics,Smart Watch,1.0,3087.96,0.0,Net Banking,42.0,,3087.96,Weekday
+ORD101113,2026-03-23,Bengaluru,Home & Kitchen,Non-stick Pan,2.0,784.4,15.0,Unknown,18.0,3.0,1333.48,Weekday
+ORD101379,2026-01-11,Delhi,Fashion,Running Shoes,3.0,2513.81,25.0,Net Banking,35.0,5.0,5656.0725,Weekend
+ORD101682,2026-03-23,Chennai,Fashion,Backpack,1.0,1254.08,5.0,Credit Card,30.0,,1191.376,Weekday
+ORD101744,2026-04-26,Chennai,Beauty,Hair Serum,3.0,557.31,0.0,Credit Card,19.0,,1671.9299999999998,Weekend
+ORD100882,2026-05-28,Mumbai,Grocery,Basmati Rice 5kg,3.0,653.96,0.0,Debit Card,21.0,4.0,1961.88,Weekday
+ORD100692,2026-05-09,Delhi,Electronics,Power Bank,3.0,1021.53,5.0,Debit Card,29.0,4.0,2911.3605000000002,Weekend
+ORD100470,2026-06-23,Pune,Fashion,Denim Jacket,1.0,1790.93,10.0,Debit Card,31.0,1.0,1611.837,Weekday
+ORD101283,2026-01-30,Mumbai,Home & Kitchen,Electric Kettle,2.0,1133.3,0.0,Net Banking,32.0,5.0,2266.6,Weekday
+ORD100984,2026-04-02,Mumbai,Beauty,Lip Balm,2.0,151.18,0.0,UPI,32.0,,302.36,Weekday
+ORD101762,2026-02-09,Delhi,Grocery,Basmati Rice 5kg,1.0,652.13,0.0,Credit Card,16.0,,652.13,Weekday
+ORD101165,2026-01-10,Pune,Beauty,Sunscreen SPF50,1.0,415.93,0.0,Net Banking,36.0,2.0,415.93,Weekend
+ORD100732,2026-04-06,Pune,Home & Kitchen,Non-stick Pan,6.0,800.48,5.0,UPI,34.0,4.0,4562.736,Weekday
+ORD101463,2026-02-21,Mumbai,Electronics,USB-C Cable,2.0,296.15,5.0,Credit Card,33.0,4.0,562.685,Weekend
+ORD100058,2026-05-05,Pune,Fashion,Cotton T-Shirt,1.0,599.15,20.0,Cash on Delivery,30.0,5.0,479.32,Weekday
+ORD100832,2026-02-12,Chennai,Grocery,Green Tea Pack,1.0,239.16,0.0,Credit Card,33.0,2.0,239.16,Weekday
+ORD100370,2026-05-05,Mumbai,Fashion,Backpack,2.0,1262.99,10.0,Credit Card,58.0,,2273.382,Weekday
+ORD100037,2026-06-07,Bengaluru,Grocery,Almonds 500g,1.0,536.21,0.0,Cash on Delivery,31.0,4.0,536.21,Weekend
+ORD101625,2026-02-27,Pune,Grocery,Honey Jar,2.0,310.99,0.0,Net Banking,40.0,,621.98,Weekday
+ORD100828,2026-02-23,Mumbai,Home & Kitchen,LED Lamp,1.0,600.49,25.0,Credit Card,36.0,,450.3675,Weekday
+ORD100956,2026-05-30,Mumbai,Home & Kitchen,Non-stick Pan,3.0,813.9,0.0,Cash on Delivery,31.0,,2441.7,Weekend
+ORD101002,2026-05-11,Mumbai,Home & Kitchen,Electric Kettle,1.0,1099.86,0.0,UPI,31.0,,1099.86,Weekday
+ORD101712,2026-01-25,Bengaluru,Home & Kitchen,Electric Kettle,1.0,1083.47,0.0,UPI,36.0,,1083.47,Weekend
+ORD101687,2026-05-25,Hyderabad,Fashion,Denim Jacket,1.0,1809.06,0.0,UPI,37.0,4.0,1809.06,Weekday
+ORD101167,2026-05-20,Bengaluru,Electronics,USB-C Cable,2.0,288.43,0.0,Credit Card,30.0,5.0,576.86,Weekday
+ORD100838,2026-02-24,Hyderabad,Beauty,Hair Serum,5.0,553.67,10.0,UPI,43.0,,2491.515,Weekday
+ORD100899,2026-01-01,Bengaluru,Beauty,Hair Serum,4.0,556.56,0.0,Credit Card,16.0,,2226.24,Weekday
+ORD101459,2026-05-31,Mumbai,Grocery,Basmati Rice 5kg,1.0,656.37,0.0,Credit Card,26.0,4.0,656.37,Weekend
+ORD100410,2026-06-28,Pune,Fashion,Cotton T-Shirt,4.0,599.03,15.0,Cash on Delivery,45.0,1.0,2036.7019999999998,Weekend
+ORD100506,2026-05-03,Delhi,Electronics,Smart Watch,3.0,3054.45,0.0,UPI,40.0,,9163.349999999999,Weekend
+ORD100657,2026-04-16,Chennai,Home & Kitchen,Non-stick Pan,3.0,807.07,10.0,UPI,30.0,,2179.089,Weekday
+ORD101596,2026-05-03,Chennai,Fashion,Running Shoes,3.0,2618.32,5.0,Net Banking,37.0,3.0,7462.212,Weekend
+ORD101657,2026-05-25,Mumbai,Electronics,Bluetooth Speaker,1.0,1835.73,0.0,UPI,23.0,5.0,1835.73,Weekday
+ORD101331,2026-02-21,Pune,Home & Kitchen,Non-stick Pan,3.0,768.99,5.0,Credit Card,29.0,2.0,2191.6215,Weekend
+ORD101037,2026-01-10,Delhi,Home & Kitchen,Storage Containers,3.0,477.89,0.0,UPI,29.0,5.0,1433.67,Weekend
+ORD100185,2026-06-20,Delhi,Electronics,Power Bank,3.0,1015.85,20.0,Debit Card,31.0,4.0,2438.0400000000004,Weekend
+ORD100281,2026-04-01,Delhi,Fashion,Running Shoes,1.0,2625.48,5.0,UPI,37.0,4.0,2494.2059999999997,Weekday
+ORD100339,2026-02-24,Bengaluru,Home & Kitchen,LED Lamp,3.0,630.45,5.0,Unknown,34.0,3.0,1796.7825,Weekday
+ORD101203,2026-02-19,Bengaluru,Electronics,Smart Watch,2.0,2798.88,20.0,Debit Card,31.0,4.0,4478.2080000000005,Weekday
+ORD101750,2026-03-26,Pune,Electronics,Power Bank,2.0,1014.55,5.0,UPI,35.0,3.0,1927.6449999999998,Weekday
+ORD101169,2026-06-29,Hyderabad,Beauty,Sunscreen SPF50,1.0,401.13,5.0,Debit Card,29.0,5.0,381.07349999999997,Weekday
+ORD100701,2026-02-17,Delhi,Grocery,Honey Jar,1.0,302.12,0.0,Credit Card,36.0,3.0,302.12,Weekday
+ORD100720,2026-01-22,Bengaluru,Grocery,Almonds 500g,2.0,554.1,0.0,Debit Card,24.0,4.0,1108.2,Weekday
+ORD100898,2026-04-30,Mumbai,Grocery,Almonds 500g,2.0,566.85,0.0,Debit Card,27.0,4.0,1133.7,Weekday
+ORD100430,2026-03-28,Pune,Fashion,Backpack,2.0,1268.62,0.0,Debit Card,25.0,1.0,2537.24,Weekend
+ORD100389,2026-02-20,Mumbai,Grocery,Honey Jar,2.0,310.4,0.0,UPI,17.0,2.0,620.8,Weekday
+ORD100372,2026-03-04,Chennai,Beauty,Hair Serum,2.0,535.21,0.0,Net Banking,34.0,,1070.42,Weekday
+ORD100725,2026-06-30,Pune,Electronics,Power Bank,2.0,1042.77,0.0,Debit Card,23.0,,2085.54,Weekday
+ORD101171,2026-03-13,Delhi,Grocery,Almonds 500g,2.0,556.83,20.0,UPI,22.0,4.0,890.9280000000001,Weekday
+ORD100841,2026-03-15,Pune,Electronics,Power Bank,4.0,974.96,5.0,Net Banking,31.0,5.0,3704.848,Weekend
+ORD101058,2026-06-30,Mumbai,Grocery,Green Tea Pack,1.0,241.41,0.0,Credit Card,21.0,4.0,241.41,Weekday
+ORD100871,2026-04-14,Hyderabad,Grocery,Almonds 500g,1.0,559.08,0.0,Credit Card,48.0,3.0,559.08,Weekday
+ORD100358,2026-02-23,Chennai,Home & Kitchen,Non-stick Pan,1.0,820.9,5.0,Net Banking,40.0,3.0,779.8549999999999,Weekday
+ORD101785,2026-03-03,Mumbai,Electronics,Smart Watch,1.0,2989.43,0.0,UPI,41.0,,2989.43,Weekday
+ORD100140,2026-06-30,Mumbai,Grocery,Almonds 500g,1.0,525.47,20.0,Debit Card,16.0,5.0,420.37600000000003,Weekday
+ORD101423,2026-05-10,Pune,Grocery,Basmati Rice 5kg,1.0,672.86,15.0,UPI,36.0,,571.931,Weekend
+ORD100765,2026-03-17,Delhi,Electronics,USB-C Cable,1.0,299.49,5.0,Debit Card,42.0,4.0,284.5155,Weekday
+ORD100146,2026-03-15,Mumbai,Fashion,Cotton T-Shirt,2.0,595.84,5.0,UPI,25.0,5.0,1132.096,Weekend
+ORD100116,2026-06-02,Pune,Grocery,Green Tea Pack,3.0,247.19,0.0,Debit Card,40.0,4.0,741.5699999999999,Weekday
+ORD101025,2026-01-25,Chennai,Grocery,Almonds 500g,1.0,538.35,10.0,Debit Card,24.0,4.0,484.51500000000004,Weekend
+ORD100002,2026-05-31,Bengaluru,Home & Kitchen,Non-stick Pan,2.0,770.97,15.0,Debit Card,44.0,2.0,1310.6490000000001,Weekend
+ORD100698,2026-06-12,Bengaluru,Grocery,Basmati Rice 5kg,1.0,670.36,0.0,Debit Card,36.0,,670.36,Weekday
+ORD100367,2026-03-10,Bengaluru,Electronics,Power Bank,1.0,1020.34,5.0,Credit Card,22.0,5.0,969.323,Weekday
+ORD100556,2026-06-11,Pune,Grocery,Almonds 500g,2.0,523.93,0.0,Credit Card,23.0,3.0,1047.86,Weekday
+ORD100558,2026-01-05,Chennai,Electronics,Smart Watch,3.0,3204.56,5.0,UPI,16.0,2.0,9132.996,Weekday
+ORD100463,2026-05-12,Chennai,Beauty,Face Wash,3.0,247.47,0.0,Debit Card,32.0,,742.41,Weekday
+ORD101164,2026-03-12,Hyderabad,Electronics,Bluetooth Speaker,1.0,1940.46,10.0,UPI,35.0,,1746.414,Weekday
+ORD100788,2026-01-14,Bengaluru,Beauty,Hair Serum,4.0,537.49,0.0,Credit Card,33.0,5.0,2149.96,Weekday
+ORD101253,2026-02-01,Bengaluru,Fashion,Denim Jacket,1.0,1798.61,20.0,UPI,28.0,1.0,1438.888,Weekend
+ORD100452,2026-05-30,Chennai,Electronics,Smart Watch,3.0,2945.25,0.0,Debit Card,34.0,3.0,8835.75,Weekend
+ORD101764,2026-01-24,Mumbai,Home & Kitchen,LED Lamp,1.0,593.87,0.0,Cash on Delivery,35.0,2.0,593.87,Weekend
+ORD101408,2026-01-17,Delhi,Home & Kitchen,Storage Containers,2.0,475.36,0.0,UPI,24.0,,950.72,Weekend
+ORD100071,2026-02-03,Hyderabad,Electronics,USB-C Cable,2.0,296.92,10.0,UPI,40.0,2.0,534.456,Weekday
+ORD100204,2026-04-13,Bengaluru,Fashion,Running Shoes,3.0,2513.07,10.0,UPI,31.0,,6785.289000000001,Weekday
+ORD100313,2026-03-24,Bengaluru,Electronics,USB-C Cable,3.0,282.9,5.0,UPI,30.0,4.0,806.2649999999999,Weekday
+ORD100669,2026-06-10,Delhi,Home & Kitchen,Non-stick Pan,1.0,812.45,0.0,UPI,23.0,4.0,812.45,Weekday
+ORD101598,2026-02-18,Bengaluru,Home & Kitchen,Cushion Cover,1.0,361.1,0.0,UPI,25.0,5.0,361.1,Weekday
+ORD100241,2026-01-25,Delhi,Electronics,Wireless Earbuds,1.0,1442.44,0.0,UPI,19.0,1.0,1442.44,Weekend
+ORD100229,2026-04-12,Delhi,Electronics,USB-C Cable,4.0,287.58,0.0,Debit Card,16.0,5.0,1150.32,Weekend
+ORD100004,2026-03-27,Mumbai,Grocery,Honey Jar,2.0,313.52,0.0,Debit Card,40.0,3.0,627.04,Weekday
+ORD101318,2026-04-01,Bengaluru,Beauty,Face Wash,1.0,254.61,5.0,UPI,23.0,4.0,241.8795,Weekday
+ORD100967,2026-02-25,Mumbai,Fashion,Running Shoes,1.0,2435.77,0.0,UPI,32.0,3.0,2435.77,Weekday
+ORD101276,2026-05-29,Bengaluru,Fashion,Sunglasses,3.0,906.85,10.0,Credit Card,44.0,2.0,2448.4950000000003,Weekday
+ORD100299,2026-06-06,Mumbai,Fashion,Denim Jacket,2.0,1798.84,0.0,Cash on Delivery,31.0,2.0,3597.68,Weekend
+ORD101329,2026-04-04,Pune,Electronics,Wireless Earbuds,2.0,1415.98,5.0,Debit Card,32.0,,2690.362,Weekend
+ORD100635,2026-06-07,Pune,Beauty,Lip Balm,3.0,144.63,0.0,Net Banking,21.0,,433.89,Weekend
+ORD100179,2026-05-15,Delhi,Home & Kitchen,LED Lamp,2.0,606.55,0.0,Debit Card,20.0,4.0,1213.1,Weekday
+ORD101426,2026-03-16,Delhi,Fashion,Running Shoes,3.0,2460.11,0.0,UPI,24.0,4.0,7380.33,Weekday
+ORD101368,2026-04-17,Delhi,Home & Kitchen,Non-stick Pan,1.0,761.15,0.0,Credit Card,26.0,4.0,761.15,Weekday
+ORD101724,2026-05-10,Bengaluru,Fashion,Backpack,3.0,1340.87,0.0,Debit Card,32.0,5.0,4022.6099999999997,Weekend
+ORD100964,2026-05-06,Bengaluru,Home & Kitchen,Cushion Cover,2.0,353.78,5.0,Credit Card,37.0,4.0,672.1819999999999,Weekday
+ORD100602,2026-04-24,Bengaluru,Beauty,Moisturizer,5.0,439.17,0.0,Debit Card,22.0,4.0,2195.85,Weekday
+ORD101085,2026-03-18,Mumbai,Fashion,Sunglasses,2.0,877.4,0.0,Net Banking,31.0,3.0,1754.8,Weekday
+ORD100664,2026-04-07,Chennai,Electronics,Power Bank,3.0,1025.16,5.0,Cash on Delivery,44.0,5.0,2921.706,Weekday
+ORD100474,2026-01-13,Bengaluru,Grocery,Almonds 500g,1.0,561.85,25.0,UPI,21.0,5.0,421.38750000000005,Weekday
+ORD101046,2026-04-10,Bengaluru,Home & Kitchen,LED Lamp,1.0,588.8,0.0,UPI,33.0,,588.8,Weekday
+ORD100638,2026-03-15,Bengaluru,Home & Kitchen,Cushion Cover,3.0,354.61,10.0,UPI,45.0,3.0,957.447,Weekend
+ORD100375,2026-04-28,Pune,Beauty,Moisturizer,2.0,451.59,0.0,Credit Card,34.0,5.0,903.18,Weekday
+ORD100716,2026-04-01,Mumbai,Electronics,Power Bank,3.0,981.23,10.0,UPI,25.0,3.0,2649.321,Weekday
+ORD100357,2026-06-27,Mumbai,Grocery,Basmati Rice 5kg,2.0,662.87,5.0,UPI,36.0,1.0,1259.453,Weekend
+ORD100377,2026-06-01,Chennai,Electronics,USB-C Cable,1.0,286.89,0.0,UPI,48.0,2.0,286.89,Weekday
+ORD100681,2026-02-03,Pune,Electronics,USB-C Cable,4.0,302.04,0.0,Debit Card,19.0,5.0,1208.16,Weekday
+ORD101395,2026-03-04,Delhi,Electronics,Bluetooth Speaker,1.0,1896.97,15.0,Credit Card,26.0,4.0,1612.4245,Weekday
+ORD101338,2026-01-09,Bengaluru,Electronics,Smart Watch,1.0,3068.64,5.0,UPI,33.0,4.0,2915.2079999999996,Weekday
+ORD101345,2026-03-14,Delhi,Electronics,Bluetooth Speaker,3.0,1930.97,0.0,Debit Card,34.0,,5792.91,Weekend
+ORD100308,2026-04-02,Delhi,Beauty,Face Wash,3.0,252.76,0.0,Debit Card,24.0,2.0,758.28,Weekday
+ORD100879,2026-04-04,Bengaluru,Grocery,Honey Jar,6.0,302.23,0.0,Debit Card,32.0,5.0,1813.38,Weekend
+ORD101589,2026-04-24,Mumbai,Home & Kitchen,Electric Kettle,1.0,1090.73,5.0,UPI,49.0,3.0,1036.1934999999999,Weekday
+ORD100829,2026-06-12,Pune,Electronics,Wireless Earbuds,1.0,1508.18,5.0,UPI,17.0,5.0,1432.771,Weekday
+ORD101256,2026-01-02,Bengaluru,Fashion,Denim Jacket,3.0,1847.35,0.0,UPI,43.0,3.0,5542.049999999999,Weekday
+ORD100640,2026-02-23,Delhi,Beauty,Hair Serum,1.0,538.25,0.0,Net Banking,51.0,4.0,538.25,Weekday
+ORD100344,2026-02-14,Hyderabad,Fashion,Denim Jacket,3.0,1788.56,10.0,Debit Card,32.0,3.0,4829.112,Weekend
+ORD101630,2026-06-16,Mumbai,Home & Kitchen,Non-stick Pan,1.0,854.87,5.0,UPI,44.0,5.0,812.1265,Weekday
+ORD100587,2026-06-20,Pune,Grocery,Almonds 500g,1.0,547.84,15.0,Debit Card,40.0,,465.664,Weekend
+ORD101364,2026-03-15,Mumbai,Grocery,Basmati Rice 5kg,2.0,674.98,0.0,Credit Card,28.0,3.0,1349.96,Weekend
+ORD100275,2026-03-03,Hyderabad,Home & Kitchen,Storage Containers,1.0,503.1,0.0,Credit Card,47.0,4.0,503.1,Weekday
+ORD101553,2026-05-03,Bengaluru,Grocery,Almonds 500g,2.0,562.98,25.0,Debit Card,30.0,,844.47,Weekend
+ORD100351,2026-06-06,Pune,Electronics,USB-C Cable,4.0,305.64,0.0,UPI,31.0,,1222.56,Weekend
+ORD101077,2026-02-27,Delhi,Electronics,Bluetooth Speaker,1.0,1908.11,5.0,Credit Card,16.0,5.0,1812.7044999999998,Weekday
+ORD100412,2026-05-15,Pune,Electronics,Power Bank,1.0,1010.85,0.0,Debit Card,16.0,,1010.85,Weekday
+ORD101156,2026-05-11,Hyderabad,Electronics,Power Bank,1.0,1004.99,0.0,Net Banking,26.0,4.0,1004.99,Weekday
+ORD101497,2026-03-31,Mumbai,Electronics,Wireless Earbuds,4.0,1461.13,15.0,UPI,25.0,,4967.842000000001,Weekday
+ORD100863,2026-04-28,Mumbai,Electronics,Bluetooth Speaker,1.0,1926.32,0.0,Credit Card,49.0,4.0,1926.32,Weekday
+ORD101034,2026-02-27,Bengaluru,Beauty,Sunscreen SPF50,2.0,414.09,10.0,UPI,23.0,3.0,745.362,Weekday
+ORD101240,2026-03-14,Pune,Fashion,Sunglasses,1.0,886.44,0.0,Net Banking,30.0,5.0,886.44,Weekend
+ORD100997,2026-05-25,Bengaluru,Grocery,Basmati Rice 5kg,1.0,637.44,0.0,Debit Card,32.0,3.0,637.44,Weekday
+ORD100415,2026-05-10,Pune,Electronics,Smart Watch,2.0,2962.85,25.0,Credit Card,33.0,,4444.275,Weekend
+ORD100954,2026-06-12,Delhi,Home & Kitchen,Electric Kettle,4.0,1138.73,0.0,UPI,17.0,4.0,4554.92,Weekday
+ORD101699,2026-06-06,Mumbai,Electronics,Wireless Earbuds,2.0,1424.91,0.0,Debit Card,27.0,4.0,2849.82,Weekend
+ORD101313,2026-01-31,Delhi,Home & Kitchen,Electric Kettle,3.0,1081.03,0.0,Credit Card,38.0,4.0,3243.09,Weekend
+ORD101320,2026-01-15,Mumbai,Grocery,Cooking Oil 1L,2.0,194.23,5.0,Debit Card,30.0,,369.037,Weekday
+ORD101743,2026-04-28,Pune,Grocery,Cooking Oil 1L,2.0,194.19,0.0,UPI,35.0,2.0,388.38,Weekday
+ORD101747,2026-02-17,Hyderabad,Electronics,Bluetooth Speaker,1.0,1896.97,0.0,Credit Card,34.0,4.0,1896.97,Weekday
+ORD100111,2026-03-22,Hyderabad,Electronics,Smart Watch,3.0,3021.01,25.0,Debit Card,34.0,3.0,6797.272500000001,Weekend
+ORD101487,2026-02-11,Delhi,Home & Kitchen,Electric Kettle,2.0,1043.23,0.0,Debit Card,34.0,3.0,2086.46,Weekday
+ORD101369,2026-06-13,Bengaluru,Beauty,Moisturizer,1.0,434.81,0.0,Net Banking,43.0,5.0,434.81,Weekend
+ORD100141,2026-03-16,Hyderabad,Electronics,Smart Watch,3.0,3095.94,0.0,UPI,34.0,4.0,9287.82,Weekday
+ORD100544,2026-03-13,Delhi,Fashion,Denim Jacket,1.0,1775.1,0.0,Cash on Delivery,18.0,,1775.1,Weekday
+ORD101765,2026-05-04,Delhi,Grocery,Basmati Rice 5kg,1.0,625.96,15.0,Debit Card,16.0,4.0,532.066,Weekday
+ORD100287,2026-06-17,Bengaluru,Electronics,Bluetooth Speaker,1.0,1847.5,0.0,Debit Card,19.0,,1847.5,Weekday
+ORD101118,2026-02-13,Delhi,Electronics,Bluetooth Speaker,1.0,1860.43,0.0,UPI,26.0,3.0,1860.43,Weekday
+ORD101664,2026-01-20,Bengaluru,Home & Kitchen,Non-stick Pan,1.0,781.38,0.0,Credit Card,48.0,3.0,781.38,Weekday
+ORD100449,2026-04-06,Hyderabad,Home & Kitchen,Cushion Cover,4.0,358.34,0.0,UPI,18.0,,1433.36,Weekday
+ORD101133,2026-06-09,Bengaluru,Home & Kitchen,Cushion Cover,1.0,359.15,0.0,Credit Card,40.0,2.0,359.15,Weekday
+ORD100729,2026-01-29,Delhi,Electronics,USB-C Cable,1.0,307.31,0.0,Credit Card,22.0,4.0,307.31,Weekday
+ORD100284,2026-01-05,Mumbai,Electronics,Wireless Earbuds,2.0,1510.5,10.0,UPI,40.0,,2718.9,Weekday
+ORD101692,2026-02-02,Bengaluru,Beauty,Hair Serum,4.0,558.96,5.0,UPI,38.0,2.0,2124.0480000000002,Weekday
+ORD101172,2026-04-23,Hyderabad,Beauty,Face Wash,2.0,263.89,0.0,UPI,47.0,1.0,527.78,Weekday
+ORD100465,2026-02-20,Chennai,Fashion,Sunglasses,3.0,913.92,25.0,Credit Card,35.0,,2056.3199999999997,Weekday
+ORD100172,2026-06-02,Bengaluru,Home & Kitchen,Storage Containers,2.0,500.29,25.0,Debit Card,22.0,,750.4350000000001,Weekday
+ORD101355,2026-02-13,Bengaluru,Fashion,Sunglasses,1.0,847.18,0.0,Debit Card,44.0,4.0,847.18,Weekday
+ORD100920,2026-03-27,Pune,Grocery,Almonds 500g,1.0,552.69,10.0,UPI,34.0,5.0,497.42100000000005,Weekday
+ORD101400,2026-04-14,Hyderabad,Home & Kitchen,Cushion Cover,2.0,355.72,0.0,UPI,40.0,3.0,711.44,Weekday
+ORD100278,2026-04-20,Delhi,Fashion,Backpack,2.0,1303.8,5.0,Credit Card,30.0,,2477.22,Weekday
+ORD101122,2026-03-31,Hyderabad,Beauty,Face Wash,1.0,251.04,0.0,Credit Card,25.0,3.0,251.04,Weekday
+ORD100694,2026-06-30,Bengaluru,Electronics,Wireless Earbuds,4.0,1535.65,10.0,Credit Card,23.0,4.0,5528.34,Weekday
+ORD101660,2026-02-03,Bengaluru,Home & Kitchen,Non-stick Pan,1.0,825.25,25.0,UPI,34.0,5.0,618.9375,Weekday
+ORD100611,2026-06-02,Bengaluru,Home & Kitchen,Non-stick Pan,1.0,812.03,0.0,Debit Card,19.0,,812.03,Weekday
+ORD100507,2026-01-25,Mumbai,Beauty,Sunscreen SPF50,4.0,409.17,5.0,Credit Card,37.0,1.0,1554.846,Weekend
+ORD100095,2026-01-13,Delhi,Home & Kitchen,Non-stick Pan,1.0,819.97,0.0,Cash on Delivery,40.0,4.0,819.97,Weekday
+ORD100447,2026-02-19,Bengaluru,Home & Kitchen,Cushion Cover,1.0,345.39,0.0,UPI,23.0,5.0,345.39,Weekday
+ORD100742,2026-01-06,Chennai,Beauty,Moisturizer,3.0,436.72,10.0,Net Banking,48.0,,1179.144,Weekday
+ORD101319,2026-06-08,Pune,Fashion,Denim Jacket,3.0,1882.5,10.0,Credit Card,17.0,4.0,5082.75,Weekday
+ORD101241,2026-03-04,Bengaluru,Electronics,Smart Watch,1.0,2916.49,15.0,Credit Card,28.0,4.0,2479.0164999999997,Weekday
+ORD100200,2026-02-12,Delhi,Beauty,Moisturizer,4.0,479.79,25.0,Credit Card,41.0,5.0,1439.3700000000001,Weekday
+ORD100007,2026-03-17,Bengaluru,Electronics,Wireless Earbuds,2.0,1470.62,15.0,Net Banking,35.0,5.0,2500.0539999999996,Weekday
+ORD100101,2026-03-31,Bengaluru,Electronics,Bluetooth Speaker,2.0,1829.39,5.0,Credit Card,30.0,1.0,3475.841,Weekday
+ORD100921,2026-02-18,Hyderabad,Home & Kitchen,Non-stick Pan,3.0,794.51,0.0,Net Banking,20.0,5.0,2383.5299999999997,Weekday
+ORD101774,2026-01-10,Pune,Beauty,Sunscreen SPF50,2.0,389.09,0.0,UPI,21.0,3.0,778.18,Weekend
+ORD101684,2026-03-15,Chennai,Electronics,USB-C Cable,3.0,281.04,0.0,Debit Card,29.0,,843.1200000000001,Weekend
+ORD100671,2026-04-30,Bengaluru,Beauty,Sunscreen SPF50,2.0,389.93,25.0,Debit Card,35.0,,584.895,Weekday
+ORD101381,2026-02-24,Chennai,Home & Kitchen,LED Lamp,1.0,609.98,0.0,UPI,48.0,,609.98,Weekday
+ORD100747,2026-06-17,Mumbai,Beauty,Moisturizer,2.0,450.92,0.0,Debit Card,38.0,4.0,901.84,Weekday
+ORD101106,2026-02-26,Mumbai,Electronics,Smart Watch,1.0,2848.15,0.0,Credit Card,32.0,3.0,2848.15,Weekday
+ORD100108,2026-05-08,Mumbai,Home & Kitchen,Cushion Cover,1.0,334.93,10.0,UPI,32.0,4.0,301.437,Weekday
+ORD101584,2026-03-08,Hyderabad,Electronics,Smart Watch,1.0,2996.88,0.0,UPI,30.0,1.0,2996.88,Weekend
+ORD100419,2026-01-16,Delhi,Grocery,Green Tea Pack,2.0,256.72,0.0,UPI,37.0,2.0,513.44,Weekday
+ORD101215,2026-06-17,Delhi,Home & Kitchen,Electric Kettle,1.0,1075.16,0.0,Debit Card,41.0,4.0,1075.16,Weekday
+ORD101126,2026-01-04,Delhi,Fashion,Sunglasses,2.0,935.76,0.0,UPI,29.0,,1871.52,Weekend
+ORD100206,2026-02-02,Pune,Fashion,Denim Jacket,1.0,1753.34,5.0,UPI,32.0,5.0,1665.6729999999998,Weekday
+ORD100658,2026-02-21,Pune,Fashion,Sunglasses,1.0,897.23,0.0,Cash on Delivery,43.0,,897.23,Weekend
+ORD100992,2026-02-13,Delhi,Grocery,Almonds 500g,2.0,548.13,0.0,Debit Card,34.0,,1096.26,Weekday
+ORD100060,2026-05-25,Hyderabad,Fashion,Denim Jacket,3.0,1828.19,0.0,Credit Card,34.0,3.0,5484.57,Weekday
+ORD100930,2026-05-24,Bengaluru,Fashion,Sunglasses,4.0,901.88,20.0,UPI,17.0,3.0,2886.016,Weekend
+ORD101391,2026-01-12,Chennai,Home & Kitchen,Cushion Cover,4.0,350.52,5.0,Credit Card,27.0,5.0,1331.9759999999999,Weekday
+ORD100376,2026-05-10,Mumbai,Grocery,Cooking Oil 1L,4.0,182.01,0.0,Cash on Delivery,34.0,,728.04,Weekend
+ORD100450,2026-01-21,Hyderabad,Beauty,Hair Serum,3.0,558.94,0.0,UPI,59.0,3.0,1676.8200000000002,Weekday
+ORD100862,2026-01-26,Delhi,Electronics,USB-C Cable,2.0,302.08,0.0,Debit Card,16.0,3.0,604.16,Weekday
+ORD100194,2026-05-08,Pune,Home & Kitchen,Electric Kettle,2.0,1050.13,0.0,Debit Card,24.0,,2100.26,Weekday
+ORD100789,2026-03-14,Pune,Grocery,Honey Jar,2.0,299.07,10.0,Debit Card,36.0,5.0,538.326,Weekend
+ORD101698,2026-06-10,Hyderabad,Fashion,Denim Jacket,1.0,1811.7,10.0,Debit Card,28.0,1.0,1630.53,Weekday
+ORD101166,2026-02-02,Bengaluru,Grocery,Cooking Oil 1L,3.0,200.86,0.0,Debit Card,37.0,4.0,602.58,Weekday
+ORD101158,2026-06-01,Delhi,Fashion,Backpack,1.0,1358.9,0.0,UPI,36.0,5.0,1358.9,Weekday
+ORD101298,2026-06-23,Bengaluru,Beauty,Lip Balm,2.0,149.57,10.0,UPI,38.0,5.0,269.226,Weekday
+ORD101720,2026-01-03,Bengaluru,Fashion,Cotton T-Shirt,3.0,615.66,15.0,UPI,32.0,3.0,1569.933,Weekend
+ORD101644,2026-01-20,Mumbai,Fashion,Running Shoes,1.0,2480.32,5.0,UPI,16.0,,2356.304,Weekday
+ORD101412,2026-01-08,Delhi,Electronics,Smart Watch,1.0,3027.47,0.0,UPI,31.0,3.0,3027.47,Weekday
+ORD101128,2026-03-28,Hyderabad,Home & Kitchen,Storage Containers,3.0,487.28,0.0,UPI,42.0,5.0,1461.84,Weekend
+ORD100705,2026-05-27,Pune,Grocery,Honey Jar,2.0,289.73,0.0,UPI,44.0,4.0,579.46,Weekday
+ORD100517,2026-06-29,Mumbai,Home & Kitchen,Storage Containers,2.0,502.69,0.0,Cash on Delivery,19.0,5.0,1005.38,Weekday
+ORD101216,2026-06-22,Pune,Home & Kitchen,Electric Kettle,1.0,1087.34,0.0,Net Banking,32.0,3.0,1087.34,Weekday
+ORD100800,2026-04-26,Chennai,Electronics,Smart Watch,3.0,2902.02,5.0,Cash on Delivery,16.0,4.0,8270.757,Weekend
+ORD100688,2026-03-29,Bengaluru,Electronics,Smart Watch,2.0,3001.16,0.0,Net Banking,45.0,3.0,6002.32,Weekend
+ORD100562,2026-01-17,Delhi,Fashion,Sunglasses,1.0,933.26,0.0,UPI,31.0,4.0,933.26,Weekend
+ORD101081,2026-01-04,Mumbai,Home & Kitchen,Cushion Cover,3.0,354.61,0.0,Net Banking,32.0,5.0,1063.83,Weekend
+ORD101280,2026-01-09,Bengaluru,Electronics,Power Bank,1.0,1018.87,10.0,UPI,37.0,4.0,916.9830000000001,Weekday
+ORD101544,2026-03-01,Chennai,Fashion,Running Shoes,1.0,2550.59,0.0,Credit Card,35.0,4.0,2550.59,Weekend
+ORD100028,2026-05-14,Delhi,Grocery,Almonds 500g,2.0,550.5550000000001,10.0,UPI,31.0,3.0,990.9990000000001,Weekday
+ORD101151,2026-06-30,Chennai,Home & Kitchen,Cushion Cover,2.0,343.84,10.0,Net Banking,31.0,4.0,618.9119999999999,Weekday
+ORD100779,2026-05-27,Delhi,Grocery,Green Tea Pack,2.0,258.76,0.0,Cash on Delivery,23.0,3.0,517.52,Weekday
+ORD101132,2026-01-04,Mumbai,Home & Kitchen,Non-stick Pan,1.0,803.59,0.0,UPI,30.0,,803.59,Weekend
+ORD100492,2026-05-16,Delhi,Home & Kitchen,Electric Kettle,2.0,1078.08,0.0,Credit Card,23.0,,2156.16,Weekend
+ORD100892,2026-02-01,Mumbai,Fashion,Backpack,1.0,1185.9,5.0,UPI,32.0,,1126.605,Weekend
+ORD100224,2026-02-05,Bengaluru,Fashion,Sunglasses,2.0,940.96,10.0,Credit Card,28.0,4.0,1693.728,Weekday
+ORD100797,2026-02-15,Pune,Fashion,Sunglasses,2.0,873.09,25.0,Credit Card,33.0,,1309.635,Weekend
+ORD100051,2026-06-26,Mumbai,Fashion,Backpack,1.0,1301.56,0.0,Credit Card,32.0,5.0,1301.56,Weekday
+ORD100341,2026-02-17,Pune,Beauty,Face Wash,2.0,251.81,5.0,Cash on Delivery,31.0,5.0,478.43899999999996,Weekday
+ORD101629,2026-03-12,Mumbai,Electronics,USB-C Cable,1.0,275.71,15.0,UPI,23.0,,234.35349999999997,Weekday
+ORD101194,2026-04-09,Mumbai,Home & Kitchen,LED Lamp,2.0,596.25,0.0,Debit Card,28.0,5.0,1192.5,Weekday
+ORD101490,2026-01-18,Mumbai,Fashion,Backpack,1.0,1332.01,20.0,Credit Card,28.0,,1065.608,Weekend
+ORD100504,2026-03-24,Chennai,Grocery,Cooking Oil 1L,1.0,191.14,5.0,UPI,27.0,,181.58299999999997,Weekday
+ORD101711,2026-06-30,Hyderabad,Electronics,Bluetooth Speaker,1.0,1891.59,0.0,UPI,34.0,4.0,1891.59,Weekday
+ORD101022,2026-06-23,Chennai,Grocery,Almonds 500g,1.0,550.5550000000001,0.0,Net Banking,30.0,3.0,550.5550000000001,Weekday
+ORD100328,2026-01-20,Delhi,Fashion,Running Shoes,1.0,2558.14,15.0,Credit Card,21.0,1.0,2174.419,Weekday
+ORD100263,2026-05-17,Mumbai,Grocery,Honey Jar,1.0,313.8,0.0,Credit Card,40.0,3.0,313.8,Weekend
+ORD100324,2026-06-20,Hyderabad,Home & Kitchen,LED Lamp,1.0,620.58,0.0,Credit Card,47.0,,620.58,Weekend
+ORD100621,2026-02-18,Chennai,Home & Kitchen,Non-stick Pan,2.0,816.69,0.0,UPI,16.0,3.0,1633.38,Weekday
+ORD100704,2026-03-19,Mumbai,Electronics,Wireless Earbuds,1.0,1442.37,0.0,Cash on Delivery,21.0,,1442.37,Weekday
+ORD100540,2026-04-17,Mumbai,Electronics,Wireless Earbuds,2.0,1476.81,5.0,Debit Card,33.0,1.0,2805.939,Weekday
+ORD101453,2026-01-26,Chennai,Grocery,Cooking Oil 1L,3.0,190.27,0.0,Debit Card,22.0,2.0,570.8100000000001,Weekday
+ORD101528,2026-06-26,Delhi,Fashion,Backpack,1.0,1332.61,5.0,UPI,18.0,4.0,1265.9795,Weekday
+ORD101050,2026-05-02,Mumbai,Grocery,Almonds 500g,3.0,557.98,0.0,UPI,42.0,5.0,1673.94,Weekend
+ORD100098,2026-02-27,Hyderabad,Fashion,Backpack,1.0,1326.01,0.0,Unknown,31.0,3.0,1326.01,Weekday
+ORD101612,2026-02-13,Delhi,Grocery,Basmati Rice 5kg,1.0,622.25,20.0,UPI,30.0,4.0,497.8,Weekday
+ORD100298,2026-02-10,Delhi,Electronics,Smart Watch,3.0,2983.62,0.0,Cash on Delivery,37.0,,8950.86,Weekday
+ORD100649,2026-01-31,Delhi,Electronics,USB-C Cable,2.0,299.49,15.0,UPI,30.0,,509.133,Weekend
+ORD101346,2026-05-20,Bengaluru,Electronics,Wireless Earbuds,2.0,1429.09,0.0,UPI,33.0,4.0,2858.18,Weekday
+ORD100012,2026-04-20,Delhi,Electronics,Wireless Earbuds,2.0,1567.19,0.0,UPI,33.0,1.0,3134.38,Weekday
+ORD101529,2026-05-20,Mumbai,Fashion,Backpack,1.0,1295.09,10.0,Debit Card,40.0,2.0,1165.581,Weekday
+ORD101274,2026-03-20,Bengaluru,Home & Kitchen,LED Lamp,1.0,602.87,0.0,Cash on Delivery,20.0,,602.87,Weekday
+ORD100167,2026-05-07,Hyderabad,Fashion,Sunglasses,2.0,863.41,10.0,UPI,45.0,3.0,1554.138,Weekday
+ORD101114,2026-04-02,Delhi,Home & Kitchen,Cushion Cover,1.0,358.36,5.0,UPI,30.0,3.0,340.442,Weekday
+ORD100514,2026-05-09,Pune,Electronics,USB-C Cable,1.0,295.18,25.0,Debit Card,28.0,4.0,221.385,Weekend
+ORD100188,2026-06-19,Bengaluru,Grocery,Green Tea Pack,1.0,248.24,0.0,UPI,39.0,4.0,248.24,Weekday
+ORD101332,2026-01-03,Delhi,Home & Kitchen,Cushion Cover,3.0,360.85,5.0,Net Banking,33.0,5.0,1028.4225000000001,Weekend
+ORD100043,2026-02-28,Mumbai,Electronics,USB-C Cable,2.0,-308.58,0.0,Debit Card,41.0,5.0,-617.16,Weekend
+ORD100975,2026-01-14,Mumbai,Fashion,Running Shoes,1.0,2491.33,0.0,Net Banking,18.0,4.0,2491.33,Weekday
+ORD100009,2026-04-09,Pune,Fashion,Sunglasses,2.0,904.34,0.0,UPI,36.0,,1808.68,Weekday
+ORD101231,2026-05-02,Pune,Electronics,USB-C Cable,2.0,305.21,5.0,UPI,28.0,,579.8989999999999,Weekend
+ORD100147,2026-06-04,Bengaluru,Electronics,USB-C Cable,1.0,305.09,10.0,UPI,22.0,2.0,274.58099999999996,Weekday
+ORD100386,2026-05-10,Bengaluru,Beauty,Moisturizer,5.0,444.1,0.0,UPI,40.0,,2220.5,Weekend
+ORD100013,2026-03-05,Bengaluru,Fashion,Running Shoes,2.0,2513.35,0.0,UPI,32.0,4.0,5026.7,Weekday
+ORD101268,2026-02-03,Mumbai,Electronics,Smart Watch,3.0,3072.99,10.0,UPI,20.0,,8297.073,Weekday
+ORD100353,2026-05-01,Delhi,Electronics,Wireless Earbuds,2.0,1514.46,0.0,Credit Card,52.0,,3028.92,Weekday
+ORD100795,2026-02-17,Hyderabad,Fashion,Cotton T-Shirt,4.0,579.49,20.0,Net Banking,26.0,4.0,1854.3680000000002,Weekday
+ORD101315,2026-06-13,Delhi,Fashion,Backpack,2.0,1274.37,0.0,Net Banking,35.0,5.0,2548.74,Weekend
+ORD100702,2026-02-10,Mumbai,Fashion,Backpack,2.0,1325.25,0.0,UPI,28.0,,2650.5,Weekday
+ORD100746,2026-05-07,Pune,Electronics,Smart Watch,1.0,2930.42,5.0,Net Banking,16.0,,2783.899,Weekday
+ORD100571,2026-05-05,Bengaluru,Beauty,Moisturizer,1.0,462.97,0.0,UPI,28.0,,462.97,Weekday
+ORD100546,2026-02-13,Hyderabad,Grocery,Honey Jar,1.0,298.65,0.0,Net Banking,33.0,4.0,298.65,Weekday
+ORD101722,2026-06-05,Pune,Electronics,Bluetooth Speaker,1.0,1879.06,0.0,UPI,29.0,3.0,1879.06,Weekday
+ORD101269,2026-06-07,Delhi,Grocery,Cooking Oil 1L,3.0,188.83,10.0,UPI,40.0,1.0,509.841,Weekend
+ORD100484,2026-02-02,Chennai,Home & Kitchen,Storage Containers,2.0,495.47,0.0,Cash on Delivery,36.0,5.0,990.94,Weekday
+ORD101726,2026-01-22,Delhi,Electronics,Wireless Earbuds,2.0,1433.97,20.0,Debit Card,27.0,4.0,2294.3520000000003,Weekday
+ORD100858,2026-03-09,Bengaluru,Fashion,Backpack,1.0,1303.54,0.0,UPI,16.0,,1303.54,Weekday
+ORD101413,2026-04-12,Delhi,Grocery,Basmati Rice 5kg,2.0,654.53,5.0,Credit Card,41.0,3.0,1243.607,Weekend
+ORD101793,2026-03-25,Pune,Beauty,Moisturizer,2.0,459.52,10.0,Unknown,32.0,4.0,827.136,Weekday
+ORD100115,2026-02-08,Chennai,Beauty,Moisturizer,2.0,455.25,0.0,Net Banking,47.0,4.0,910.5,Weekend
+ORD101543,2026-04-21,Mumbai,Fashion,Cotton T-Shirt,1.0,558.13,0.0,Net Banking,31.0,5.0,558.13,Weekday
+ORD101713,2026-03-24,Chennai,Fashion,Denim Jacket,4.0,1793.29,0.0,Credit Card,42.0,,7173.16,Weekday
+ORD100096,2026-01-30,Mumbai,Fashion,Backpack,1.0,1305.41,20.0,UPI,32.0,,1044.3280000000002,Weekday
+ORD100748,2026-04-30,Mumbai,Electronics,Power Bank,1.0,1020.84,10.0,UPI,30.0,5.0,918.7560000000001,Weekday
+ORD100790,2026-02-17,Pune,Beauty,Moisturizer,1.0,438.03,0.0,Debit Card,34.0,5.0,438.03,Weekday
+ORD101263,2026-05-07,Bengaluru,Home & Kitchen,Storage Containers,1.0,483.14,0.0,UPI,33.0,4.0,483.14,Weekday
+ORD100099,2026-03-07,Pune,Home & Kitchen,LED Lamp,1.0,600.2,5.0,Debit Card,28.0,5.0,570.19,Weekend
+ORD101675,2026-01-18,Mumbai,Fashion,Cotton T-Shirt,1.0,633.66,0.0,Debit Card,26.0,5.0,633.66,Weekend
+ORD100630,2026-02-22,Pune,Electronics,Wireless Earbuds,2.0,1467.51,0.0,UPI,29.0,5.0,2935.02,Weekend
+ORD100350,2026-01-01,Bengaluru,Grocery,Basmati Rice 5kg,1.0,664.21,10.0,UPI,32.0,4.0,597.7890000000001,Weekday
+ORD100442,2026-02-17,Mumbai,Home & Kitchen,LED Lamp,1.0,621.69,0.0,UPI,21.0,3.0,621.69,Weekday
+ORD101476,2026-03-19,Mumbai,Home & Kitchen,Storage Containers,1.0,516.33,5.0,UPI,30.0,5.0,490.5135,Weekday
+ORD100637,2026-05-24,Delhi,Beauty,Moisturizer,2.0,475.12,0.0,Credit Card,30.0,,950.24,Weekend
+ORD101551,2026-02-02,Delhi,Home & Kitchen,LED Lamp,1.0,591.46,0.0,UPI,28.0,,591.46,Weekday
+ORD100270,2026-06-17,Bengaluru,Grocery,Green Tea Pack,1.0,259.07,0.0,Cash on Delivery,21.0,4.0,259.07,Weekday
+ORD100363,2026-06-02,Pune,Electronics,Smart Watch,1.0,3035.28,0.0,Credit Card,32.0,4.0,3035.28,Weekday
+ORD100117,2026-01-31,Mumbai,Fashion,Sunglasses,5.0,885.6,0.0,Credit Card,30.0,,4428.0,Weekend
+ORD100983,2026-02-10,Chennai,Grocery,Cooking Oil 1L,1.0,189.8,5.0,Net Banking,21.0,5.0,180.31,Weekday
+ORD101388,2026-05-12,Hyderabad,Home & Kitchen,Electric Kettle,1.0,1167.79,5.0,UPI,50.0,4.0,1109.4005,Weekday
+ORD100687,2026-05-18,Delhi,Home & Kitchen,Cushion Cover,1.0,350.11,0.0,Cash on Delivery,38.0,,350.11,Weekday
+ORD100455,2026-06-13,Bengaluru,Beauty,Hair Serum,3.0,558.37,0.0,Debit Card,33.0,4.0,1675.1100000000001,Weekend
+ORD101667,2026-05-22,Delhi,Beauty,Sunscreen SPF50,3.0,393.3,25.0,Debit Card,20.0,5.0,884.9250000000001,Weekday
+ORD101511,2026-02-08,Mumbai,Home & Kitchen,Electric Kettle,1.0,1102.96,25.0,Debit Card,22.0,2.0,827.22,Weekend
+ORD100489,2026-03-08,Pune,Electronics,Smart Watch,5.0,3005.69,10.0,Net Banking,42.0,3.0,13525.605000000001,Weekend
+ORD100113,2026-03-15,Delhi,Electronics,Bluetooth Speaker,5.0,1971.52,10.0,UPI,20.0,,8871.84,Weekend
+ORD100063,2026-03-11,Hyderabad,Grocery,Almonds 500g,1.0,580.31,5.0,Cash on Delivery,16.0,4.0,551.2945,Weekday
+ORD100758,2026-04-30,Delhi,Home & Kitchen,Cushion Cover,1.0,356.85,20.0,Debit Card,36.0,,285.48,Weekday
+ORD100757,2026-04-24,Bengaluru,Electronics,Bluetooth Speaker,1.0,1939.24,15.0,UPI,33.0,4.0,1648.354,Weekday
+ORD100186,2026-04-28,Mumbai,Grocery,Honey Jar,1.0,313.72,0.0,Cash on Delivery,30.0,2.0,313.72,Weekday
+ORD101435,2026-01-03,Mumbai,Electronics,Wireless Earbuds,1.0,1598.4,0.0,Credit Card,30.0,,1598.4,Weekend
+ORD101262,2026-05-22,Pune,Electronics,USB-C Cable,1.0,311.66,20.0,Credit Card,39.0,3.0,249.32800000000003,Weekday
+ORD100294,2026-06-10,Mumbai,Beauty,Moisturizer,3.0,436.14,0.0,UPI,24.0,,1308.42,Weekday
+ORD101295,2026-01-11,Delhi,Grocery,Basmati Rice 5kg,1.0,620.36,0.0,UPI,26.0,5.0,620.36,Weekend
+ORD100286,2026-04-06,Delhi,Fashion,Cotton T-Shirt,1.0,586.22,15.0,Credit Card,32.0,5.0,498.28700000000003,Weekday
+ORD100300,2026-02-12,Delhi,Electronics,Power Bank,1.0,1034.78,10.0,Cash on Delivery,35.0,3.0,931.302,Weekday
+ORD101286,2026-04-23,Delhi,Electronics,Bluetooth Speaker,2.0,1997.75,10.0,Debit Card,47.0,3.0,3595.9500000000003,Weekday
+ORD100315,2026-06-14,Mumbai,Grocery,Honey Jar,2.0,294.69,0.0,UPI,48.0,4.0,589.38,Weekend
+ORD100820,2026-05-01,Delhi,Fashion,Backpack,4.0,1290.38,0.0,Credit Card,33.0,,5161.52,Weekday
+ORD101708,2026-05-31,Hyderabad,Fashion,Denim Jacket,3.0,1754.76,0.0,UPI,30.0,,5264.28,Weekend
+ORD100130,2026-04-26,Mumbai,Beauty,Moisturizer,5.0,462.41,0.0,UPI,16.0,4.0,2312.05,Weekend
+ORD100663,2026-06-22,Chennai,Electronics,Bluetooth Speaker,1.0,1874.34,0.0,Credit Card,55.0,4.0,1874.34,Weekday
+ORD100189,2026-03-16,Pune,Beauty,Moisturizer,1.0,460.49,15.0,UPI,21.0,,391.4165,Weekday
+ORD100027,2026-05-15,Mumbai,Grocery,Basmati Rice 5kg,3.0,654.21,0.0,UPI,22.0,5.0,1962.63,Weekday
+ORD100340,2026-03-18,Mumbai,Electronics,USB-C Cable,2.0,297.63,0.0,UPI,40.0,,595.26,Weekday
+ORD100953,2026-01-22,Bengaluru,Fashion,Denim Jacket,3.0,1792.71,15.0,Credit Card,49.0,2.0,4571.4105,Weekday
+ORD101212,2026-01-09,Bengaluru,Fashion,Running Shoes,2.0,2396.02,25.0,Net Banking,33.0,,3594.0299999999997,Weekday
+ORD100596,2026-03-28,Pune,Electronics,Wireless Earbuds,5.0,1518.14,0.0,UPI,40.0,5.0,7590.700000000001,Weekend
+ORD101121,2026-03-09,Bengaluru,Fashion,Denim Jacket,3.0,1795.8,0.0,Debit Card,36.0,,5387.4,Weekday
+ORD100619,2026-02-24,Mumbai,Electronics,Wireless Earbuds,1.0,1437.8,0.0,Cash on Delivery,28.0,,1437.8,Weekday
+ORD100986,2026-05-21,Hyderabad,Electronics,Bluetooth Speaker,3.0,1927.4,25.0,UPI,16.0,5.0,4336.650000000001,Weekday
+ORD101522,2026-03-05,Bengaluru,Fashion,Backpack,1.0,1275.65,0.0,Cash on Delivery,31.0,4.0,1275.65,Weekday
+ORD100715,2026-01-26,Delhi,Fashion,Denim Jacket,1.0,1721.2,0.0,UPI,32.0,,1721.2,Weekday
+ORD100976,2026-06-26,Hyderabad,Fashion,Denim Jacket,1.0,1786.97,0.0,UPI,41.0,,1786.97,Weekday
+ORD100947,2026-05-10,Mumbai,Electronics,Smart Watch,3.0,3222.24,20.0,UPI,35.0,4.0,7733.376,Weekend
+ORD101647,2026-04-03,Bengaluru,Beauty,Lip Balm,3.0,148.5,0.0,Unknown,52.0,3.0,445.5,Weekday
+ORD101067,2026-03-29,Chennai,Electronics,USB-C Cable,4.0,310.15,5.0,Credit Card,28.0,4.0,1178.57,Weekend
+ORD101606,2026-05-29,Bengaluru,Electronics,Power Bank,5.0,1022.73,15.0,Credit Card,40.0,4.0,4346.6025,Weekday
+ORD100970,2026-01-13,Bengaluru,Grocery,Honey Jar,1.0,295.44,0.0,Unknown,25.0,4.0,295.44,Weekday
+ORD100471,2026-05-07,Bengaluru,Grocery,Honey Jar,4.0,294.31,0.0,Credit Card,31.0,,1177.24,Weekday
+ORD100396,2026-04-08,Bengaluru,Electronics,Wireless Earbuds,3.0,1441.46,5.0,UPI,36.0,3.0,4108.161,Weekday
+ORD100325,2026-04-02,Bengaluru,Electronics,Wireless Earbuds,3.0,1400.73,0.0,Credit Card,31.0,5.0,4202.1900000000005,Weekday
+ORD101033,2026-01-27,Hyderabad,Electronics,USB-C Cable,2.0,287.91,0.0,Debit Card,20.0,2.0,575.82,Weekday
+ORD101539,2026-03-08,Delhi,Home & Kitchen,Electric Kettle,1.0,1170.95,0.0,Debit Card,24.0,,1170.95,Weekend
+ORD101170,2026-02-22,Delhi,Fashion,Sunglasses,1.0,936.04,25.0,UPI,32.0,3.0,702.03,Weekend
+ORD101366,2026-01-17,Delhi,Beauty,Face Wash,1.0,246.34,0.0,Cash on Delivery,51.0,4.0,246.34,Weekend
+ORD101520,2026-03-26,Delhi,Fashion,Cotton T-Shirt,1.0,597.43,0.0,Net Banking,20.0,3.0,597.43,Weekday
+ORD100017,2026-02-19,Bengaluru,Fashion,Backpack,1.0,1284.69,0.0,Debit Card,33.0,,1284.69,Weekday
+ORD101436,2026-01-21,Mumbai,Electronics,Wireless Earbuds,1.0,1408.21,5.0,Cash on Delivery,31.0,4.0,1337.7995,Weekday
+ORD100378,2026-03-07,Bengaluru,Beauty,Moisturizer,1.0,446.65,5.0,Credit Card,36.0,,424.31749999999994,Weekend
+ORD101039,2026-06-18,Chennai,Home & Kitchen,Storage Containers,1.0,500.31,20.0,UPI,27.0,3.0,400.24800000000005,Weekday
+ORD101662,2026-01-29,Pune,Grocery,Cooking Oil 1L,3.0,190.8,5.0,Debit Card,27.0,,543.7800000000001,Weekday
+ORD100374,2026-06-03,Mumbai,Fashion,Denim Jacket,1.0,1800.87,10.0,UPI,44.0,5.0,1620.783,Weekday
+ORD100700,2026-05-05,Bengaluru,Home & Kitchen,Electric Kettle,1.0,1104.88,0.0,Credit Card,25.0,3.0,1104.88,Weekday
+ORD100118,2026-03-12,Mumbai,Home & Kitchen,LED Lamp,2.0,593.56,0.0,UPI,32.0,,1187.12,Weekday
+ORD101233,2026-03-24,Delhi,Home & Kitchen,Electric Kettle,1.0,1059.95,0.0,UPI,31.0,3.0,1059.95,Weekday
+ORD100054,2026-03-05,Hyderabad,Fashion,Cotton T-Shirt,2.0,597.62,0.0,Debit Card,44.0,,1195.24,Weekday
+ORD101746,2026-02-04,Hyderabad,Home & Kitchen,Electric Kettle,1.0,1127.74,5.0,Credit Card,30.0,4.0,1071.353,Weekday
+ORD101610,2026-06-03,Mumbai,Home & Kitchen,LED Lamp,2.0,607.89,5.0,UPI,30.0,,1154.991,Weekday
+ORD100360,2026-02-15,Chennai,Electronics,USB-C Cable,1.0,303.43,0.0,Net Banking,32.0,3.0,303.43,Weekend
+ORD100180,2026-06-07,Delhi,Home & Kitchen,Electric Kettle,1.0,1156.7,15.0,UPI,21.0,4.0,983.195,Weekend
+ORD100259,2026-02-08,Hyderabad,Grocery,Basmati Rice 5kg,1.0,696.56,15.0,UPI,22.0,4.0,592.0759999999999,Weekend
+ORD101496,2026-01-27,Chennai,Electronics,Wireless Earbuds,1.0,1509.48,10.0,Debit Card,38.0,5.0,1358.5320000000002,Weekday
+ORD100454,2026-03-01,Mumbai,Home & Kitchen,Cushion Cover,4.0,341.79,5.0,UPI,33.0,,1298.802,Weekend
+ORD100210,2026-01-27,Hyderabad,Home & Kitchen,Storage Containers,4.0,477.99,0.0,Credit Card,17.0,1.0,1911.96,Weekday
+ORD101565,2026-01-02,Chennai,Fashion,Sunglasses,1.0,909.14,20.0,Credit Card,16.0,,727.312,Weekday
+ORD101090,2026-06-08,Delhi,Electronics,Power Bank,6.0,974.8,0.0,Credit Card,31.0,4.0,5848.799999999999,Weekday
+ORD101797,2026-02-14,Hyderabad,Home & Kitchen,Storage Containers,1.0,502.45,0.0,UPI,35.0,,502.45,Weekend
+ORD100527,2026-02-05,Delhi,Home & Kitchen,Cushion Cover,4.0,330.15,0.0,Credit Card,45.0,5.0,1320.6,Weekday
+ORD100674,2026-04-18,Pune,Beauty,Sunscreen SPF50,2.0,406.55,0.0,Net Banking,21.0,4.0,813.1,Weekend
+ORD100023,2026-06-15,Mumbai,Electronics,Power Bank,2.0,1023.97,25.0,Debit Card,39.0,4.0,1535.955,Weekday
+ORD100876,2026-04-21,Hyderabad,Electronics,Power Bank,1.0,965.36,15.0,Credit Card,41.0,5.0,820.556,Weekday
+ORD101411,2026-05-26,Delhi,Electronics,Smart Watch,2.0,3043.74,0.0,Credit Card,16.0,5.0,6087.48,Weekday
+ORD101477,2026-06-13,Bengaluru,Home & Kitchen,Non-stick Pan,1.0,813.32,0.0,UPI,34.0,,813.32,Weekend
+ORD100525,2026-03-21,Bengaluru,Beauty,Moisturizer,2.0,474.4,10.0,UPI,27.0,,853.92,Weekend
+ORD100346,2026-02-17,Pune,Electronics,USB-C Cable,2.0,299.09,0.0,Credit Card,19.0,4.0,598.18,Weekday
+ORD101011,2026-02-05,Mumbai,Electronics,Wireless Earbuds,3.0,1562.88,0.0,Net Banking,33.0,3.0,4688.64,Weekday
+ORD100816,2026-02-20,Delhi,Fashion,Running Shoes,1.0,2503.34,0.0,UPI,31.0,2.0,2503.34,Weekday
+ORD100423,2026-01-27,Hyderabad,Grocery,Almonds 500g,1.0,533.4,5.0,Debit Card,33.0,3.0,506.72999999999996,Weekday
+ORD101564,2026-05-14,Mumbai,Home & Kitchen,Electric Kettle,3.0,1049.3,0.0,Credit Card,46.0,5.0,3147.8999999999996,Weekday
+ORD100933,2026-04-21,Bengaluru,Home & Kitchen,Non-stick Pan,1.0,847.83,20.0,Credit Card,17.0,4.0,678.2640000000001,Weekday
+ORD100142,2026-04-07,Bengaluru,Beauty,Face Wash,1.0,251.37,0.0,Unknown,36.0,4.0,251.37,Weekday
+ORD100228,2026-02-16,Hyderabad,Electronics,Power Bank,2.0,979.29,20.0,UPI,24.0,,1566.864,Weekday
+ORD100213,2026-06-02,Bengaluru,Beauty,Sunscreen SPF50,2.0,399.8,0.0,Credit Card,21.0,3.0,799.6,Weekday
+ORD101444,2026-01-15,Pune,Fashion,Backpack,2.0,1343.4,0.0,Cash on Delivery,31.0,4.0,2686.8,Weekday
+ORD101020,2026-03-07,Bengaluru,Home & Kitchen,Electric Kettle,5.0,1068.79,10.0,Credit Card,45.0,4.0,4809.555,Weekend
+ORD101756,2026-03-11,Hyderabad,Home & Kitchen,LED Lamp,3.0,615.24,10.0,Debit Card,28.0,5.0,1661.1480000000001,Weekday
+ORD101374,2026-05-15,Bengaluru,Electronics,Power Bank,3.0,1010.11,0.0,Credit Card,49.0,4.0,3030.33,Weekday
+ORD100593,2026-04-15,Pune,Fashion,Sunglasses,2.0,867.02,0.0,Net Banking,47.0,4.0,1734.04,Weekday
+ORD100015,2026-03-08,Delhi,Beauty,Hair Serum,1.0,571.98,0.0,Debit Card,25.0,4.0,571.98,Weekend
+ORD101637,2026-03-03,Pune,Home & Kitchen,LED Lamp,3.0,595.0,5.0,UPI,17.0,1.0,1695.75,Weekday
+ORD101348,2026-01-12,Delhi,Electronics,Power Bank,1.0,1007.2,0.0,Credit Card,33.0,,1007.2,Weekday
+ORD101619,2026-05-18,Pune,Electronics,Power Bank,4.0,1033.83,10.0,Net Banking,38.0,5.0,3721.788,Weekday
+ORD101473,2026-01-11,Pune,Fashion,Backpack,1.0,1339.94,0.0,Net Banking,41.0,3.0,1339.94,Weekend
+ORD101196,2026-01-22,Mumbai,Fashion,Running Shoes,2.0,2461.1,0.0,Debit Card,32.0,1.0,4922.2,Weekday
+ORD101094,2026-01-07,Pune,Fashion,Sunglasses,1.0,907.82,15.0,UPI,33.0,2.0,771.647,Weekday
+ORD100311,2026-03-26,Pune,Electronics,Bluetooth Speaker,2.0,1941.03,0.0,Debit Card,38.0,4.0,3882.06,Weekday
+ORD100699,2026-06-02,Delhi,Electronics,Bluetooth Speaker,1.0,1936.12,25.0,UPI,34.0,2.0,1452.09,Weekday
+ORD100034,2026-04-23,Chennai,Fashion,Denim Jacket,2.0,1800.21,5.0,Debit Card,35.0,5.0,3420.399,Weekday
+ORD100215,2026-05-10,Pune,Beauty,Lip Balm,1.0,147.54,0.0,Debit Card,34.0,3.0,147.54,Weekend
+ORD100751,2026-04-01,Bengaluru,Electronics,Wireless Earbuds,1.0,1526.61,10.0,Debit Card,32.0,4.0,1373.9489999999998,Weekday
+ORD101145,2026-03-25,Bengaluru,Home & Kitchen,Storage Containers,1.0,527.81,0.0,Debit Card,39.0,,527.81,Weekday
+ORD100354,2026-02-10,Delhi,Beauty,Lip Balm,4.0,140.21,10.0,Debit Card,30.0,4.0,504.75600000000003,Weekday
+ORD101162,2026-04-16,Hyderabad,Beauty,Hair Serum,1.0,526.2,0.0,Credit Card,21.0,4.0,526.2,Weekday
+ORD101621,2026-06-10,Pune,Home & Kitchen,Electric Kettle,3.0,1081.74,0.0,Credit Card,21.0,,3245.2200000000003,Weekday
+ORD101087,2026-05-02,Chennai,Fashion,Denim Jacket,2.0,1806.56,25.0,Cash on Delivery,16.0,4.0,2709.84,Weekend
+ORD100677,2026-05-25,Mumbai,Home & Kitchen,Electric Kettle,5.0,1097.89,0.0,Credit Card,36.0,3.0,5489.450000000001,Weekday
+ORD101392,2026-02-09,Bengaluru,Grocery,Basmati Rice 5kg,3.0,641.43,0.0,Cash on Delivery,27.0,4.0,1924.29,Weekday
+ORD100948,2026-04-05,Pune,Grocery,Almonds 500g,2.0,575.51,0.0,Net Banking,20.0,5.0,1151.02,Weekend
+ORD100416,2026-04-17,Mumbai,Grocery,Almonds 500g,3.0,572.43,10.0,UPI,21.0,4.0,1545.561,Weekday
+ORD101305,2026-04-02,Chennai,Home & Kitchen,Non-stick Pan,1.0,808.71,0.0,Credit Card,16.0,4.0,808.71,Weekday
+ORD101072,2026-05-20,Hyderabad,Beauty,Face Wash,2.0,241.63,5.0,Net Banking,22.0,4.0,459.097,Weekday
+ORD100707,2026-02-17,Bengaluru,Electronics,USB-C Cable,1.0,291.48,0.0,UPI,29.0,5.0,291.48,Weekday
+ORD100361,2026-04-13,Mumbai,Grocery,Honey Jar,4.0,308.34,0.0,UPI,47.0,2.0,1233.36,Weekday
+ORD100995,2026-02-01,Bengaluru,Beauty,Moisturizer,2.0,423.87,20.0,Net Banking,38.0,3.0,678.192,Weekend
+ORD101416,2026-06-19,Delhi,Fashion,Running Shoes,3.0,2510.23,0.0,Credit Card,40.0,4.0,7530.6900000000005,Weekday
+ORD100249,2026-01-09,Delhi,Beauty,Hair Serum,2.0,526.31,10.0,Credit Card,23.0,2.0,947.358,Weekday
+ORD100912,2026-06-12,Hyderabad,Fashion,Backpack,2.0,1319.88,20.0,Unknown,39.0,5.0,2111.8080000000004,Weekday
+ORD100024,2026-01-26,Mumbai,Home & Kitchen,Cushion Cover,1.0,327.14,5.0,Net Banking,32.0,4.0,310.78299999999996,Weekday
+ORD100110,2026-04-12,Bengaluru,Electronics,USB-C Cable,7.0,274.77,0.0,Debit Card,39.0,,1923.3899999999999,Weekend
+ORD100835,2026-04-26,Pune,Beauty,Face Wash,4.0,245.41,0.0,Debit Card,35.0,,981.64,Weekend
+ORD101267,2026-03-23,Delhi,Beauty,Lip Balm,1.0,150.3,0.0,Credit Card,40.0,4.0,150.3,Weekday
+ORD101766,2026-05-30,Delhi,Home & Kitchen,Electric Kettle,3.0,1054.51,0.0,UPI,32.0,5.0,3163.5299999999997,Weekend
+ORD100348,2026-06-17,Pune,Electronics,Wireless Earbuds,1.0,1484.9,0.0,UPI,42.0,5.0,1484.9,Weekday
+ORD100501,2026-06-09,Bengaluru,Grocery,Cooking Oil 1L,1.0,185.5,0.0,UPI,47.0,4.0,185.5,Weekday
+ORD100403,2026-03-26,Delhi,Fashion,Cotton T-Shirt,1.0,594.86,0.0,Unknown,23.0,4.0,594.86,Weekday
+ORD100362,2026-06-22,Mumbai,Grocery,Green Tea Pack,3.0,254.77,10.0,Net Banking,27.0,3.0,687.879,Weekday
+ORD100870,2026-06-03,Mumbai,Home & Kitchen,Non-stick Pan,3.0,816.22,5.0,UPI,30.0,5.0,2326.227,Weekday
+ORD100479,2026-04-23,Mumbai,Fashion,Sunglasses,6.0,922.38,0.0,Net Banking,33.0,4.0,5534.28,Weekday
+ORD101558,2026-01-29,Mumbai,Electronics,Power Bank,3.0,1035.76,0.0,Credit Card,17.0,4.0,3107.2799999999997,Weekday
+ORD101611,2026-06-02,Delhi,Home & Kitchen,Electric Kettle,1.0,1118.76,5.0,Credit Card,26.0,4.0,1062.822,Weekday
+ORD101056,2026-03-27,Pune,Fashion,Running Shoes,1.0,2411.19,0.0,Unknown,20.0,4.0,2411.19,Weekday
+ORD100177,2026-02-08,Bengaluru,Electronics,USB-C Cable,2.0,303.93,0.0,UPI,24.0,4.0,607.86,Weekend
+ORD100441,2026-01-30,Pune,Grocery,Basmati Rice 5kg,2.0,683.42,0.0,UPI,27.0,3.0,1366.84,Weekday
+ORD101753,2026-01-28,Hyderabad,Electronics,USB-C Cable,1.0,283.5,0.0,Debit Card,18.0,2.0,283.5,Weekday
+ORD101697,2026-02-12,Bengaluru,Grocery,Green Tea Pack,1.0,251.88,0.0,Net Banking,32.0,,251.88,Weekday
+ORD101441,2026-03-29,Delhi,Electronics,USB-C Cable,1.0,307.91,0.0,Debit Card,27.0,4.0,307.91,Weekend
+ORD101583,2026-02-10,Hyderabad,Home & Kitchen,Cushion Cover,2.0,365.05,0.0,Credit Card,34.0,4.0,730.1,Weekday
+ORD101758,2026-05-22,Delhi,Beauty,Sunscreen SPF50,1.0,384.96,0.0,UPI,31.0,4.0,384.96,Weekday
+ORD100643,2026-05-29,Bengaluru,Home & Kitchen,Electric Kettle,1.0,1137.78,0.0,Cash on Delivery,29.0,,1137.78,Weekday
+ORD100488,2026-05-21,Chennai,Beauty,Sunscreen SPF50,1.0,413.14,15.0,UPI,55.0,1.0,351.169,Weekday
+ORD100672,2026-03-02,Bengaluru,Electronics,Power Bank,2.0,1035.75,0.0,Credit Card,35.0,4.0,2071.5,Weekday
+ORD100414,2026-04-13,Delhi,Grocery,Almonds 500g,3.0,554.66,20.0,Debit Card,29.0,4.0,1331.1840000000002,Weekday
+ORD100046,2026-05-07,Bengaluru,Fashion,Denim Jacket,4.0,1825.41,20.0,Cash on Delivery,37.0,5.0,5841.312000000001,Weekday
+ORD101626,2026-02-06,Pune,Home & Kitchen,Storage Containers,1.0,512.67,0.0,Credit Card,39.0,5.0,512.67,Weekday
+ORD101340,2026-06-02,Delhi,Beauty,Moisturizer,1.0,457.5,0.0,Credit Card,32.0,5.0,457.5,Weekday
+ORD100193,2026-03-04,Chennai,Grocery,Cooking Oil 1L,4.0,179.34,0.0,Debit Card,23.0,5.0,717.36,Weekday
+ORD100392,2026-06-26,Hyderabad,Fashion,Backpack,1.0,1292.7,5.0,UPI,24.0,4.0,1228.065,Weekday
+ORD101358,2026-02-02,Pune,Home & Kitchen,Cushion Cover,1.0,352.54,0.0,Debit Card,26.0,,352.54,Weekday
+ORD101316,2026-06-18,Bengaluru,Fashion,Backpack,1.0,1410.26,0.0,Credit Card,39.0,4.0,1410.26,Weekday
+ORD100857,2026-06-26,Bengaluru,Home & Kitchen,Cushion Cover,1.0,349.51,15.0,Cash on Delivery,43.0,4.0,297.08349999999996,Weekday
+ORD100445,2026-01-09,Pune,Home & Kitchen,Cushion Cover,3.0,347.53,20.0,UPI,23.0,4.0,834.072,Weekday
+ORD100026,2026-02-15,Bengaluru,Grocery,Honey Jar,1.0,299.52,0.0,Credit Card,34.0,3.0,299.52,Weekend
+ORD101738,2026-02-06,Hyderabad,Electronics,Bluetooth Speaker,4.0,1935.16,0.0,Credit Card,27.0,4.0,7740.64,Weekday
+ORD100927,2026-04-21,Mumbai,Home & Kitchen,Electric Kettle,2.0,1113.76,20.0,Debit Card,30.0,,1782.016,Weekday
+ORD100451,2026-05-12,Chennai,Electronics,USB-C Cable,2.0,298.73,5.0,Debit Card,32.0,3.0,567.587,Weekday
+ORD101208,2026-05-12,Mumbai,Beauty,Lip Balm,1.0,155.67,5.0,UPI,33.0,3.0,147.88649999999998,Weekday
+ORD100464,2026-01-07,Mumbai,Fashion,Denim Jacket,1.0,1804.78,10.0,Credit Card,41.0,4.0,1624.302,Weekday
+ORD100653,2026-02-14,Pune,Electronics,Power Bank,4.0,922.63,10.0,Debit Card,42.0,5.0,3321.468,Weekend
+ORD101182,2026-04-24,Bengaluru,Home & Kitchen,Storage Containers,2.0,497.855,5.0,UPI,27.0,5.0,945.9245,Weekday
+ORD100610,2026-02-12,Mumbai,Beauty,Hair Serum,5.0,560.01,0.0,Cash on Delivery,34.0,,2800.05,Weekday
+ORD100458,2026-01-10,Delhi,Beauty,Moisturizer,3.0,434.6,0.0,Credit Card,20.0,,1303.8000000000002,Weekend
+ORD101588,2026-01-29,Mumbai,Grocery,Almonds 500g,2.0,556.7,0.0,UPI,21.0,,1113.4,Weekday
+ORD101321,2026-05-12,Pune,Beauty,Sunscreen SPF50,1.0,409.54,10.0,Credit Card,30.0,4.0,368.586,Weekday
+ORD101188,2026-03-06,Delhi,Electronics,Power Bank,3.0,984.73,0.0,Cash on Delivery,40.0,4.0,2954.19,Weekday
+ORD100925,2026-05-09,Bengaluru,Beauty,Sunscreen SPF50,3.0,388.88,0.0,Debit Card,34.0,5.0,1166.6399999999999,Weekend
+ORD100369,2026-03-23,Mumbai,Electronics,Wireless Earbuds,1.0,1485.36,5.0,UPI,28.0,5.0,1411.0919999999999,Weekday
+ORD101648,2026-04-13,Hyderabad,Grocery,Cooking Oil 1L,3.0,190.27,0.0,Cash on Delivery,24.0,2.0,570.8100000000001,Weekday
+ORD101018,2026-02-19,Pune,Electronics,USB-C Cable,2.0,316.3,15.0,Credit Card,41.0,5.0,537.71,Weekday
+ORD100307,2026-06-25,Pune,Electronics,Wireless Earbuds,1.0,1525.31,0.0,UPI,44.0,4.0,1525.31,Weekday
+ORD100285,2026-05-07,Hyderabad,Home & Kitchen,LED Lamp,1.0,600.49,0.0,UPI,31.0,,600.49,Weekday
+ORD100500,2026-06-23,Bengaluru,Fashion,Running Shoes,2.0,2368.65,0.0,UPI,44.0,3.0,4737.3,Weekday
+ORD100330,2026-06-15,Delhi,Grocery,Cooking Oil 1L,2.0,186.19,25.0,UPI,26.0,3.0,279.28499999999997,Weekday
+ORD101578,2026-05-30,Mumbai,Electronics,Bluetooth Speaker,5.0,1926.45,0.0,Net Banking,32.0,5.0,9632.25,Weekend
+ORD100565,2026-04-11,Hyderabad,Fashion,Cotton T-Shirt,1.0,609.24,0.0,Debit Card,36.0,5.0,609.24,Weekend
+ORD101760,2026-03-08,Pune,Home & Kitchen,LED Lamp,3.0,605.58,15.0,UPI,41.0,3.0,1544.2290000000003,Weekend
+ORD100783,2026-05-02,Chennai,Fashion,Cotton T-Shirt,6.0,573.49,25.0,Debit Card,23.0,3.0,2580.705,Weekend
+ORD100620,2026-02-28,Mumbai,Grocery,Cooking Oil 1L,1.0,190.0,0.0,UPI,50.0,4.0,190.0,Weekend
+ORD100737,2026-05-08,Pune,Home & Kitchen,Cushion Cover,1.0,363.49,0.0,Credit Card,46.0,,363.49,Weekday
+ORD100252,2026-01-11,Mumbai,Fashion,Sunglasses,2.0,819.59,0.0,Credit Card,49.0,5.0,1639.18,Weekend
+ORD101304,2026-06-07,Pune,Home & Kitchen,Cushion Cover,3.0,337.13,15.0,UPI,34.0,4.0,859.6814999999999,Weekend
+ORD100109,2026-06-10,Pune,Grocery,Basmati Rice 5kg,1.0,622.37,20.0,UPI,28.0,3.0,497.896,Weekday
+ORD100728,2026-06-01,Pune,Home & Kitchen,Storage Containers,2.0,499.17,10.0,Net Banking,16.0,4.0,898.5060000000001,Weekday
+ORD100887,2026-01-27,Pune,Grocery,Green Tea Pack,3.0,244.95,25.0,Credit Card,39.0,4.0,551.1374999999999,Weekday
+ORD101047,2026-06-23,Hyderabad,Home & Kitchen,LED Lamp,3.0,605.52,5.0,Credit Card,20.0,5.0,1725.732,Weekday
+ORD100164,2026-01-30,Pune,Beauty,Sunscreen SPF50,1.0,385.45,0.0,UPI,32.0,5.0,385.45,Weekday
+ORD101089,2026-03-23,Delhi,Grocery,Honey Jar,2.0,289.39,10.0,Credit Card,16.0,4.0,520.902,Weekday
+ORD101781,2026-04-14,Delhi,Grocery,Green Tea Pack,2.0,253.78,0.0,Net Banking,32.0,4.0,507.56,Weekday
+ORD100207,2026-01-03,Delhi,Electronics,Smart Watch,1.0,2995.73,0.0,Credit Card,29.0,4.0,2995.73,Weekend
+ORD100151,2026-05-27,Mumbai,Fashion,Denim Jacket,1.0,1801.43,5.0,UPI,34.0,,1711.3585,Weekday
+ORD100262,2026-06-11,Pune,Beauty,Moisturizer,4.0,446.8,5.0,Credit Card,30.0,4.0,1697.84,Weekday
+ORD100978,2026-04-07,Delhi,Beauty,Lip Balm,1.0,145.87,5.0,Credit Card,27.0,5.0,138.5765,Weekday
+ORD101448,2026-06-08,Hyderabad,Electronics,Bluetooth Speaker,3.0,1856.5,0.0,Debit Card,33.0,2.0,5569.5,Weekday
+ORD100731,2026-06-23,Hyderabad,Home & Kitchen,Non-stick Pan,4.0,800.61,5.0,Debit Card,36.0,,3042.3179999999998,Weekday
+ORD100817,2026-04-15,Hyderabad,Fashion,Cotton T-Shirt,1.0,613.68,0.0,Credit Card,32.0,,613.68,Weekday
+ORD100020,2026-03-14,Bengaluru,Beauty,Face Wash,1.0,244.06,15.0,Credit Card,22.0,2.0,207.451,Weekend
+ORD101552,2026-02-19,Pune,Grocery,Green Tea Pack,2.0,244.23,10.0,Credit Card,16.0,5.0,439.614,Weekday
+ORD100097,2026-03-03,Mumbai,Grocery,Cooking Oil 1L,1.0,191.57,0.0,Credit Card,33.0,2.0,191.57,Weekday
+ORD101585,2026-06-11,Hyderabad,Electronics,Power Bank,2.0,989.17,0.0,Cash on Delivery,23.0,4.0,1978.34,Weekday
+ORD101513,2026-05-26,Pune,Electronics,Smart Watch,1.0,3124.8,0.0,UPI,23.0,,3124.8,Weekday
+ORD101779,2026-01-11,Hyderabad,Grocery,Almonds 500g,3.0,555.69,0.0,Credit Card,32.0,3.0,1667.0700000000002,Weekend
+ORD100139,2026-05-04,Bengaluru,Grocery,Basmati Rice 5kg,3.0,648.255,0.0,Debit Card,41.0,,1944.7649999999999,Weekday
+ORD100438,2026-02-15,Pune,Fashion,Cotton T-Shirt,1.0,583.88,0.0,UPI,28.0,5.0,583.88,Weekend
+ORD101735,2026-03-30,Hyderabad,Home & Kitchen,Electric Kettle,2.0,1057.8,5.0,UPI,40.0,3.0,2009.8199999999997,Weekday
+ORD100756,2026-02-23,Mumbai,Home & Kitchen,Cushion Cover,2.0,336.67,0.0,UPI,16.0,,673.34,Weekday
+ORD100848,2026-02-09,Pune,Beauty,Hair Serum,4.0,559.52,0.0,UPI,47.0,5.0,2238.08,Weekday
+ORD100769,2026-06-30,Bengaluru,Fashion,Sunglasses,2.0,898.98,20.0,Cash on Delivery,24.0,,1438.3680000000002,Weekday
+ORD100755,2026-06-14,Bengaluru,Fashion,Denim Jacket,2.0,1718.41,5.0,Debit Card,36.0,3.0,3264.979,Weekend
+ORD100128,2026-03-24,Mumbai,Fashion,Sunglasses,3.0,895.57,0.0,Cash on Delivery,37.0,4.0,2686.71,Weekday
+ORD100553,2026-02-25,Mumbai,Electronics,Smart Watch,2.0,3015.43,0.0,Debit Card,25.0,1.0,6030.86,Weekday
+ORD101601,2026-05-07,Pune,Grocery,Almonds 500g,2.0,531.04,15.0,Debit Card,26.0,4.0,902.7679999999999,Weekday
+ORD101242,2026-01-23,Delhi,Grocery,Basmati Rice 5kg,2.0,669.44,0.0,UPI,32.0,5.0,1338.88,Weekday
+ORD100264,2026-03-04,Hyderabad,Electronics,Smart Watch,1.0,3013.81,20.0,Credit Card,36.0,4.0,2411.0480000000002,Weekday
+ORD101484,2026-01-11,Pune,Grocery,Basmati Rice 5kg,1.0,636.44,0.0,Debit Card,23.0,,636.44,Weekend
+ORD101670,2026-01-24,Chennai,Beauty,Lip Balm,3.0,154.87,0.0,Unknown,16.0,3.0,464.61,Weekend
+ORD101445,2026-02-10,Pune,Fashion,Backpack,2.0,1357.24,5.0,Debit Card,22.0,,2578.756,Weekday
+ORD100498,2026-04-18,Delhi,Home & Kitchen,Non-stick Pan,3.0,819.47,0.0,Net Banking,38.0,3.0,2458.41,Weekend
+ORD101787,2026-06-03,Mumbai,Fashion,Denim Jacket,1.0,1795.65,15.0,Credit Card,40.0,,1526.3025,Weekday
+ORD101510,2026-04-19,Bengaluru,Home & Kitchen,LED Lamp,1.0,610.79,0.0,Cash on Delivery,30.0,5.0,610.79,Weekend
+ORD100740,2026-03-15,Chennai,Fashion,Running Shoes,2.0,2509.89,10.0,Credit Card,28.0,5.0,4517.802,Weekend
+ORD100432,2026-01-24,Bengaluru,Grocery,Cooking Oil 1L,1.0,193.19,15.0,Credit Card,24.0,4.0,164.2115,Weekend
+ORD101134,2026-01-29,Mumbai,Grocery,Green Tea Pack,2.0,251.85,10.0,UPI,28.0,3.0,453.33,Weekday
+ORD101005,2026-03-19,Mumbai,Beauty,Face Wash,2.0,250.28,0.0,UPI,40.0,3.0,500.56,Weekday
+ORD100068,2026-05-17,Bengaluru,Electronics,Power Bank,7.0,1008.22,10.0,Net Banking,45.0,,6351.786,Weekend
+ORD100666,2026-05-19,Delhi,Grocery,Basmati Rice 5kg,2.0,611.55,5.0,UPI,25.0,2.0,1161.945,Weekday
+ORD101668,2026-03-10,Hyderabad,Home & Kitchen,Electric Kettle,3.0,1098.26,20.0,UPI,23.0,,2635.824,Weekday
+ORD100338,2026-04-20,Bengaluru,Grocery,Green Tea Pack,1.0,249.32,0.0,UPI,40.0,4.0,249.32,Weekday
+ORD100683,2026-05-30,Bengaluru,Grocery,Green Tea Pack,1.0,242.84,0.0,Debit Card,37.0,4.0,242.84,Weekend
+ORD100383,2026-01-26,Bengaluru,Beauty,Hair Serum,1.0,521.89,0.0,UPI,38.0,4.0,521.89,Weekday
+ORD100754,2026-06-27,Delhi,Electronics,Smart Watch,3.0,2904.16,10.0,UPI,24.0,3.0,7841.232,Weekend
+ORD100055,2026-03-24,Hyderabad,Home & Kitchen,Cushion Cover,1.0,348.89,5.0,Cash on Delivery,35.0,4.0,331.4455,Weekday
+ORD100981,2026-05-15,Hyderabad,Fashion,Backpack,2.0,1303.54,10.0,UPI,44.0,,2346.372,Weekday
+ORD101666,2026-04-25,Delhi,Electronics,Bluetooth Speaker,3.0,1871.02,5.0,Credit Card,23.0,3.0,5332.406999999999,Weekend
+ORD101532,2026-03-03,Pune,Beauty,Face Wash,1.0,241.27,0.0,UPI,34.0,5.0,241.27,Weekday
+ORD100170,2026-03-31,Bengaluru,Fashion,Cotton T-Shirt,1.0,578.8,10.0,Credit Card,41.0,,520.92,Weekday
+ORD100833,2026-03-13,Bengaluru,Home & Kitchen,Cushion Cover,1.0,364.98,20.0,UPI,29.0,,291.98400000000004,Weekday
+ORD101190,2026-05-03,Mumbai,Electronics,Bluetooth Speaker,1.0,1857.16,10.0,UPI,37.0,4.0,1671.4440000000002,Weekend
+ORD100326,2026-03-02,Hyderabad,Grocery,Honey Jar,2.0,301.92,0.0,Debit Card,24.0,,603.84,Weekday
+ORD100503,2026-01-02,Mumbai,Grocery,Green Tea Pack,3.0,244.2,15.0,Credit Card,36.0,,622.7099999999999,Weekday
+ORD101405,2026-05-09,Bengaluru,Electronics,Wireless Earbuds,2.0,1459.97,0.0,UPI,37.0,4.0,2919.94,Weekend
+ORD100409,2026-01-21,Mumbai,Grocery,Basmati Rice 5kg,1.0,641.17,5.0,UPI,27.0,1.0,609.1115,Weekday
+ORD100297,2026-04-05,Bengaluru,Grocery,Cooking Oil 1L,4.0,199.2,0.0,UPI,20.0,5.0,796.8,Weekend
+ORD100718,2026-06-26,Delhi,Beauty,Sunscreen SPF50,1.0,409.96,5.0,Credit Card,35.0,5.0,389.462,Weekday
+ORD100840,2026-03-05,Delhi,Home & Kitchen,Storage Containers,1.0,479.98,25.0,UPI,35.0,,359.985,Weekday
+ORD100734,2026-01-19,Bengaluru,Home & Kitchen,Electric Kettle,1.0,1105.54,0.0,Credit Card,42.0,,1105.54,Weekday
+ORD100586,2026-02-25,Mumbai,Grocery,Green Tea Pack,2.0,245.27,0.0,Debit Card,24.0,,490.54,Weekday
+ORD101533,2026-06-20,Mumbai,Grocery,Almonds 500g,2.0,552.4,0.0,Credit Card,21.0,5.0,1104.8,Weekend
+ORD101771,2026-06-15,Hyderabad,Fashion,Running Shoes,2.0,2517.29,20.0,UPI,16.0,4.0,4027.664,Weekday
+ORD101784,2026-05-16,Chennai,Beauty,Lip Balm,4.0,147.51,10.0,Credit Card,22.0,5.0,531.036,Weekend
+ORD100572,2026-01-07,Chennai,Electronics,Smart Watch,1.0,3181.71,0.0,Credit Card,16.0,,3181.71,Weekday
+ORD100531,2026-06-24,Chennai,Electronics,Wireless Earbuds,3.0,1525.28,15.0,UPI,45.0,,3889.464,Weekday
+ORD100407,2026-06-06,Hyderabad,Fashion,Cotton T-Shirt,1.0,614.37,5.0,Debit Card,17.0,4.0,583.6514999999999,Weekend
+ORD100199,2026-04-17,Mumbai,Electronics,Power Bank,1.0,1014.12,0.0,UPI,48.0,5.0,1014.12,Weekday
+ORD100473,2026-06-09,Delhi,Fashion,Cotton T-Shirt,3.0,616.37,0.0,Cash on Delivery,24.0,,1849.1100000000001,Weekday
+ORD100595,2026-04-08,Mumbai,Beauty,Sunscreen SPF50,1.0,407.38,0.0,Debit Card,26.0,4.0,407.38,Weekday
+ORD100216,2026-06-10,Bengaluru,Fashion,Cotton T-Shirt,1.0,602.41,0.0,Credit Card,35.0,2.0,602.41,Weekday
+ORD100253,2026-02-28,Delhi,Electronics,Smart Watch,1.0,2963.94,0.0,UPI,33.0,4.0,2963.94,Weekend
+ORD100152,2026-05-02,Delhi,Fashion,Running Shoes,1.0,2584.39,25.0,Debit Card,37.0,5.0,1938.2925,Weekend
+ORD101425,2026-01-24,Chennai,Home & Kitchen,Cushion Cover,1.0,347.27,10.0,UPI,32.0,3.0,312.543,Weekend
+ORD101236,2026-03-21,Mumbai,Grocery,Cooking Oil 1L,3.0,196.18,0.0,UPI,16.0,5.0,588.54,Weekend
+ORD101742,2026-06-04,Delhi,Electronics,Smart Watch,2.0,3069.23,25.0,Debit Card,29.0,3.0,4603.845,Weekday
+ORD100915,2026-06-21,Pune,Grocery,Green Tea Pack,4.0,250.72,0.0,UPI,22.0,1.0,1002.88,Weekend
+ORD101467,2026-05-13,Chennai,Beauty,Hair Serum,2.0,591.36,10.0,UPI,43.0,,1064.448,Weekday
+ORD101516,2026-05-04,Hyderabad,Grocery,Almonds 500g,2.0,514.73,0.0,Cash on Delivery,46.0,5.0,1029.46,Weekday
+ORD100530,2026-02-02,Hyderabad,Grocery,Basmati Rice 5kg,4.0,612.74,5.0,Net Banking,47.0,4.0,2328.412,Weekday
+ORD101038,2026-01-20,Delhi,Beauty,Sunscreen SPF50,3.0,388.08,0.0,Credit Card,28.0,4.0,1164.24,Weekday
+ORD101144,2026-05-07,Hyderabad,Home & Kitchen,Storage Containers,1.0,488.33,15.0,Credit Card,36.0,,415.0805,Weekday
+ORD100240,2026-01-03,Mumbai,Electronics,Power Bank,3.0,972.27,10.0,Debit Card,36.0,,2625.129,Weekend
+ORD101557,2026-01-28,Mumbai,Electronics,Wireless Earbuds,1.0,1511.99,0.0,Cash on Delivery,48.0,4.0,1511.99,Weekday
+ORD100957,2026-03-12,Pune,Home & Kitchen,Non-stick Pan,1.0,776.27,0.0,Credit Card,27.0,5.0,776.27,Weekday
+ORD100187,2026-03-01,Hyderabad,Home & Kitchen,Cushion Cover,1.0,362.2,0.0,UPI,25.0,5.0,362.2,Weekend
+ORD100246,2026-02-04,Chennai,Home & Kitchen,Electric Kettle,1.0,1132.55,10.0,Debit Card,27.0,1.0,1019.295,Weekday
+ORD101271,2026-02-23,Mumbai,Home & Kitchen,LED Lamp,1.0,614.03,0.0,Credit Card,25.0,4.0,614.03,Weekday
+ORD100869,2026-03-01,Pune,Grocery,Basmati Rice 5kg,2.0,647.28,10.0,Credit Card,34.0,4.0,1165.104,Weekend
+ORD101446,2026-06-01,Delhi,Fashion,Sunglasses,1.0,879.44,0.0,Credit Card,42.0,5.0,879.44,Weekday
+ORD100302,2026-05-09,Delhi,Electronics,Bluetooth Speaker,2.0,1826.2,0.0,Debit Card,30.0,5.0,3652.4,Weekend
+ORD100283,2026-02-22,Delhi,Electronics,Smart Watch,1.0,3100.82,10.0,UPI,39.0,,2790.7380000000003,Weekend
+ORD101635,2026-05-06,Delhi,Fashion,Denim Jacket,4.0,1852.41,5.0,Cash on Delivery,31.0,5.0,7039.158,Weekday
+ORD100505,2026-04-14,Chennai,Electronics,Wireless Earbuds,1.0,1492.01,0.0,Credit Card,23.0,4.0,1492.01,Weekday
+ORD101748,2026-02-15,Delhi,Home & Kitchen,Electric Kettle,3.0,1095.11,10.0,UPI,16.0,,2956.797,Weekend
+ORD101480,2026-06-24,Delhi,Electronics,Power Bank,2.0,1019.06,0.0,Net Banking,34.0,,2038.12,Weekday
+ORD101344,2026-01-20,Mumbai,Electronics,Bluetooth Speaker,1.0,1889.62,0.0,Cash on Delivery,32.0,2.0,1889.62,Weekday
+ORD101152,2026-03-22,Mumbai,Electronics,Bluetooth Speaker,2.0,1829.52,0.0,UPI,25.0,,3659.04,Weekend
+ORD100684,2026-06-13,Bengaluru,Electronics,Power Bank,2.0,985.95,0.0,UPI,35.0,5.0,1971.9,Weekend
+ORD100868,2026-04-23,Chennai,Electronics,Power Bank,1.0,1012.06,25.0,Credit Card,24.0,,759.045,Weekday
+ORD100122,2026-04-26,Chennai,Electronics,Power Bank,2.0,990.18,0.0,UPI,33.0,4.0,1980.36,Weekend
+ORD100660,2026-04-23,Delhi,Home & Kitchen,Non-stick Pan,1.0,771.83,0.0,Credit Card,32.0,,771.83,Weekday
+ORD100510,2026-01-07,Bengaluru,Electronics,Smart Watch,1.0,3092.91,0.0,UPI,29.0,,3092.91,Weekday
+ORD100280,2026-04-24,Delhi,Home & Kitchen,LED Lamp,1.0,591.96,5.0,UPI,33.0,4.0,562.362,Weekday
+ORD100943,2026-01-17,Hyderabad,Grocery,Honey Jar,3.0,307.22,0.0,Credit Card,32.0,3.0,921.6600000000001,Weekend
+ORD101266,2026-02-03,Pune,Grocery,Green Tea Pack,4.0,250.18,10.0,Credit Card,26.0,4.0,900.648,Weekday
+ORD101573,2026-06-05,Chennai,Beauty,Sunscreen SPF50,2.0,399.06,0.0,Net Banking,37.0,4.0,798.12,Weekday
+ORD101361,2026-05-08,Chennai,Electronics,Power Bank,1.0,1026.85,10.0,UPI,39.0,,924.165,Weekday
+ORD100518,2026-03-28,Bengaluru,Grocery,Almonds 500g,6.0,548.8,0.0,UPI,23.0,3.0,3292.7999999999997,Weekend
+ORD100623,2026-04-26,Bengaluru,Home & Kitchen,Non-stick Pan,2.0,768.85,10.0,UPI,21.0,2.0,1383.93,Weekend
+ORD101371,2026-02-17,Bengaluru,Fashion,Running Shoes,1.0,2607.12,15.0,Cash on Delivery,39.0,4.0,2216.0519999999997,Weekday
+ORD100067,2026-06-04,Chennai,Fashion,Sunglasses,3.0,881.34,0.0,Credit Card,35.0,4.0,2644.02,Weekday
+ORD100918,2026-02-19,Delhi,Home & Kitchen,LED Lamp,1.0,588.14,5.0,Debit Card,32.0,4.0,558.733,Weekday
+ORD100568,2026-05-21,Bengaluru,Grocery,Cooking Oil 1L,1.0,195.28,20.0,UPI,31.0,,156.22400000000002,Weekday
+ORD101010,2026-03-19,Mumbai,Home & Kitchen,Cushion Cover,1.0,353.21,0.0,UPI,16.0,4.0,353.21,Weekday
+ORD101093,2026-01-24,Mumbai,Fashion,Backpack,3.0,1317.04,0.0,UPI,30.0,4.0,3951.12,Weekend
+ORD101306,2026-05-12,Hyderabad,Home & Kitchen,Storage Containers,1.0,487.41,25.0,UPI,28.0,,365.5575,Weekday
+ORD101064,2026-04-18,Bengaluru,Electronics,Power Bank,2.0,1080.86,0.0,Credit Card,41.0,,2161.72,Weekend
+ORD100472,2026-06-29,Hyderabad,Grocery,Almonds 500g,1.0,528.5,10.0,Net Banking,22.0,3.0,475.65000000000003,Weekday
+ORD101199,2026-05-08,Hyderabad,Fashion,Cotton T-Shirt,3.0,580.38,0.0,Debit Card,41.0,3.0,1741.1399999999999,Weekday
+ORD100511,2026-06-27,Mumbai,Electronics,Bluetooth Speaker,3.0,1900.55,0.0,Credit Card,39.0,,5701.65,Weekend
+ORD101377,2026-05-30,Hyderabad,Electronics,Bluetooth Speaker,2.0,1906.4,0.0,UPI,24.0,4.0,3812.8,Weekend
+ORD100768,2026-01-30,Mumbai,Beauty,Hair Serum,4.0,601.1,0.0,Cash on Delivery,33.0,5.0,2404.4,Weekday
+ORD101278,2026-05-21,Pune,Home & Kitchen,Storage Containers,1.0,500.74,0.0,UPI,35.0,4.0,500.74,Weekday
+ORD100318,2026-06-26,Hyderabad,Grocery,Green Tea Pack,1.0,252.26,25.0,Debit Card,33.0,4.0,189.195,Weekday
+ORD101560,2026-01-21,Bengaluru,Fashion,Denim Jacket,1.0,1815.33,0.0,Debit Card,31.0,,1815.33,Weekday
+ORD101223,2026-04-09,Hyderabad,Electronics,Power Bank,2.0,1005.28,5.0,Debit Card,33.0,5.0,1910.032,Weekday
+ORD100581,2026-04-16,Delhi,Home & Kitchen,Non-stick Pan,2.0,820.7,20.0,Credit Card,42.0,3.0,1313.1200000000001,Weekday
+ORD100132,2026-06-21,Hyderabad,Home & Kitchen,Non-stick Pan,1.0,776.88,0.0,UPI,28.0,,776.88,Weekend
+ORD100680,2026-06-06,Mumbai,Electronics,Smart Watch,1.0,3006.48,0.0,Credit Card,32.0,3.0,3006.48,Weekend
+ORD100648,2026-01-09,Bengaluru,Home & Kitchen,Electric Kettle,2.0,1097.37,10.0,Credit Card,31.0,4.0,1975.2659999999998,Weekday
+ORD101768,2026-02-23,Mumbai,Fashion,Running Shoes,2.0,2363.66,15.0,UPI,20.0,,4018.2219999999998,Weekday
+ORD101016,2026-01-07,Chennai,Fashion,Backpack,1.0,1342.23,0.0,UPI,23.0,3.0,1342.23,Weekday
+ORD101749,2026-04-03,Delhi,Home & Kitchen,Electric Kettle,1.0,1057.61,20.0,Debit Card,16.0,5.0,846.088,Weekday
+ORD100125,2026-01-10,Bengaluru,Grocery,Almonds 500g,6.0,550.44,5.0,UPI,33.0,3.0,3137.5080000000003,Weekend
+ORD101562,2026-05-23,Delhi,Fashion,Cotton T-Shirt,2.0,639.23,0.0,Net Banking,31.0,,1278.46,Weekend
+ORD101489,2026-02-11,Pune,Fashion,Cotton T-Shirt,1.0,585.64,0.0,Cash on Delivery,26.0,4.0,585.64,Weekday
+ORD100256,2026-03-20,Mumbai,Fashion,Sunglasses,2.0,922.63,0.0,Net Banking,29.0,,1845.26,Weekday
+ORD101782,2026-04-05,Delhi,Fashion,Denim Jacket,1.0,1906.16,0.0,Credit Card,28.0,4.0,1906.16,Weekend
+ORD101360,2026-01-29,Mumbai,Grocery,Almonds 500g,2.0,526.8,0.0,Debit Card,34.0,,1053.6,Weekday
+ORD100289,2026-03-06,Chennai,Fashion,Cotton T-Shirt,1.0,605.66,0.0,UPI,24.0,3.0,605.66,Weekday
+ORD100081,2026-05-23,Delhi,Home & Kitchen,Storage Containers,2.0,502.67,0.0,Debit Card,44.0,4.0,1005.34,Weekend
+ORD100053,2026-04-18,Bengaluru,Fashion,Backpack,4.0,1268.7,5.0,Net Banking,16.0,5.0,4821.06,Weekend
+ORD100872,2026-03-06,Bengaluru,Home & Kitchen,Cushion Cover,3.0,322.68,0.0,UPI,36.0,3.0,968.04,Weekday
+ORD101594,2026-04-05,Hyderabad,Electronics,Bluetooth Speaker,2.0,1919.72,0.0,Debit Card,19.0,3.0,3839.44,Weekend
+ORD100040,2026-02-19,Mumbai,Fashion,Running Shoes,1.0,2508.69,10.0,UPI,16.0,5.0,2257.821,Weekday
+ORD101027,2026-05-18,Delhi,Electronics,USB-C Cable,5.0,299.49,0.0,UPI,24.0,5.0,1497.45,Weekday
+ORD100261,2026-03-15,Mumbai,Electronics,USB-C Cable,1.0,299.15,20.0,Net Banking,29.0,,239.32,Weekend
+ORD100739,2026-06-24,Delhi,Home & Kitchen,Non-stick Pan,1.0,804.27,10.0,Debit Card,28.0,4.0,723.843,Weekday
+ORD100083,2026-06-24,Delhi,Electronics,Power Bank,1.0,989.88,0.0,Debit Card,43.0,,989.88,Weekday
+ORD101015,2026-04-26,Mumbai,Grocery,Basmati Rice 5kg,2.0,677.14,0.0,Credit Card,42.0,5.0,1354.28,Weekend
+ORD101109,2026-01-15,Bengaluru,Beauty,Face Wash,1.0,242.92,5.0,Credit Card,27.0,,230.77399999999997,Weekday
+ORD101409,2026-05-04,Pune,Home & Kitchen,Non-stick Pan,1.0,779.11,0.0,Cash on Delivery,29.0,1.0,779.11,Weekday
+ORD100762,2026-04-15,Delhi,Beauty,Lip Balm,1.0,149.79,25.0,UPI,30.0,3.0,112.3425,Weekday
+ORD100030,2026-04-17,Hyderabad,Electronics,Smart Watch,1.0,2958.92,0.0,Debit Card,26.0,3.0,2958.92,Weekday
+ORD100513,2026-03-06,Bengaluru,Electronics,Power Bank,1.0,997.73,0.0,Net Banking,17.0,,997.73,Weekday
+ORD101428,2026-05-24,Delhi,Home & Kitchen,Electric Kettle,2.0,1120.16,0.0,Credit Card,25.0,,2240.32,Weekend
+ORD101525,2026-04-15,Delhi,Grocery,Basmati Rice 5kg,1.0,646.11,0.0,Cash on Delivery,36.0,4.0,646.11,Weekday
+ORD101352,2026-04-06,Mumbai,Fashion,Denim Jacket,2.0,1842.21,0.0,Credit Card,32.0,4.0,3684.42,Weekday
+ORD101116,2026-02-20,Mumbai,Home & Kitchen,Electric Kettle,1.0,1054.15,10.0,UPI,30.0,2.0,948.7350000000001,Weekday
+ORD100174,2026-01-23,Chennai,Beauty,Hair Serum,1.0,517.58,0.0,UPI,20.0,5.0,517.58,Weekday
+ORD101447,2026-02-22,Chennai,Home & Kitchen,Storage Containers,4.0,513.77,5.0,UPI,36.0,4.0,1952.3259999999998,Weekend
+ORD100860,2026-03-26,Pune,Fashion,Denim Jacket,1.0,1698.71,0.0,UPI,35.0,3.0,1698.71,Weekday
+ORD100972,2026-05-12,Mumbai,Grocery,Green Tea Pack,1.0,259.68,10.0,UPI,28.0,,233.71200000000002,Weekday
+ORD101663,2026-04-24,Chennai,Fashion,Cotton T-Shirt,1.0,589.68,20.0,Cash on Delivery,34.0,4.0,471.74399999999997,Weekday
+ORD100048,2026-03-01,Hyderabad,Electronics,USB-C Cable,1.0,286.87,0.0,Net Banking,32.0,,286.87,Weekend
+ORD101221,2026-06-18,Bengaluru,Grocery,Honey Jar,1.0,307.96,0.0,Credit Card,36.0,4.0,307.96,Weekday
+ORD100467,2026-06-13,Delhi,Grocery,Green Tea Pack,4.0,251.55,15.0,UPI,37.0,,855.27,Weekend
+ORD100153,2026-03-14,Mumbai,Grocery,Almonds 500g,2.0,543.23,20.0,UPI,22.0,3.0,869.1680000000001,Weekend
+ORD101700,2026-04-01,Mumbai,Fashion,Running Shoes,2.0,2579.32,15.0,Net Banking,38.0,4.0,4384.844,Weekday
+ORD100394,2026-06-15,Bengaluru,Electronics,Power Bank,2.0,1039.45,0.0,UPI,50.0,3.0,2078.9,Weekday
+ORD100123,2026-05-04,Mumbai,Fashion,Backpack,4.0,1272.36,0.0,UPI,27.0,3.0,5089.44,Weekday
+ORD100355,2026-01-05,Mumbai,Home & Kitchen,Non-stick Pan,1.0,823.36,0.0,Credit Card,27.0,5.0,823.36,Weekday
+ORD100134,2026-05-05,Bengaluru,Fashion,Cotton T-Shirt,1.0,613.12,10.0,UPI,38.0,5.0,551.808,Weekday
+ORD100268,2026-01-16,Pune,Grocery,Basmati Rice 5kg,1.0,666.97,10.0,Net Banking,32.0,4.0,600.273,Weekday
+ORD100385,2026-04-16,Mumbai,Fashion,Denim Jacket,3.0,1841.92,0.0,UPI,16.0,3.0,5525.76,Weekday
+ORD100609,2026-01-02,Pune,Fashion,Cotton T-Shirt,2.0,595.07,5.0,UPI,38.0,,1130.633,Weekday
+ORD100220,2026-05-18,Mumbai,Electronics,Power Bank,1.0,996.22,25.0,UPI,39.0,,747.165,Weekday
+ORD100041,2026-03-01,Bengaluru,Fashion,Sunglasses,1.0,881.83,5.0,UPI,32.0,3.0,837.7385,Weekend
+ORD100219,2026-02-18,Hyderabad,Fashion,Running Shoes,1.0,2453.92,0.0,UPI,36.0,,2453.92,Weekday
+ORD100597,2026-04-13,Pune,Electronics,Smart Watch,2.0,2843.47,10.0,UPI,49.0,4.0,5118.246,Weekday
+ORD101149,2026-06-09,Pune,Electronics,Bluetooth Speaker,1.0,1894.5,10.0,Debit Card,36.0,4.0,1705.05,Weekday
+ORD101139,2026-03-04,Mumbai,Fashion,Sunglasses,1.0,904.75,5.0,UPI,38.0,4.0,859.5124999999999,Weekday
+ORD100946,2026-03-24,Bengaluru,Home & Kitchen,Storage Containers,1.0,481.42,0.0,UPI,52.0,,481.42,Weekday
+ORD101794,2026-02-08,Bengaluru,Fashion,Running Shoes,5.0,2475.0,0.0,Debit Card,33.0,,12375.0,Weekend
+ORD100691,2026-03-08,Hyderabad,Electronics,Power Bank,2.0,993.01,0.0,UPI,25.0,,1986.02,Weekend
+ORD100541,2026-06-11,Bengaluru,Home & Kitchen,Non-stick Pan,1.0,807.27,0.0,UPI,28.0,,807.27,Weekday
+ORD100883,2026-05-28,Delhi,Grocery,Basmati Rice 5kg,1.0,663.92,0.0,Credit Card,43.0,,663.92,Weekday
+ORD101146,2026-06-13,Delhi,Beauty,Moisturizer,2.0,415.22,15.0,UPI,41.0,,705.874,Weekend
+ORD100855,2026-03-06,Mumbai,Home & Kitchen,Non-stick Pan,2.0,753.87,15.0,UPI,35.0,2.0,1281.579,Weekday
+ORD101706,2026-03-06,Delhi,Beauty,Sunscreen SPF50,1.0,401.35,0.0,Credit Card,36.0,5.0,401.35,Weekday
+ORD101201,2026-06-05,Bengaluru,Grocery,Cooking Oil 1L,3.0,201.35,15.0,Credit Card,23.0,,513.4425,Weekday
+ORD101157,2026-01-21,Bengaluru,Beauty,Sunscreen SPF50,1.0,411.23,20.0,Credit Card,21.0,4.0,328.98400000000004,Weekday
+ORD101180,2026-02-09,Bengaluru,Home & Kitchen,Non-stick Pan,1.0,743.44,0.0,UPI,28.0,2.0,743.44,Weekday
+ORD100961,2026-02-21,Mumbai,Electronics,Wireless Earbuds,2.0,1551.17,0.0,Debit Card,30.0,,3102.34,Weekend
+ORD101433,2026-06-19,Mumbai,Beauty,Lip Balm,2.0,147.37,0.0,UPI,34.0,,294.74,Weekday
+ORD101483,2026-04-30,Bengaluru,Home & Kitchen,Storage Containers,2.0,514.0,0.0,Debit Card,34.0,4.0,1028.0,Weekday
+ORD101623,2026-06-07,Chennai,Grocery,Green Tea Pack,3.0,256.85,0.0,UPI,28.0,,770.5500000000001,Weekend
+ORD101123,2026-01-04,Mumbai,Electronics,Wireless Earbuds,4.0,1560.87,10.0,Debit Card,36.0,4.0,5619.132,Weekend
+ORD101653,2026-01-04,Mumbai,Home & Kitchen,Cushion Cover,3.0,354.87,0.0,Credit Card,38.0,2.0,1064.6100000000001,Weekend
+ORD100798,2026-04-26,Hyderabad,Fashion,Running Shoes,1.0,2524.04,5.0,UPI,26.0,3.0,2397.8379999999997,Weekend
+ORD100721,2026-01-10,Chennai,Fashion,Backpack,2.0,1290.96,0.0,Credit Card,37.0,5.0,2581.92,Weekend
+ORD100336,2026-06-28,Bengaluru,Grocery,Almonds 500g,2.0,558.17,0.0,Debit Card,24.0,4.0,1116.34,Weekend
+ORD100232,2026-03-11,Mumbai,Home & Kitchen,Storage Containers,3.0,497.85,15.0,UPI,48.0,5.0,1269.5175000000002,Weekday
+ORD101470,2026-05-12,Bengaluru,Electronics,USB-C Cable,3.0,288.53,10.0,Credit Card,44.0,4.0,779.031,Weekday
+ORD101297,2026-02-17,Bengaluru,Home & Kitchen,Storage Containers,2.0,492.53,0.0,Credit Card,51.0,,985.06,Weekday
+ORD101420,2026-05-30,Chennai,Electronics,Power Bank,1.0,1042.32,10.0,Credit Card,46.0,,938.088,Weekend
+ORD100468,2026-02-02,Bengaluru,Beauty,Moisturizer,2.0,426.15,0.0,UPI,26.0,4.0,852.3,Weekday
+ORD101244,2026-01-19,Hyderabad,Fashion,Running Shoes,1.0,2396.09,10.0,UPI,32.0,3.0,2156.481,Weekday
+ORD101308,2026-02-22,Pune,Fashion,Sunglasses,2.0,949.08,10.0,Debit Card,44.0,,1708.344,Weekend
+ORD100885,2026-06-06,Delhi,Fashion,Sunglasses,2.0,896.91,10.0,UPI,37.0,4.0,1614.4379999999999,Weekend
+ORD101104,2026-01-22,Delhi,Home & Kitchen,Cushion Cover,3.0,349.53,10.0,Credit Card,41.0,4.0,943.731,Weekday
+ORD100585,2026-03-08,Delhi,Electronics,Wireless Earbuds,1.0,1524.4,15.0,Cash on Delivery,24.0,4.0,1295.74,Weekend
+ORD100205,2026-06-21,Bengaluru,Electronics,Power Bank,1.0,1012.15,10.0,Debit Card,46.0,5.0,910.935,Weekend
+ORD100003,2026-02-05,Chennai,Home & Kitchen,Storage Containers,2.0,512.12,0.0,Debit Card,24.0,3.0,1024.24,Weekday
+ORD100717,2026-03-29,Delhi,Electronics,Wireless Earbuds,1.0,1493.43,0.0,Debit Card,25.0,,1493.43,Weekend
+ORD101732,2026-02-18,Delhi,Beauty,Face Wash,2.0,248.39,5.0,UPI,30.0,4.0,471.941,Weekday
+ORD101028,2026-06-25,Delhi,Home & Kitchen,Storage Containers,3.0,469.81,0.0,Debit Card,49.0,5.0,1409.43,Weekday
+ORD101674,2026-01-17,Bengaluru,Electronics,Smart Watch,3.0,3035.89,25.0,Credit Card,43.0,5.0,6830.7525000000005,Weekend
+ORD101232,2026-03-17,Mumbai,Electronics,USB-C Cable,1.0,299.2,0.0,UPI,28.0,5.0,299.2,Weekday
+ORD100693,2026-06-28,Bengaluru,Fashion,Denim Jacket,3.0,1917.53,0.0,Unknown,19.0,,5752.59,Weekend
+ORD101523,2026-02-24,Delhi,Grocery,Honey Jar,4.0,305.27,0.0,Debit Card,16.0,4.0,1221.08,Weekday
+ORD101504,2026-06-18,Bengaluru,Beauty,Face Wash,2.0,246.56,5.0,UPI,39.0,,468.464,Weekday
+ORD100714,2026-04-09,Mumbai,Grocery,Cooking Oil 1L,1.0,188.54,5.0,Net Banking,27.0,4.0,179.11299999999997,Weekday
+ORD100893,2026-01-29,Pune,Beauty,Face Wash,2.0,248.24,0.0,Credit Card,58.0,,496.48,Weekday
+ORD101599,2026-01-17,Pune,Grocery,Honey Jar,1.0,287.15,15.0,Net Banking,39.0,4.0,244.0775,Weekend
+ORD101418,2026-02-05,Mumbai,Grocery,Honey Jar,2.0,306.81,20.0,Cash on Delivery,32.0,,490.896,Weekday
+ORD101293,2026-03-23,Chennai,Grocery,Green Tea Pack,1.0,262.98,0.0,UPI,32.0,4.0,262.98,Weekday
+ORD101301,2026-06-20,Chennai,Home & Kitchen,Non-stick Pan,1.0,832.41,0.0,UPI,35.0,,832.41,Weekend
+ORD101538,2026-04-25,Chennai,Electronics,Power Bank,1.0,985.96,0.0,Credit Card,45.0,5.0,985.96,Weekend
+ORD101098,2026-04-16,Pune,Fashion,Cotton T-Shirt,2.0,594.79,0.0,Net Banking,28.0,5.0,1189.58,Weekday
+ORD101070,2026-03-25,Pune,Electronics,Bluetooth Speaker,2.0,1927.57,0.0,UPI,56.0,5.0,3855.14,Weekday
+ORD100157,2026-01-30,Delhi,Home & Kitchen,LED Lamp,3.0,596.0,5.0,UPI,43.0,4.0,1698.6,Weekday
+ORD100895,2026-02-07,Hyderabad,Home & Kitchen,LED Lamp,2.0,588.02,0.0,Credit Card,25.0,,1176.04,Weekend
+ORD101457,2026-03-31,Delhi,Grocery,Cooking Oil 1L,1.0,193.63,0.0,UPI,28.0,4.0,193.63,Weekday
+ORD100462,2026-01-07,Bengaluru,Fashion,Running Shoes,2.0,2490.88,25.0,Debit Card,49.0,1.0,3736.32,Weekday
+ORD100652,2026-01-24,Mumbai,Grocery,Honey Jar,1.0,295.67,0.0,UPI,32.0,,295.67,Weekend
+ORD100160,2026-05-03,Bengaluru,Fashion,Sunglasses,1.0,883.64,10.0,Credit Card,16.0,,795.276,Weekend
+ORD100305,2026-02-19,Mumbai,Electronics,USB-C Cable,1.0,296.95,5.0,UPI,16.0,4.0,282.10249999999996,Weekday
+ORD100656,2026-01-25,Delhi,Fashion,Backpack,2.0,1303.54,5.0,Debit Card,21.0,5.0,2476.7259999999997,Weekend
+ORD100547,2026-02-18,Bengaluru,Home & Kitchen,Electric Kettle,3.0,1110.62,15.0,UPI,24.0,5.0,2832.0809999999997,Weekday
+ORD100713,2026-04-02,Hyderabad,Home & Kitchen,Electric Kettle,3.0,1120.01,10.0,Debit Card,23.0,,3024.027,Weekday
+ORD100395,2026-06-01,Pune,Beauty,Sunscreen SPF50,6.0,392.98,10.0,Credit Card,32.0,3.0,2122.092,Weekday
+ORD100399,2026-03-07,Delhi,Electronics,Power Bank,6.0,1013.91,5.0,UPI,16.0,,5779.286999999999,Weekend
+ORD101665,2026-04-25,Delhi,Grocery,Almonds 500g,1.0,551.41,0.0,Credit Card,16.0,,551.41,Weekend
+ORD101399,2026-02-04,Hyderabad,Fashion,Sunglasses,3.0,882.08,20.0,Cash on Delivery,26.0,1.0,2116.992,Weekday
+ORD101251,2026-02-22,Delhi,Electronics,USB-C Cable,1.0,295.1,0.0,UPI,35.0,,295.1,Weekend
+ORD101645,2026-04-30,Bengaluru,Home & Kitchen,Cushion Cover,1.0,346.99,0.0,UPI,30.0,5.0,346.99,Weekday
+ORD100736,2026-05-30,Pune,Fashion,Sunglasses,1.0,892.2,10.0,Debit Card,45.0,5.0,802.98,Weekend
+ORD101526,2026-03-13,Pune,Electronics,Smart Watch,1.0,3066.64,5.0,Cash on Delivery,29.0,,2913.3079999999995,Weekday
+ORD100802,2026-06-29,Hyderabad,Beauty,Sunscreen SPF50,1.0,391.55,0.0,UPI,32.0,3.0,391.55,Weekday
+ORD100459,2026-06-26,Bengaluru,Fashion,Denim Jacket,2.0,1870.02,20.0,Net Banking,23.0,1.0,2992.032,Weekday
+ORD100062,2026-06-11,Bengaluru,Fashion,Denim Jacket,1.0,1909.09,0.0,Net Banking,34.0,3.0,1909.09,Weekday
+ORD100928,2026-03-16,Chennai,Electronics,USB-C Cable,2.0,292.8,5.0,UPI,32.0,5.0,556.32,Weekday
+ORD101041,2026-03-05,Chennai,Beauty,Sunscreen SPF50,1.0,387.79,0.0,Credit Card,28.0,,387.79,Weekday
+ORD100457,2026-05-03,Delhi,Home & Kitchen,Cushion Cover,6.0,345.92,0.0,UPI,22.0,2.0,2075.52,Weekend
+ORD101624,2026-06-20,Chennai,Electronics,Wireless Earbuds,1.0,1497.14,20.0,UPI,46.0,,1197.7120000000002,Weekend
+ORD100478,2026-05-16,Hyderabad,Grocery,Basmati Rice 5kg,2.0,629.86,5.0,Cash on Delivery,28.0,1.0,1196.734,Weekend
+ORD100905,2026-03-12,Pune,Grocery,Green Tea Pack,3.0,252.51,0.0,UPI,32.0,,757.53,Weekday
+ORD101351,2026-05-03,Mumbai,Home & Kitchen,Electric Kettle,2.0,1112.58,0.0,Credit Card,33.0,,2225.16,Weekend
+ORD100617,2026-03-14,Mumbai,Home & Kitchen,Cushion Cover,1.0,345.24,5.0,Credit Card,36.0,,327.978,Weekend
+ORD101696,2026-01-22,Mumbai,Electronics,USB-C Cable,2.0,307.6,5.0,Debit Card,33.0,,584.44,Weekday
+ORD101168,2026-01-16,Chennai,Electronics,Bluetooth Speaker,4.0,1922.09,20.0,UPI,27.0,,6150.688,Weekday
+ORD101296,2026-06-21,Delhi,Home & Kitchen,LED Lamp,1.0,579.23,0.0,Debit Card,32.0,3.0,579.23,Weekend
+ORD101044,2026-01-31,Hyderabad,Home & Kitchen,Storage Containers,2.0,474.55,0.0,Credit Card,29.0,,949.1,Weekend
+ORD101478,2026-01-29,Hyderabad,Beauty,Sunscreen SPF50,1.0,370.99,0.0,Credit Card,42.0,,370.99,Weekday
+ORD100347,2026-02-22,Mumbai,Electronics,Smart Watch,1.0,2959.84,0.0,UPI,32.0,5.0,2959.84,Weekend
+ORD100830,2026-04-29,Hyderabad,Electronics,Smart Watch,2.0,3079.78,15.0,Net Banking,24.0,,5235.626,Weekday
+ORD101095,2026-04-26,Pune,Electronics,Wireless Earbuds,1.0,1514.97,20.0,UPI,25.0,5.0,1211.976,Weekend
+ORD100777,2026-01-15,Delhi,Grocery,Cooking Oil 1L,2.0,179.36,5.0,UPI,33.0,,340.784,Weekday
+ORD100760,2026-04-11,Mumbai,Electronics,Bluetooth Speaker,5.0,1869.1,20.0,Debit Card,56.0,4.0,7476.400000000001,Weekend
+ORD100446,2026-05-01,Chennai,Home & Kitchen,Cushion Cover,2.0,356.44,0.0,UPI,31.0,5.0,712.88,Weekday
+ORD100650,2026-01-17,Bengaluru,Home & Kitchen,LED Lamp,3.0,609.09,0.0,Unknown,32.0,2.0,1827.27,Weekend
+ORD101277,2026-05-15,Bengaluru,Fashion,Cotton T-Shirt,1.0,618.9,0.0,UPI,48.0,5.0,618.9,Weekday
+ORD101633,2026-05-08,Bengaluru,Electronics,Power Bank,1.0,1011.6,0.0,UPI,26.0,5.0,1011.6,Weekday
+ORD100379,2026-06-03,Pune,Fashion,Cotton T-Shirt,1.0,591.38,5.0,Net Banking,30.0,5.0,561.8109999999999,Weekday
+ORD100564,2026-03-05,Delhi,Electronics,Wireless Earbuds,2.0,1482.63,0.0,UPI,32.0,2.0,2965.26,Weekday
+ORD101581,2026-04-25,Delhi,Fashion,Cotton T-Shirt,1.0,602.55,5.0,UPI,37.0,3.0,572.4224999999999,Weekend
+ORD101210,2026-02-10,Mumbai,Electronics,Wireless Earbuds,1.0,1399.4,0.0,Debit Card,34.0,,1399.4,Weekday
+ORD101739,2026-05-11,Pune,Fashion,Running Shoes,2.0,2464.22,0.0,UPI,36.0,4.0,4928.44,Weekday
+ORD100903,2026-03-04,Bengaluru,Electronics,Bluetooth Speaker,2.0,1994.98,15.0,UPI,46.0,5.0,3391.466,Weekday
+ORD100231,2026-04-12,Delhi,Home & Kitchen,Storage Containers,2.0,505.71,0.0,Credit Card,37.0,3.0,1011.42,Weekend
+ORD101432,2026-06-04,Mumbai,Electronics,Power Bank,1.0,1015.11,5.0,Credit Card,45.0,,964.3544999999999,Weekday
+ORD100382,2026-06-22,Hyderabad,Home & Kitchen,Storage Containers,3.0,491.48,20.0,UPI,16.0,4.0,1179.5520000000001,Weekday
+ORD101074,2026-02-05,Bengaluru,Grocery,Honey Jar,1.0,293.5,5.0,Credit Card,31.0,,278.825,Weekday
+ORD101634,2026-02-07,Delhi,Grocery,Basmati Rice 5kg,4.0,671.82,0.0,Cash on Delivery,33.0,4.0,2687.28,Weekend
+ORD100072,2026-04-11,Chennai,Home & Kitchen,Electric Kettle,2.0,1086.18,0.0,Net Banking,32.0,4.0,2172.36,Weekend
+ORD100070,2026-01-17,Hyderabad,Home & Kitchen,Electric Kettle,5.0,1054.22,25.0,UPI,32.0,,3953.3250000000003,Weekend
+ORD101582,2026-03-22,Pune,Home & Kitchen,Storage Containers,1.0,501.76,5.0,Credit Card,21.0,5.0,476.67199999999997,Weekend
+ORD101556,2026-01-29,Mumbai,Electronics,Wireless Earbuds,3.0,1612.06,0.0,Debit Card,32.0,,4836.18,Weekday
+ORD100171,2026-02-25,Delhi,Home & Kitchen,LED Lamp,1.0,602.56,15.0,Debit Card,29.0,5.0,512.1759999999999,Weekday
+ORD101102,2026-04-15,Mumbai,Electronics,Power Bank,1.0,1004.16,0.0,UPI,42.0,2.0,1004.16,Weekday
+ORD100168,2026-04-10,Delhi,Electronics,Smart Watch,1.0,2979.21,0.0,UPI,27.0,3.0,2979.21,Weekday
+ORD100493,2026-06-14,Pune,Grocery,Honey Jar,3.0,295.87,5.0,Debit Card,22.0,5.0,843.2295,Weekend
+ORD101618,2026-02-12,Mumbai,Fashion,Backpack,3.0,1348.4,25.0,Credit Card,23.0,4.0,3033.9,Weekday
+ORD101226,2026-03-30,Delhi,Home & Kitchen,Cushion Cover,2.0,347.32,20.0,Debit Card,31.0,,555.712,Weekday
+ORD101051,2026-04-13,Chennai,Beauty,Moisturizer,1.0,446.8,0.0,Debit Card,50.0,4.0,446.8,Weekday
+ORD100272,2026-06-11,Mumbai,Beauty,Sunscreen SPF50,1.0,370.09,0.0,UPI,28.0,5.0,370.09,Weekday
+ORD101183,2026-03-12,Chennai,Beauty,Hair Serum,2.0,558.87,5.0,Credit Card,33.0,5.0,1061.853,Weekday
+ORD100420,2026-03-31,Chennai,Beauty,Lip Balm,1.0,153.33,5.0,Credit Card,25.0,5.0,145.6635,Weekday
+ORD100094,2026-01-02,Hyderabad,Home & Kitchen,Storage Containers,1.0,512.1,0.0,Net Banking,22.0,5.0,512.1,Weekday
+ORD101755,2026-04-19,Delhi,Electronics,Bluetooth Speaker,3.0,1877.13,0.0,Net Banking,21.0,,5631.39,Weekend
+ORD101438,2026-05-16,Bengaluru,Electronics,Bluetooth Speaker,1.0,1928.76,0.0,Debit Card,41.0,,1928.76,Weekend
+ORD101449,2026-03-31,Hyderabad,Fashion,Cotton T-Shirt,3.0,592.25,15.0,Credit Card,44.0,3.0,1510.2375,Weekday
+ORD100042,2026-03-19,Mumbai,Grocery,Honey Jar,3.0,293.68,0.0,UPI,23.0,3.0,881.04,Weekday
+ORD100056,2026-01-03,Mumbai,Home & Kitchen,Non-stick Pan,1.0,814.74,0.0,Credit Card,38.0,3.0,814.74,Weekend
+ORD101455,2026-02-13,Mumbai,Fashion,Running Shoes,1.0,2344.46,5.0,Unknown,41.0,3.0,2227.237,Weekday
+ORD101688,2026-01-18,Delhi,Grocery,Green Tea Pack,1.0,245.22,0.0,Credit Card,37.0,4.0,245.22,Weekend
+ORD101177,2026-02-07,Bengaluru,Electronics,Wireless Earbuds,4.0,1578.64,25.0,Debit Card,33.0,4.0,4735.92,Weekend
+ORD101353,2026-04-13,Mumbai,Electronics,USB-C Cable,1.0,302.29,0.0,Credit Card,37.0,4.0,302.29,Weekday
+ORD100038,2026-05-12,Mumbai,Beauty,Hair Serum,1.0,557.09,0.0,UPI,32.0,4.0,557.09,Weekday
+ORD100306,2026-05-23,Mumbai,Fashion,Running Shoes,2.0,2499.87,0.0,UPI,37.0,2.0,4999.74,Weekend
+ORD100837,2026-06-21,Bengaluru,Home & Kitchen,LED Lamp,4.0,576.33,20.0,Debit Card,24.0,5.0,1844.2560000000003,Weekend
+ORD100971,2026-06-23,Bengaluru,Grocery,Cooking Oil 1L,2.0,180.26,5.0,Debit Card,26.0,,342.49399999999997,Weekday
+ORD101778,2026-05-24,Mumbai,Electronics,USB-C Cable,3.0,294.47,0.0,Debit Card,16.0,4.0,883.4100000000001,Weekend
+ORD100782,2026-04-26,Chennai,Electronics,Smart Watch,2.0,2984.89,10.0,Debit Card,28.0,,5372.802,Weekend
+ORD100408,2026-03-03,Mumbai,Electronics,USB-C Cable,1.0,316.42,0.0,UPI,48.0,,316.42,Weekday
+ORD100824,2026-04-22,Bengaluru,Electronics,Wireless Earbuds,2.0,1448.49,0.0,UPI,34.0,5.0,2896.98,Weekday
+ORD100781,2026-02-13,Hyderabad,Grocery,Basmati Rice 5kg,2.0,654.33,0.0,UPI,45.0,,1308.66,Weekday
+ORD100166,2026-06-07,Mumbai,Grocery,Honey Jar,1.0,300.22,10.0,Net Banking,32.0,3.0,270.19800000000004,Weekend
+ORD100534,2026-01-29,Mumbai,Home & Kitchen,Electric Kettle,1.0,1062.49,5.0,Credit Card,26.0,4.0,1009.3655,Weekday
+ORD100583,2026-06-11,Chennai,Grocery,Green Tea Pack,1.0,235.05,0.0,Cash on Delivery,32.0,5.0,235.05,Weekday
+ORD101150,2026-06-13,Pune,Home & Kitchen,Electric Kettle,1.0,1135.89,0.0,UPI,33.0,5.0,1135.89,Weekend
+ORD101729,2026-06-29,Pune,Fashion,Cotton T-Shirt,2.0,599.85,0.0,Cash on Delivery,28.0,,1199.7,Weekday
+ORD101302,2026-01-09,Mumbai,Electronics,Power Bank,1.0,1009.31,0.0,UPI,32.0,4.0,1009.31,Weekday
+ORD101736,2026-04-14,Delhi,Electronics,Power Bank,4.0,997.75,20.0,UPI,36.0,4.0,3192.8,Weekday
+ORD101719,2026-06-01,Chennai,Electronics,Wireless Earbuds,5.0,1429.74,0.0,Net Banking,32.0,,7148.7,Weekday
+ORD101517,2026-01-17,Pune,Beauty,Sunscreen SPF50,1.0,407.77,0.0,UPI,32.0,4.0,407.77,Weekend
+ORD101587,2026-04-03,Delhi,Home & Kitchen,LED Lamp,3.0,626.07,0.0,Credit Card,34.0,,1878.21,Weekday
+ORD100813,2026-06-29,Delhi,Electronics,Wireless Earbuds,2.0,1543.54,5.0,Cash on Delivery,42.0,4.0,2932.7259999999997,Weekday
+ORD100316,2026-04-01,Delhi,Grocery,Cooking Oil 1L,4.0,190.73,0.0,UPI,35.0,,762.92,Weekday
+ORD101494,2026-04-01,Delhi,Home & Kitchen,Cushion Cover,2.0,357.67,0.0,UPI,34.0,2.0,715.34,Weekday
+ORD101568,2026-06-14,Bengaluru,Fashion,Sunglasses,1.0,853.47,0.0,UPI,26.0,3.0,853.47,Weekend
+ORD100516,2026-04-23,Mumbai,Beauty,Face Wash,1.0,247.79,15.0,Credit Card,26.0,4.0,210.6215,Weekday
+ORD100935,2026-01-24,Delhi,Electronics,Bluetooth Speaker,1.0,1896.52,20.0,Credit Card,26.0,2.0,1517.2160000000001,Weekend
+ORD101524,2026-02-01,Pune,Home & Kitchen,Non-stick Pan,1.0,823.26,15.0,Debit Card,20.0,,699.771,Weekend
+ORD101088,2026-02-04,Delhi,Electronics,Smart Watch,2.0,2922.33,0.0,UPI,28.0,5.0,5844.66,Weekday
+ORD100533,2026-03-24,Hyderabad,Fashion,Cotton T-Shirt,4.0,610.85,0.0,UPI,27.0,,2443.4,Weekday
+ORD101559,2026-03-11,Bengaluru,Home & Kitchen,Storage Containers,1.0,512.73,0.0,Debit Card,29.0,4.0,512.73,Weekday
+ORD101097,2026-05-04,Pune,Home & Kitchen,Electric Kettle,2.0,1079.41,5.0,Credit Card,35.0,5.0,2050.879,Weekday
+ORD100271,2026-04-10,Pune,Fashion,Running Shoes,1.0,2513.01,20.0,Credit Card,22.0,2.0,2010.4080000000004,Weekday
+ORD100548,2026-01-18,Pune,Fashion,Backpack,2.0,1304.77,0.0,Net Banking,28.0,,2609.54,Weekend
+ORD100668,2026-04-24,Chennai,Grocery,Cooking Oil 1L,3.0,191.57,0.0,Credit Card,16.0,4.0,574.71,Weekday
+ORD101493,2026-02-10,Bengaluru,Home & Kitchen,Storage Containers,2.0,498.52,0.0,Credit Card,29.0,5.0,997.04,Weekday
+ORD100453,2026-05-20,Bengaluru,Fashion,Sunglasses,2.0,914.51,0.0,UPI,44.0,1.0,1829.02,Weekday
+ORD100606,2026-01-24,Bengaluru,Fashion,Cotton T-Shirt,4.0,630.22,25.0,UPI,17.0,3.0,1890.66,Weekend
+ORD101547,2026-03-13,Mumbai,Grocery,Basmati Rice 5kg,3.0,674.17,0.0,UPI,38.0,,2022.5099999999998,Weekday
+ORD101783,2026-05-09,Hyderabad,Fashion,Backpack,1.0,1295.79,0.0,Debit Card,20.0,4.0,1295.79,Weekend
+ORD100804,2026-04-16,Bengaluru,Beauty,Sunscreen SPF50,2.0,411.18,0.0,UPI,16.0,3.0,822.36,Weekday
+ORD100598,2026-04-04,Mumbai,Electronics,Wireless Earbuds,1.0,1490.55,0.0,Debit Card,22.0,4.0,1490.55,Weekend
+ORD100867,2026-02-17,Bengaluru,Grocery,Almonds 500g,6.0,560.9,0.0,UPI,24.0,3.0,3365.3999999999996,Weekday
+ORD100951,2026-01-28,Delhi,Grocery,Almonds 500g,4.0,538.93,20.0,Credit Card,29.0,4.0,1724.576,Weekday
+ORD100570,2026-01-11,Hyderabad,Electronics,Power Bank,2.0,993.12,0.0,UPI,41.0,,1986.24,Weekend
+ORD101643,2026-01-10,Delhi,Beauty,Sunscreen SPF50,1.0,406.76,0.0,Credit Card,16.0,,406.76,Weekend
+ORD100061,2026-04-08,Hyderabad,Grocery,Honey Jar,3.0,296.56,20.0,Credit Card,27.0,,711.7440000000001,Weekday
+ORD101261,2026-04-02,Hyderabad,Fashion,Cotton T-Shirt,1.0,617.8,0.0,Credit Card,29.0,,617.8,Weekday
+ORD100536,2026-03-19,Pune,Fashion,Running Shoes,1.0,2403.59,0.0,UPI,30.0,4.0,2403.59,Weekday
+ORD100090,2026-01-22,Bengaluru,Electronics,Bluetooth Speaker,1.0,1877.63,0.0,UPI,35.0,,1877.63,Weekday
+ORD101247,2026-01-11,Delhi,Fashion,Cotton T-Shirt,4.0,575.66,20.0,Cash on Delivery,43.0,,1842.112,Weekend
+ORD101737,2026-04-17,Pune,Fashion,Sunglasses,1.0,-931.8,10.0,Net Banking,33.0,3.0,-838.62,Weekday
+ORD101442,2026-03-13,Delhi,Home & Kitchen,Electric Kettle,2.0,1123.63,0.0,Debit Card,21.0,2.0,2247.26,Weekday
+ORD100244,2026-03-19,Pune,Electronics,Bluetooth Speaker,2.0,1870.46,0.0,Cash on Delivery,32.0,,3740.92,Weekday
+ORD100025,2026-03-16,Chennai,Grocery,Green Tea Pack,1.0,247.17,0.0,Debit Card,42.0,,247.17,Weekday
+ORD101604,2026-06-19,Bengaluru,Electronics,Bluetooth Speaker,2.0,1870.46,5.0,Credit Card,37.0,4.0,3553.874,Weekday
+ORD100875,2026-03-14,Pune,Beauty,Sunscreen SPF50,3.0,402.39,0.0,UPI,38.0,2.0,1207.17,Weekend
+ORD100222,2026-05-17,Mumbai,Fashion,Cotton T-Shirt,3.0,569.21,0.0,Cash on Delivery,39.0,4.0,1707.63,Weekend
+ORD101317,2026-05-30,Delhi,Beauty,Moisturizer,3.0,451.03,10.0,Credit Card,40.0,2.0,1217.781,Weekend
+ORD100105,2026-03-12,Hyderabad,Fashion,Denim Jacket,3.0,1789.77,0.0,UPI,32.0,4.0,5369.3099999999995,Weekday
+ORD100673,2026-03-12,Delhi,Fashion,Sunglasses,3.0,903.04,0.0,Credit Card,48.0,2.0,2709.12,Weekday
+ORD100642,2026-03-02,Delhi,Beauty,Lip Balm,1.0,160.75,20.0,Debit Card,49.0,5.0,128.6,Weekday
+ORD101198,2026-04-07,Hyderabad,Electronics,Smart Watch,2.0,3057.85,5.0,UPI,38.0,3.0,5809.915,Weekday
+ORD100665,2026-02-25,Mumbai,Home & Kitchen,Non-stick Pan,1.0,782.28,0.0,UPI,46.0,3.0,782.28,Weekday
+ORD100509,2026-06-29,Hyderabad,Grocery,Cooking Oil 1L,1.0,190.25,0.0,UPI,34.0,5.0,190.25,Weekday
+ORD100131,2026-04-13,Delhi,Home & Kitchen,Storage Containers,2.0,509.56,0.0,Debit Card,21.0,,1019.12,Weekday
+ORD101238,2026-05-23,Mumbai,Beauty,Lip Balm,3.0,154.19,0.0,Credit Card,30.0,,462.57,Weekend
+ORD100444,2026-01-17,Delhi,Electronics,Wireless Earbuds,2.0,1454.3,0.0,Cash on Delivery,48.0,,2908.6,Weekend
+ORD100945,2026-03-12,Mumbai,Grocery,Cooking Oil 1L,1.0,191.8,15.0,Credit Card,16.0,,163.03,Weekday
+ORD100508,2026-01-28,Pune,Grocery,Green Tea Pack,3.0,236.52,0.0,UPI,47.0,5.0,709.5600000000001,Weekday
+ORD100866,2026-03-09,Bengaluru,Grocery,Green Tea Pack,1.0,249.61,20.0,Cash on Delivery,25.0,5.0,199.68800000000002,Weekday
+ORD100985,2026-06-09,Delhi,Electronics,Wireless Earbuds,1.0,1458.23,0.0,Credit Card,22.0,5.0,1458.23,Weekday
+ORD100955,2026-02-27,Chennai,Electronics,Power Bank,1.0,975.47,0.0,Debit Card,32.0,3.0,975.47,Weekday
+ORD100075,2026-06-25,Delhi,Fashion,Backpack,1.0,1258.35,10.0,UPI,35.0,,1132.5149999999999,Weekday
+ORD100036,2026-04-27,Hyderabad,Electronics,Bluetooth Speaker,3.0,1910.38,5.0,UPI,22.0,,5444.583,Weekday
+ORD101614,2026-04-20,Mumbai,Home & Kitchen,Cushion Cover,1.0,353.36,0.0,Cash on Delivery,26.0,3.0,353.36,Weekday
+ORD100057,2026-05-27,Hyderabad,Grocery,Basmati Rice 5kg,3.0,668.51,20.0,Net Banking,44.0,5.0,1604.424,Weekday
+ORD100196,2026-01-09,Chennai,Home & Kitchen,LED Lamp,3.0,624.73,5.0,UPI,16.0,5.0,1780.4805,Weekday
+ORD101509,2026-01-22,Delhi,Fashion,Running Shoes,1.0,2627.63,0.0,Credit Card,35.0,3.0,2627.63,Weekday
+ORD101716,2026-03-02,Pune,Electronics,Wireless Earbuds,2.0,1578.04,0.0,UPI,37.0,,3156.08,Weekday
+ORD101357,2026-03-07,Delhi,Fashion,Sunglasses,2.0,905.88,0.0,UPI,18.0,2.0,1811.76,Weekend
+ORD100321,2026-05-13,Pune,Electronics,USB-C Cable,1.0,310.64,0.0,Credit Card,29.0,5.0,310.64,Weekday
+ORD101471,2026-05-21,Bengaluru,Beauty,Lip Balm,2.0,148.93,0.0,UPI,24.0,,297.86,Weekday
+ORD100977,2026-03-17,Pune,Grocery,Green Tea Pack,5.0,253.91,10.0,Net Banking,35.0,4.0,1142.595,Weekday
+ORD100477,2026-06-11,Mumbai,Grocery,Basmati Rice 5kg,1.0,630.12,0.0,UPI,30.0,,630.12,Weekday
+ORD100086,2026-01-26,Chennai,Fashion,Sunglasses,1.0,895.67,10.0,UPI,25.0,5.0,806.103,Weekday
+ORD101681,2026-04-20,Delhi,Grocery,Honey Jar,2.0,301.5,0.0,Net Banking,32.0,5.0,603.0,Weekday
+ORD100561,2026-03-29,Mumbai,Fashion,Backpack,2.0,1288.61,20.0,UPI,28.0,,2061.776,Weekend
+ORD100771,2026-03-25,Chennai,Electronics,Wireless Earbuds,1.0,1485.57,0.0,Credit Card,25.0,4.0,1485.57,Weekday
+ORD100334,2026-06-24,Chennai,Fashion,Backpack,1.0,1325.06,0.0,Cash on Delivery,40.0,3.0,1325.06,Weekday
+ORD101125,2026-04-18,Bengaluru,Home & Kitchen,LED Lamp,2.0,600.49,20.0,UPI,25.0,4.0,960.7840000000001,Weekend
+ORD101260,2026-02-18,Pune,Home & Kitchen,Storage Containers,2.0,491.43,0.0,Unknown,48.0,4.0,982.86,Weekday
+ORD101654,2026-04-23,Chennai,Fashion,Running Shoes,1.0,2307.63,0.0,Credit Card,33.0,4.0,2307.63,Weekday
+ORD101124,2026-04-02,Chennai,Electronics,Wireless Earbuds,1.0,1513.43,0.0,Net Banking,51.0,,1513.43,Weekday
+ORD100708,2026-06-26,Mumbai,Fashion,Sunglasses,1.0,927.4,0.0,Debit Card,38.0,5.0,927.4,Weekday
+ORD101173,2026-01-09,Delhi,Electronics,Wireless Earbuds,2.0,1472.48,0.0,UPI,22.0,4.0,2944.96,Weekday
+ORD101414,2026-05-01,Bengaluru,Fashion,Sunglasses,3.0,885.54,0.0,UPI,22.0,5.0,2656.62,Weekday
+ORD101246,2026-03-26,Bengaluru,Beauty,Lip Balm,2.0,149.78,25.0,UPI,31.0,2.0,224.67000000000002,Weekday
+ORD101288,2026-04-13,Hyderabad,Home & Kitchen,Cushion Cover,1.0,338.83,0.0,Debit Card,36.0,5.0,338.83,Weekday
+ORD101419,2026-03-27,Chennai,Fashion,Running Shoes,1.0,2487.44,10.0,UPI,18.0,2.0,2238.696,Weekday
+ORD100538,2026-01-20,Delhi,Electronics,Wireless Earbuds,5.0,1552.54,0.0,Net Banking,36.0,4.0,7762.7,Weekday
+ORD101078,2026-05-24,Mumbai,Grocery,Green Tea Pack,2.0,245.37,0.0,UPI,32.0,,490.74,Weekend
+ORD101309,2026-02-01,Delhi,Electronics,Wireless Earbuds,1.0,1461.47,0.0,Credit Card,28.0,,1461.47,Weekend
+ORD101075,2026-03-18,Delhi,Grocery,Basmati Rice 5kg,4.0,621.32,0.0,Credit Card,35.0,5.0,2485.28,Weekday
+ORD101488,2026-06-16,Bengaluru,Beauty,Lip Balm,2.0,161.67,5.0,UPI,17.0,5.0,307.17299999999994,Weekday
+ORD101752,2026-05-05,Hyderabad,Beauty,Sunscreen SPF50,1.0,401.13,0.0,Net Banking,21.0,4.0,401.13,Weekday
+ORD100418,2026-06-28,Mumbai,Fashion,Sunglasses,4.0,899.99,0.0,Credit Card,39.0,5.0,3599.96,Weekend
+ORD101704,2026-04-14,Mumbai,Grocery,Almonds 500g,5.0,551.17,0.0,Credit Card,26.0,4.0,2755.85,Weekday
+ORD101703,2026-04-20,Hyderabad,Electronics,Wireless Earbuds,3.0,1515.36,0.0,Debit Card,17.0,4.0,4546.08,Weekday
+ORD101676,2026-02-07,Hyderabad,Electronics,Wireless Earbuds,1.0,1485.1,0.0,Net Banking,30.0,3.0,1485.1,Weekend
+ORD100573,2026-05-17,Pune,Fashion,Backpack,3.0,1233.6,20.0,Debit Card,40.0,4.0,2960.64,Weekend
+ORD100936,2026-03-20,Bengaluru,Fashion,Backpack,1.0,1385.91,0.0,Credit Card,27.0,4.0,1385.91,Weekday
+ORD101548,2026-05-06,Chennai,Electronics,Bluetooth Speaker,1.0,1905.88,10.0,Credit Card,23.0,,1715.2920000000001,Weekday
+ORD100332,2026-04-19,Pune,Grocery,Cooking Oil 1L,1.0,197.85,0.0,UPI,21.0,5.0,197.85,Weekend
+ORD100851,2026-01-15,Bengaluru,Fashion,Denim Jacket,2.0,1775.98,5.0,UPI,20.0,3.0,3374.362,Weekday
+ORD100810,2026-03-31,Mumbai,Fashion,Running Shoes,5.0,2612.74,0.0,UPI,33.0,5.0,13063.699999999999,Weekday
+ORD100735,2026-04-18,Hyderabad,Grocery,Honey Jar,4.0,310.91,0.0,Debit Card,46.0,3.0,1243.64,Weekend
+ORD100901,2026-04-27,Bengaluru,Fashion,Denim Jacket,3.0,1793.71,0.0,UPI,19.0,,5381.13,Weekday
+ORD101640,2026-02-08,Pune,Home & Kitchen,Cushion Cover,6.0,360.37,0.0,Credit Card,21.0,,2162.2200000000003,Weekend
+ORD100574,2026-02-11,Hyderabad,Electronics,Smart Watch,2.0,2994.0299999999997,20.0,Credit Card,34.0,3.0,4790.447999999999,Weekday
+ORD101566,2026-06-21,Hyderabad,Electronics,Power Bank,4.0,967.33,0.0,Debit Card,39.0,4.0,3869.32,Weekend
+ORD101397,2026-05-22,Chennai,Home & Kitchen,Non-stick Pan,4.0,773.48,20.0,Cash on Delivery,32.0,2.0,2475.1360000000004,Weekday
+ORD101330,2026-04-20,Mumbai,Electronics,Power Bank,1.0,1019.44,0.0,Debit Card,31.0,2.0,1019.44,Weekday
+ORD101661,2026-05-27,Delhi,Home & Kitchen,LED Lamp,2.0,606.65,0.0,Debit Card,26.0,2.0,1213.3,Weekday
+ORD101586,2026-06-25,Bengaluru,Home & Kitchen,Non-stick Pan,2.0,802.22,0.0,Credit Card,37.0,,1604.44,Weekday
+ORD101602,2026-05-30,Mumbai,Grocery,Green Tea Pack,1.0,248.88,20.0,UPI,33.0,5.0,199.104,Weekend
+ORD101466,2026-04-08,Hyderabad,Home & Kitchen,Electric Kettle,1.0,1127.3,20.0,Credit Card,35.0,4.0,901.84,Weekday
+ORD101427,2026-02-13,Hyderabad,Electronics,USB-C Cable,2.0,291.29,0.0,UPI,39.0,3.0,582.58,Weekday
+ORD100008,2026-02-14,Pune,Fashion,Cotton T-Shirt,3.0,601.11,5.0,UPI,34.0,,1713.1634999999999,Weekend
+ORD101042,2026-05-20,Bengaluru,Fashion,Backpack,1.0,1343.44,25.0,Cash on Delivery,28.0,3.0,1007.58,Weekday
+ORD101686,2026-03-09,Bengaluru,Home & Kitchen,Non-stick Pan,4.0,794.28,0.0,Unknown,28.0,3.0,3177.12,Weekday
+ORD101569,2026-03-04,Mumbai,Beauty,Moisturizer,1.0,446.19,0.0,UPI,35.0,4.0,446.19,Weekday
+ORD101229,2026-05-20,Delhi,Home & Kitchen,Cushion Cover,1.0,354.7,0.0,Credit Card,29.0,5.0,354.7,Weekday
+ORD101631,2026-03-19,Mumbai,Fashion,Denim Jacket,2.0,1769.55,0.0,UPI,16.0,2.0,3539.1,Weekday
+ORD100304,2026-01-29,Mumbai,Beauty,Hair Serum,1.0,554.0,10.0,Cash on Delivery,31.0,2.0,498.6,Weekday
+ORD101376,2026-01-06,Mumbai,Fashion,Sunglasses,2.0,899.76,0.0,Credit Card,20.0,,1799.52,Weekday
+ORD101580,2026-04-23,Delhi,Fashion,Running Shoes,1.0,2487.68,0.0,Debit Card,31.0,,2487.68,Weekday
+ORD100074,2026-04-22,Mumbai,Fashion,Denim Jacket,1.0,1673.92,5.0,Net Banking,16.0,2.0,1590.224,Weekday
+ORD101137,2026-01-08,Pune,Fashion,Running Shoes,3.0,2478.69,5.0,UPI,28.0,4.0,7064.2665,Weekday
+ORD100522,2026-05-08,Pune,Grocery,Cooking Oil 1L,3.0,196.87,0.0,UPI,31.0,5.0,590.61,Weekday
+ORD100335,2026-04-29,Mumbai,Home & Kitchen,Cushion Cover,1.0,338.34,5.0,Credit Card,28.0,,321.42299999999994,Weekday
+ORD100569,2026-06-06,Bengaluru,Electronics,Bluetooth Speaker,2.0,1827.78,0.0,UPI,25.0,5.0,3655.56,Weekend
+ORD100590,2026-02-12,Chennai,Electronics,Wireless Earbuds,2.0,1543.67,20.0,Debit Card,28.0,5.0,2469.8720000000003,Weekday
+ORD100088,2026-04-02,Mumbai,Grocery,Basmati Rice 5kg,1.0,620.66,0.0,Net Banking,29.0,4.0,620.66,Weekday
+ORD100874,2026-05-03,Mumbai,Beauty,Face Wash,2.0,249.9,15.0,Debit Card,32.0,,424.83,Weekend
+ORD100809,2026-04-26,Pune,Electronics,Power Bank,2.0,996.78,5.0,Debit Card,32.0,3.0,1893.8819999999998,Weekend
+ORD101048,2026-04-27,Bengaluru,Beauty,Moisturizer,1.0,480.99,0.0,Credit Card,28.0,,480.99,Weekday
+ORD100217,2026-01-31,Hyderabad,Electronics,Wireless Earbuds,1.0,1548.84,0.0,Credit Card,20.0,,1548.84,Weekend
+ORD100888,2026-05-30,Pune,Home & Kitchen,Electric Kettle,1.0,1066.67,0.0,Credit Card,34.0,,1066.67,Weekend
+ORD101008,2026-05-04,Mumbai,Fashion,Backpack,1.0,1376.21,0.0,UPI,20.0,,1376.21,Weekday
+ORD100712,2026-03-04,Mumbai,Electronics,Wireless Earbuds,2.0,1518.85,0.0,Debit Card,17.0,3.0,3037.7,Weekday
+ORD101252,2026-05-01,Bengaluru,Fashion,Backpack,1.0,1233.63,0.0,Net Banking,45.0,4.0,1233.63,Weekday
+ORD100856,2026-05-23,Hyderabad,Grocery,Cooking Oil 1L,1.0,193.29,10.0,Debit Card,36.0,1.0,173.96099999999998,Weekend
+ORD100173,2026-02-10,Mumbai,Electronics,Power Bank,1.0,1009.05,5.0,Credit Card,16.0,4.0,958.5975,Weekday
+ORD101678,2026-03-25,Pune,Home & Kitchen,LED Lamp,4.0,579.32,0.0,Debit Card,16.0,4.0,2317.28,Weekday
+ORD101259,2026-06-09,Chennai,Electronics,Wireless Earbuds,1.0,1518.49,0.0,Debit Card,45.0,2.0,1518.49,Weekday
+ORD100221,2026-06-26,Chennai,Fashion,Denim Jacket,1.0,1760.86,0.0,Credit Card,39.0,4.0,1760.86,Weekday
+ORD100319,2026-01-25,Delhi,Fashion,Denim Jacket,2.0,1800.87,0.0,Credit Card,16.0,5.0,3601.74,Weekend
+ORD101592,2026-02-26,Bengaluru,Grocery,Almonds 500g,4.0,550.67,5.0,Debit Card,19.0,,2092.546,Weekday
+ORD101615,2026-02-11,Bengaluru,Grocery,Honey Jar,1.0,290.95,15.0,Credit Card,32.0,2.0,247.30749999999998,Weekday
+ORD100878,2026-05-22,Chennai,Grocery,Honey Jar,1.0,291.06,10.0,UPI,44.0,5.0,261.954,Weekday
+ORD101636,2026-05-04,Delhi,Fashion,Denim Jacket,2.0,1830.61,0.0,Net Banking,38.0,1.0,3661.22,Weekday
+ORD101627,2026-05-20,Hyderabad,Grocery,Cooking Oil 1L,1.0,186.29,0.0,Credit Card,39.0,4.0,186.29,Weekday
+ORD100825,2026-04-27,Delhi,Electronics,Smart Watch,1.0,2942.85,0.0,Net Banking,38.0,4.0,2942.85,Weekday
+ORD100266,2026-06-20,Delhi,Electronics,Bluetooth Speaker,2.0,1935.53,0.0,UPI,49.0,4.0,3871.06,Weekend
+ORD100006,2026-05-07,Delhi,Fashion,Backpack,4.0,1386.86,0.0,UPI,36.0,4.0,5547.44,Weekday
+ORD101228,2026-02-15,Bengaluru,Fashion,Sunglasses,2.0,884.88,0.0,UPI,39.0,5.0,1769.76,Weekend
+ORD101333,2026-03-04,Mumbai,Grocery,Cooking Oil 1L,1.0,190.13,0.0,UPI,19.0,5.0,190.13,Weekday
+ORD100738,2026-02-16,Bengaluru,Beauty,Hair Serum,4.0,525.59,5.0,Credit Card,26.0,5.0,1997.242,Weekday
+ORD100138,2026-05-18,Pune,Fashion,Sunglasses,2.0,894.6,0.0,UPI,40.0,3.0,1789.2,Weekday
+ORD100163,2026-04-25,Hyderabad,Home & Kitchen,Electric Kettle,2.0,1071.41,20.0,Net Banking,37.0,3.0,1714.2560000000003,Weekend
+ORD101502,2026-05-17,Bengaluru,Fashion,Running Shoes,5.0,2470.53,5.0,UPI,27.0,2.0,11735.0175,Weekend
+ORD100594,2026-03-25,Chennai,Fashion,Sunglasses,1.0,885.63,0.0,UPI,40.0,3.0,885.63,Weekday
+ORD101740,2026-05-23,Hyderabad,Home & Kitchen,Storage Containers,2.0,482.48,25.0,Debit Card,38.0,3.0,723.72,Weekend
+ORD101617,2026-01-07,Chennai,Fashion,Backpack,1.0,1260.96,25.0,Debit Card,39.0,4.0,945.72,Weekday
+ORD101326,2026-05-23,Pune,Beauty,Lip Balm,1.0,149.55,0.0,Credit Card,26.0,,149.55,Weekend
+ORD101153,2026-01-11,Mumbai,Beauty,Lip Balm,1.0,149.17,10.0,Cash on Delivery,32.0,,134.253,Weekend
+ORD101733,2026-01-01,Hyderabad,Fashion,Sunglasses,2.0,892.51,0.0,Debit Card,43.0,,1785.02,Weekday
+ORD100960,2026-05-08,Bengaluru,Grocery,Green Tea Pack,1.0,248.63,0.0,Debit Card,42.0,4.0,248.63,Weekday
+ORD101616,2026-06-09,Mumbai,Grocery,Basmati Rice 5kg,1.0,640.12,0.0,Credit Card,33.0,1.0,640.12,Weekday
+ORD101683,2026-01-05,Hyderabad,Electronics,USB-C Cable,6.0,301.62,10.0,Debit Card,35.0,4.0,1628.748,Weekday
+ORD100523,2026-05-20,Bengaluru,Beauty,Face Wash,2.0,246.51,0.0,UPI,22.0,,493.02,Weekday
+ORD101789,2026-02-14,Hyderabad,Home & Kitchen,Electric Kettle,1.0,1039.28,5.0,Debit Card,16.0,,987.3159999999999,Weekend
+ORD100806,2026-01-16,Hyderabad,Grocery,Basmati Rice 5kg,1.0,627.82,0.0,Cash on Delivery,28.0,,627.82,Weekday
+ORD100744,2026-05-04,Mumbai,Fashion,Denim Jacket,2.0,1819.02,0.0,UPI,55.0,,3638.04,Weekday
+ORD101499,2026-02-10,Pune,Electronics,Smart Watch,3.0,2978.85,10.0,UPI,30.0,5.0,8042.8949999999995,Weekday
+ORD100578,2026-03-02,Chennai,Grocery,Honey Jar,2.0,310.8,10.0,UPI,32.0,3.0,559.44,Weekday
+ORD100845,2026-01-12,Mumbai,Electronics,Smart Watch,1.0,2997.49,15.0,Debit Card,35.0,,2547.8664999999996,Weekday
+ORD100019,2026-01-15,Mumbai,Electronics,Bluetooth Speaker,2.0,1943.8,0.0,Credit Card,27.0,3.0,3887.6,Weekday
+ORD101186,2026-03-29,Bengaluru,Fashion,Cotton T-Shirt,2.0,606.9,0.0,UPI,40.0,,1213.8,Weekend
+ORD101671,2026-05-04,Bengaluru,Fashion,Denim Jacket,1.0,1836.78,5.0,UPI,50.0,4.0,1744.9409999999998,Weekday
+ORD100633,2026-01-04,Hyderabad,Beauty,Face Wash,2.0,233.48,0.0,Net Banking,25.0,,466.96,Weekend
+ORD101073,2026-06-16,Bengaluru,Electronics,Power Bank,4.0,1000.61,0.0,Credit Card,30.0,,4002.44,Weekday
+ORD100618,2026-05-12,Chennai,Electronics,Smart Watch,2.0,3007.58,10.0,Debit Card,38.0,5.0,5413.644,Weekday
+ORD101083,2026-06-13,Pune,Electronics,Wireless Earbuds,2.0,1468.87,0.0,Credit Card,28.0,4.0,2937.74,Weekend
+ORD100655,2026-02-11,Mumbai,Home & Kitchen,Electric Kettle,1.0,1079.47,0.0,UPI,17.0,5.0,1079.47,Weekday
+ORD100016,2026-02-02,Hyderabad,Beauty,Lip Balm,2.0,151.83,0.0,UPI,38.0,3.0,303.66,Weekday
+ORD101481,2026-04-24,Delhi,Home & Kitchen,LED Lamp,3.0,583.8,10.0,Debit Card,22.0,5.0,1576.26,Weekday
+ORD101062,2026-03-15,Mumbai,Fashion,Sunglasses,3.0,917.82,0.0,UPI,31.0,3.0,2753.46,Weekend
+ORD100137,2026-01-18,Pune,Grocery,Basmati Rice 5kg,2.0,622.44,0.0,Credit Card,34.0,1.0,1244.88,Weekend
+ORD101120,2026-06-24,Mumbai,Electronics,USB-C Cable,1.0,299.49,5.0,Debit Card,19.0,5.0,284.5155,Weekday
+ORD101380,2026-01-02,Hyderabad,Fashion,Running Shoes,1.0,2325.75,15.0,UPI,40.0,4.0,1976.8875,Weekday
+ORD100557,2026-01-11,Pune,Electronics,Wireless Earbuds,2.0,1531.89,15.0,Debit Card,19.0,5.0,2604.213,Weekend
+ORD100697,2026-04-19,Pune,Home & Kitchen,Electric Kettle,1.0,1105.89,0.0,UPI,41.0,4.0,1105.89,Weekend
+ORD101495,2026-06-12,Mumbai,Electronics,Bluetooth Speaker,4.0,1864.26,10.0,Net Banking,37.0,5.0,6711.336,Weekday
+ORD100158,2026-05-09,Chennai,Beauty,Face Wash,2.0,247.63,0.0,Cash on Delivery,29.0,5.0,495.26,Weekend
+ORD100861,2026-03-16,Mumbai,Beauty,Sunscreen SPF50,1.0,401.13,0.0,Unknown,29.0,,401.13,Weekday
+ORD101796,2026-06-11,Pune,Beauty,Sunscreen SPF50,2.0,388.5,20.0,Credit Card,34.0,5.0,621.6,Weekday
+ORD100448,2026-06-22,Hyderabad,Beauty,Moisturizer,2.0,456.28,0.0,UPI,26.0,1.0,912.56,Weekday
+ORD100368,2026-06-30,Hyderabad,Fashion,Cotton T-Shirt,5.0,603.76,0.0,Debit Card,33.0,1.0,3018.8,Weekday
+ORD101082,2026-06-21,Bengaluru,Grocery,Basmati Rice 5kg,1.0,645.59,0.0,UPI,42.0,3.0,645.59,Weekend
+ORD100327,2026-06-14,Bengaluru,Beauty,Hair Serum,5.0,534.26,20.0,Debit Card,28.0,3.0,2137.0400000000004,Weekend
+ORD100317,2026-03-28,Pune,Beauty,Hair Serum,3.0,541.71,10.0,Credit Card,38.0,,1462.6170000000002,Weekend
+ORD101386,2026-02-08,Bengaluru,Fashion,Running Shoes,5.0,2457.8,0.0,Credit Card,42.0,4.0,12289.0,Weekend
+ORD101347,2026-05-20,Delhi,Electronics,Wireless Earbuds,3.0,1482.68,10.0,Credit Card,33.0,,4003.236,Weekday
+ORD100528,2026-06-02,Bengaluru,Fashion,Sunglasses,3.0,901.87,0.0,UPI,17.0,,2705.61,Weekday
+ORD100526,2026-03-15,Mumbai,Fashion,Cotton T-Shirt,1.0,586.42,10.0,Credit Card,35.0,,527.778,Weekend
+ORD100087,2026-04-12,Pune,Beauty,Sunscreen SPF50,2.0,386.34,10.0,UPI,32.0,3.0,695.4119999999999,Weekend
+ORD101508,2026-06-23,Hyderabad,Home & Kitchen,Storage Containers,1.0,476.23,10.0,Debit Card,34.0,3.0,428.607,Weekday
+ORD100148,2026-03-17,Mumbai,Electronics,USB-C Cable,2.0,299.49,10.0,UPI,24.0,3.0,539.082,Weekday
+ORD101475,2026-05-18,Pune,Fashion,Cotton T-Shirt,1.0,584.15,5.0,UPI,52.0,5.0,554.9425,Weekday
+ORD101370,2026-04-06,Mumbai,Electronics,Wireless Earbuds,1.0,1499.29,10.0,UPI,35.0,3.0,1349.361,Weekday
+ORD100365,2026-01-11,Mumbai,Beauty,Lip Balm,3.0,149.71,10.0,Net Banking,28.0,4.0,404.217,Weekend
+ORD100589,2026-04-12,Hyderabad,Beauty,Sunscreen SPF50,5.0,400.34,10.0,UPI,42.0,,1801.53,Weekend
+ORD101593,2026-01-11,Mumbai,Electronics,USB-C Cable,1.0,309.53,15.0,Credit Card,33.0,3.0,263.10049999999995,Weekend
+ORD100198,2026-04-20,Chennai,Home & Kitchen,Cushion Cover,1.0,350.63,5.0,UPI,38.0,3.0,333.0985,Weekday
+ORD101717,2026-06-02,Mumbai,Electronics,Wireless Earbuds,1.0,1546.75,5.0,Debit Card,29.0,5.0,1469.4125,Weekday
+ORD100192,2026-05-12,Chennai,Home & Kitchen,Electric Kettle,1.0,1135.55,0.0,UPI,26.0,4.0,1135.55,Weekday
+ORD100404,2026-02-18,Delhi,Fashion,Running Shoes,3.0,2462.04,0.0,Unknown,22.0,5.0,7386.12,Weekday
+ORD101429,2026-03-21,Hyderabad,Grocery,Green Tea Pack,4.0,244.28,5.0,UPI,43.0,,928.264,Weekend
+ORD101798,2026-03-03,Mumbai,Fashion,Backpack,2.0,1309.77,0.0,Credit Card,31.0,4.0,2619.54,Weekday
+ORD100483,2026-01-26,Pune,Grocery,Basmati Rice 5kg,2.0,652.94,0.0,Credit Card,39.0,5.0,1305.88,Weekday
+ORD101327,2026-04-02,Chennai,Electronics,USB-C Cable,2.0,315.12,0.0,UPI,39.0,5.0,630.24,Weekday
+ORD100791,2026-03-01,Bengaluru,Electronics,Wireless Earbuds,2.0,1546.77,15.0,Credit Card,31.0,5.0,2629.509,Weekend
+ORD100799,2026-06-13,Delhi,Grocery,Cooking Oil 1L,3.0,184.95,0.0,Debit Card,31.0,2.0,554.8499999999999,Weekend
+ORD100384,2026-03-31,Bengaluru,Fashion,Sunglasses,1.0,892.56,25.0,UPI,38.0,,669.42,Weekday
+ORD100750,2026-05-16,Chennai,Fashion,Backpack,1.0,1281.35,25.0,Credit Card,32.0,,961.0124999999999,Weekend
+ORD100422,2026-02-27,Mumbai,Grocery,Basmati Rice 5kg,2.0,637.45,0.0,UPI,21.0,3.0,1274.9,Weekday
+ORD100314,2026-02-25,Chennai,Fashion,Cotton T-Shirt,2.0,594.57,0.0,UPI,35.0,4.0,1189.14,Weekday
+ORD101021,2026-03-24,Bengaluru,Fashion,Backpack,1.0,1339.16,0.0,UPI,36.0,,1339.16,Weekday
+ORD100543,2026-06-27,Bengaluru,Beauty,Face Wash,1.0,257.02,0.0,Debit Card,39.0,4.0,257.02,Weekend
+ORD100913,2026-01-07,Delhi,Electronics,Smart Watch,1.0,2965.16,25.0,Cash on Delivery,46.0,3.0,2223.87,Weekday
+ORD100662,2026-06-16,Mumbai,Grocery,Basmati Rice 5kg,3.0,640.23,0.0,Credit Card,38.0,,1920.69,Weekday
+ORD100902,2026-03-29,Delhi,Electronics,Bluetooth Speaker,8.0,1888.51,0.0,Cash on Delivery,54.0,4.0,15108.08,Weekend
+ORD101275,2026-03-07,Hyderabad,Fashion,Sunglasses,1.0,871.48,0.0,UPI,27.0,5.0,871.48,Weekend
+ORD100685,2026-02-22,Delhi,Electronics,Bluetooth Speaker,3.0,1903.39,0.0,UPI,35.0,,5710.17,Weekend
+ORD101527,2026-03-08,Pune,Electronics,Wireless Earbuds,2.0,1553.98,10.0,Cash on Delivery,36.0,,2797.164,Weekend
+ORD100159,2026-03-09,Pune,Grocery,Cooking Oil 1L,2.0,185.98,5.0,UPI,46.0,2.0,353.36199999999997,Weekday
+ORD100999,2026-03-12,Chennai,Fashion,Sunglasses,1.0,963.06,0.0,Net Banking,30.0,4.0,963.06,Weekday
+ORD101187,2026-01-22,Pune,Home & Kitchen,Electric Kettle,1.0,1088.82,5.0,Credit Card,30.0,4.0,1034.379,Weekday
+ORD101638,2026-06-21,Mumbai,Grocery,Basmati Rice 5kg,1.0,647.74,15.0,Credit Card,24.0,,550.579,Weekend
+ORD100202,2026-02-13,Bengaluru,Home & Kitchen,Cushion Cover,1.0,361.84,15.0,Debit Card,19.0,,307.56399999999996,Weekday
+ORD101023,2026-04-18,Chennai,Beauty,Face Wash,2.0,254.72,0.0,UPI,38.0,4.0,509.44,Weekend
+ORD101390,2026-02-26,Delhi,Electronics,Power Bank,2.0,1022.32,15.0,Credit Card,24.0,3.0,1737.944,Weekday
+ORD101084,2026-05-09,Mumbai,Fashion,Running Shoes,3.0,2595.68,0.0,Net Banking,32.0,3.0,7787.039999999999,Weekend
+ORD100112,2026-04-15,Delhi,Grocery,Basmati Rice 5kg,2.0,631.57,0.0,UPI,22.0,4.0,1263.14,Weekday
+ORD101642,2026-05-16,Bengaluru,Fashion,Running Shoes,1.0,2388.52,0.0,UPI,28.0,5.0,2388.52,Weekend
+ORD100980,2026-04-25,Chennai,Fashion,Cotton T-Shirt,2.0,580.58,0.0,UPI,33.0,,1161.16,Weekend
+ORD100922,2026-04-05,Mumbai,Grocery,Honey Jar,2.0,307.2,5.0,Cash on Delivery,41.0,4.0,583.68,Weekend
+ORD101350,2026-06-11,Delhi,Home & Kitchen,Cushion Cover,1.0,348.96,0.0,UPI,40.0,4.0,348.96,Weekday
+ORD101443,2026-02-10,Mumbai,Grocery,Almonds 500g,2.0,558.71,0.0,UPI,32.0,,1117.42,Weekday
+ORD101294,2026-03-27,Hyderabad,Home & Kitchen,Non-stick Pan,1.0,812.85,0.0,UPI,42.0,4.0,812.85,Weekday
+ORD101745,2026-05-27,Bengaluru,Home & Kitchen,Storage Containers,1.0,487.95,15.0,Credit Card,32.0,,414.7575,Weekday
+ORD100815,2026-02-23,Bengaluru,Electronics,Wireless Earbuds,1.0,1517.08,20.0,UPI,33.0,3.0,1213.664,Weekday
+ORD101485,2026-04-08,Mumbai,Grocery,Almonds 500g,5.0,543.68,0.0,Credit Card,32.0,3.0,2718.3999999999996,Weekday
+ORD101179,2026-01-27,Mumbai,Electronics,Bluetooth Speaker,1.0,1964.08,0.0,UPI,32.0,,1964.08,Weekday
+ORD100679,2026-06-25,Pune,Electronics,Bluetooth Speaker,1.0,1947.26,0.0,Cash on Delivery,37.0,,1947.26,Weekday
+ORD100080,2026-05-18,Hyderabad,Fashion,Backpack,1.0,1310.35,20.0,Credit Card,32.0,,1048.28,Weekday
+ORD101597,2026-03-23,Mumbai,Beauty,Sunscreen SPF50,3.0,398.83,0.0,UPI,31.0,,1196.49,Weekday
+ORD101227,2026-01-24,Bengaluru,Grocery,Cooking Oil 1L,2.0,190.21,10.0,Debit Card,34.0,2.0,342.37800000000004,Weekend
+ORD101389,2026-04-08,Delhi,Home & Kitchen,Storage Containers,1.0,493.04,10.0,Net Banking,19.0,,443.73600000000005,Weekday
+ORD100752,2026-05-26,Delhi,Electronics,Bluetooth Speaker,3.0,1924.03,0.0,Credit Card,16.0,3.0,5772.09,Weekday
+ORD101205,2026-04-20,Delhi,Electronics,USB-C Cable,1.0,313.43,0.0,Debit Card,35.0,5.0,313.43,Weekday
+ORD101054,2026-04-15,Mumbai,Beauty,Sunscreen SPF50,1.0,406.07,0.0,Debit Card,24.0,,406.07,Weekday
+ORD100242,2026-02-01,Bengaluru,Grocery,Almonds 500g,2.0,563.72,0.0,Credit Card,34.0,5.0,1127.44,Weekend
+ORD101225,2026-06-22,Delhi,Fashion,Running Shoes,2.0,2437.97,25.0,UPI,37.0,5.0,3656.955,Weekday
+ORD100641,2026-01-28,Pune,Electronics,USB-C Cable,1.0,298.04,5.0,UPI,39.0,5.0,283.13800000000003,Weekday
+ORD100696,2026-01-14,Mumbai,Beauty,Face Wash,3.0,248.24,25.0,Credit Card,24.0,2.0,558.54,Weekday
+ORD100209,2026-05-18,Mumbai,Fashion,Cotton T-Shirt,1.0,598.41,0.0,Net Banking,43.0,,598.41,Weekday
+ORD101312,2026-05-10,Hyderabad,Beauty,Hair Serum,2.0,552.74,5.0,Credit Card,36.0,,1050.206,Weekend
+ORD100770,2026-04-15,Pune,Home & Kitchen,LED Lamp,1.0,615.58,25.0,Credit Card,32.0,4.0,461.68500000000006,Weekday
+ORD101591,2026-04-27,Bengaluru,Electronics,Bluetooth Speaker,2.0,1919.8,10.0,UPI,18.0,1.0,3455.64,Weekday
+ORD100435,2026-06-20,Hyderabad,Home & Kitchen,Non-stick Pan,2.0,743.72,0.0,Debit Card,23.0,1.0,1487.44,Weekend
+ORD101063,2026-01-12,Delhi,Grocery,Basmati Rice 5kg,2.0,654.38,0.0,Credit Card,33.0,3.0,1308.76,Weekday
+ORD100974,2026-05-20,Mumbai,Grocery,Basmati Rice 5kg,1.0,647.76,0.0,UPI,33.0,5.0,647.76,Weekday
+ORD100551,2026-03-29,Mumbai,Home & Kitchen,Electric Kettle,1.0,1091.48,0.0,Credit Card,32.0,3.0,1091.48,Weekend
+ORD101272,2026-04-13,Pune,Grocery,Almonds 500g,2.0,559.04,0.0,UPI,38.0,5.0,1118.08,Weekday
+ORD101281,2026-03-04,Mumbai,Home & Kitchen,Cushion Cover,1.0,356.75,0.0,UPI,30.0,,356.75,Weekday
+ORD101013,2026-02-01,Pune,Grocery,Cooking Oil 1L,2.0,181.56,0.0,Debit Card,21.0,,363.12,Weekend
+ORD101710,2026-04-11,Hyderabad,Fashion,Denim Jacket,1.0,1738.96,0.0,UPI,43.0,2.0,1738.96,Weekend
+ORD100466,2026-04-10,Delhi,Grocery,Cooking Oil 1L,1.0,202.65,5.0,UPI,32.0,4.0,192.51749999999998,Weekday
+ORD101342,2026-01-28,Mumbai,Fashion,Denim Jacket,1.0,1864.56,0.0,Credit Card,32.0,,1864.56,Weekday
+ORD101192,2026-02-09,Pune,Home & Kitchen,Electric Kettle,2.0,1105.1,0.0,Credit Card,48.0,4.0,2210.2,Weekday
+ORD100277,2026-06-29,Delhi,Grocery,Almonds 500g,2.0,534.84,0.0,UPI,30.0,2.0,1069.68,Weekday
+ORD101069,2026-03-13,Chennai,Home & Kitchen,Non-stick Pan,1.0,785.47,0.0,UPI,42.0,,785.47,Weekday
+ORD101017,2026-06-17,Mumbai,Electronics,Smart Watch,6.0,2891.79,0.0,Cash on Delivery,22.0,3.0,17350.739999999998,Weekday
+ORD101649,2026-03-07,Mumbai,Fashion,Backpack,1.0,1234.75,5.0,Net Banking,26.0,,1173.0125,Weekend
+ORD100722,2026-03-08,Hyderabad,Electronics,Smart Watch,4.0,3012.25,0.0,UPI,16.0,4.0,12049.0,Weekend
+ORD101769,2026-01-21,Mumbai,Grocery,Basmati Rice 5kg,1.0,651.02,15.0,Credit Card,21.0,,553.367,Weekday
+ORD100786,2026-01-11,Bengaluru,Fashion,Cotton T-Shirt,5.0,584.26,0.0,Credit Card,24.0,3.0,2921.3,Weekend
+ORD101401,2026-06-26,Bengaluru,Home & Kitchen,Electric Kettle,3.0,1121.41,5.0,Debit Card,29.0,5.0,3196.0185,Weekday
+ORD101195,2026-03-02,Mumbai,Electronics,Wireless Earbuds,1.0,1539.17,0.0,Unknown,34.0,,1539.17,Weekday
+ORD101249,2026-01-18,Hyderabad,Electronics,Wireless Earbuds,2.0,1499.26,0.0,UPI,20.0,3.0,2998.52,Weekend
+ORD101189,2026-01-09,Mumbai,Home & Kitchen,Storage Containers,3.0,478.53,0.0,Credit Card,37.0,4.0,1435.59,Weekday
+ORD100906,2026-05-01,Pune,Electronics,USB-C Cable,2.0,303.46,5.0,Credit Card,32.0,5.0,576.574,Weekday
+ORD100563,2026-03-31,Bengaluru,Fashion,Backpack,2.0,1331.26,5.0,UPI,39.0,,2529.394,Weekday
+ORD100388,2026-06-20,Delhi,Grocery,Basmati Rice 5kg,2.0,653.58,20.0,Credit Card,34.0,4.0,1045.728,Weekend
+ORD100022,2026-04-04,Mumbai,Electronics,Wireless Earbuds,5.0,1499.275,0.0,Credit Card,30.0,4.0,7496.375,Weekend
+ORD101117,2026-02-03,Chennai,Grocery,Honey Jar,5.0,297.93,0.0,UPI,32.0,4.0,1489.65,Weekday
+ORD100124,2026-04-30,Delhi,Grocery,Green Tea Pack,2.0,267.01,0.0,Net Banking,34.0,,534.02,Weekday
+ORD101138,2026-04-20,Pune,Home & Kitchen,Storage Containers,1.0,504.81,5.0,Credit Card,32.0,4.0,479.5695,Weekday
+ORD100773,2026-06-01,Hyderabad,Electronics,Smart Watch,1.0,3021.37,0.0,UPI,53.0,3.0,3021.37,Weekday
+ORD100880,2026-03-19,Bengaluru,Electronics,Wireless Earbuds,1.0,1518.13,10.0,Credit Card,36.0,3.0,1366.3170000000002,Weekday
+ORD100050,2026-03-30,Delhi,Fashion,Cotton T-Shirt,5.0,565.0,0.0,UPI,26.0,,2825.0,Weekday
+ORD101273,2026-04-19,Pune,Electronics,Bluetooth Speaker,3.0,1861.46,0.0,Credit Card,35.0,2.0,5584.38,Weekend
+ORD101465,2026-06-12,Bengaluru,Grocery,Cooking Oil 1L,3.0,184.79,0.0,Credit Card,25.0,,554.37,Weekday
+ORD101105,2026-02-21,Pune,Beauty,Hair Serum,1.0,522.34,15.0,UPI,16.0,,443.98900000000003,Weekend
+ORD100703,2026-03-18,Hyderabad,Home & Kitchen,Non-stick Pan,1.0,750.05,10.0,Debit Card,36.0,,675.045,Weekday
+ORD100482,2026-04-03,Pune,Grocery,Green Tea Pack,1.0,251.57,10.0,UPI,27.0,4.0,226.413,Weekday
+ORD101730,2026-02-05,Bengaluru,Grocery,Basmati Rice 5kg,2.0,600.18,0.0,Credit Card,30.0,5.0,1200.36,Weekday
+ORD100066,2026-03-17,Pune,Electronics,Smart Watch,1.0,2937.22,10.0,Net Banking,32.0,4.0,2643.498,Weekday
+ORD101561,2026-06-30,Pune,Fashion,Running Shoes,1.0,2480.12,10.0,UPI,51.0,3.0,2232.108,Weekday
+ORD100733,2026-03-16,Mumbai,Grocery,Almonds 500g,3.0,553.87,0.0,UPI,24.0,1.0,1661.6100000000001,Weekday
+ORD101620,2026-06-08,Hyderabad,Home & Kitchen,Cushion Cover,1.0,353.59,15.0,Debit Card,32.0,1.0,300.5515,Weekday
+ORD100801,2026-05-14,Delhi,Home & Kitchen,LED Lamp,2.0,602.79,0.0,Credit Card,29.0,3.0,1205.58,Weekday
+ORD101402,2026-03-24,Hyderabad,Beauty,Lip Balm,2.0,149.77,0.0,UPI,26.0,5.0,299.54,Weekday
+ORD101336,2026-05-20,Chennai,Grocery,Basmati Rice 5kg,3.0,663.65,0.0,Credit Card,29.0,,1990.9499999999998,Weekday
+ORD100907,2026-02-24,Hyderabad,Grocery,Green Tea Pack,4.0,253.05,0.0,Cash on Delivery,18.0,,1012.2,Weekday
+ORD100031,2026-05-12,Delhi,Fashion,Denim Jacket,1.0,1781.31,10.0,Cash on Delivery,30.0,5.0,1603.179,Weekday
+ORD100417,2026-02-22,Delhi,Home & Kitchen,LED Lamp,1.0,602.08,0.0,UPI,32.0,,602.08,Weekend
+ORD100881,2026-01-26,Mumbai,Beauty,Hair Serum,3.0,519.96,5.0,UPI,33.0,5.0,1481.886,Weekday
+ORD100632,2026-01-24,Hyderabad,Fashion,Cotton T-Shirt,2.0,593.77,15.0,UPI,29.0,1.0,1009.409,Weekend
+ORD101417,2026-02-05,Pune,Grocery,Basmati Rice 5kg,1.0,634.26,0.0,UPI,44.0,4.0,634.26,Weekday
+ORD101741,2026-01-17,Delhi,Grocery,Honey Jar,1.0,303.94,0.0,Credit Card,32.0,,303.94,Weekend
+ORD100064,2026-05-17,Chennai,Grocery,Basmati Rice 5kg,3.0,648.75,0.0,UPI,36.0,4.0,1946.25,Weekend
+ORD101731,2026-06-04,Hyderabad,Electronics,Bluetooth Speaker,1.0,1733.59,15.0,UPI,20.0,4.0,1473.5514999999998,Weekday
+ORD100077,2026-04-22,Bengaluru,Fashion,Denim Jacket,2.0,1853.25,0.0,UPI,47.0,4.0,3706.5,Weekday
+ORD100491,2026-04-20,Delhi,Electronics,Wireless Earbuds,3.0,1537.52,0.0,Debit Card,26.0,4.0,4612.5599999999995,Weekday
+ORD101287,2026-06-26,Mumbai,Home & Kitchen,Non-stick Pan,3.0,829.38,5.0,Cash on Delivery,46.0,3.0,2363.7329999999997,Weekday
+ORD101382,2026-05-19,Mumbai,Home & Kitchen,Non-stick Pan,3.0,801.66,0.0,UPI,25.0,3.0,2404.98,Weekday
+ORD100532,2026-01-29,Pune,Electronics,Wireless Earbuds,1.0,1428.5,15.0,Net Banking,27.0,4.0,1214.225,Weekday
+ORD100065,2026-04-21,Chennai,Grocery,Cooking Oil 1L,2.0,195.49,0.0,Net Banking,24.0,3.0,390.98,Weekday
+ORD101537,2026-02-19,Pune,Fashion,Cotton T-Shirt,2.0,610.88,5.0,UPI,34.0,4.0,1160.672,Weekday
+ORD100296,2026-02-13,Mumbai,Home & Kitchen,Cushion Cover,2.0,350.92,5.0,Net Banking,40.0,5.0,666.748,Weekday
+ORD100591,2026-06-03,Pune,Electronics,USB-C Cable,2.0,315.88,0.0,UPI,26.0,4.0,631.76,Weekday
+ORD100767,2026-03-19,Pune,Home & Kitchen,Electric Kettle,3.0,1113.82,0.0,Net Banking,32.0,4.0,3341.46,Weekday
+ORD100724,2026-05-25,Delhi,Fashion,Sunglasses,1.0,899.87,20.0,Debit Card,34.0,4.0,719.8960000000001,Weekday
+ORD100626,2026-04-02,Hyderabad,Grocery,Honey Jar,1.0,298.99,0.0,UPI,26.0,4.0,298.99,Weekday
+ORD101285,2026-03-28,Delhi,Grocery,Basmati Rice 5kg,3.0,633.39,0.0,Net Banking,40.0,5.0,1900.17,Weekend
+ORD101763,2026-01-01,Hyderabad,Electronics,Smart Watch,1.0,2911.23,0.0,UPI,32.0,3.0,2911.23,Weekday
+ORD101464,2026-06-09,Delhi,Grocery,Almonds 500g,3.0,558.85,0.0,Cash on Delivery,37.0,,1676.5500000000002,Weekday
+ORD100251,2026-06-29,Bengaluru,Home & Kitchen,Storage Containers,2.0,508.04,5.0,UPI,22.0,,965.276,Weekday
+ORD101651,2026-06-09,Hyderabad,Fashion,Backpack,4.0,1288.76,0.0,Debit Card,33.0,3.0,5155.04,Weekday
+ORD101200,2026-03-10,Bengaluru,Electronics,Smart Watch,1.0,2937.46,0.0,Net Banking,41.0,5.0,2937.46,Weekday
+ORD101723,2026-05-12,Bengaluru,Home & Kitchen,LED Lamp,4.0,626.1,0.0,UPI,38.0,3.0,2504.4,Weekday
+ORD100982,2026-02-10,Delhi,Fashion,Cotton T-Shirt,1.0,587.32,10.0,Debit Card,16.0,5.0,528.5880000000001,Weekday
+ORD101609,2026-06-30,Hyderabad,Home & Kitchen,Storage Containers,2.0,490.68,10.0,Debit Card,32.0,1.0,883.224,Weekday
+ORD100706,2026-04-23,Chennai,Home & Kitchen,Electric Kettle,1.0,1115.16,10.0,Net Banking,39.0,5.0,1003.6440000000001,Weekday
+ORD100487,2026-06-15,Chennai,Electronics,Bluetooth Speaker,1.0,1883.7,10.0,Debit Card,36.0,5.0,1695.3300000000002,Weekday
+ORD100273,2026-03-16,Delhi,Home & Kitchen,Storage Containers,2.0,484.89,15.0,Credit Card,38.0,,824.313,Weekday
+ORD101367,2026-06-29,Pune,Fashion,Sunglasses,1.0,913.2,0.0,UPI,27.0,2.0,913.2,Weekday
+ORD101518,2026-04-17,Mumbai,Fashion,Sunglasses,1.0,894.52,5.0,UPI,26.0,4.0,849.794,Weekday
+ORD100963,2026-03-10,Mumbai,Electronics,Smart Watch,2.0,2848.3,10.0,UPI,27.0,3.0,5126.9400000000005,Weekday
+ORD100877,2026-06-28,Bengaluru,Electronics,Smart Watch,3.0,3031.46,0.0,Net Banking,21.0,4.0,9094.380000000001,Weekend
+ORD101279,2026-01-07,Pune,Fashion,Running Shoes,1.0,2515.71,0.0,Debit Card,28.0,4.0,2515.71,Weekday
+ORD101677,2026-05-31,Mumbai,Beauty,Moisturizer,6.0,425.44,0.0,Credit Card,51.0,4.0,2552.64,Weekend
+ORD100411,2026-02-13,Pune,Home & Kitchen,LED Lamp,2.0,572.09,0.0,UPI,41.0,4.0,1144.18,Weekday
+ORD100667,2026-01-11,Delhi,Grocery,Cooking Oil 1L,4.0,177.58,5.0,Debit Card,24.0,5.0,674.804,Weekend
+ORD100149,2026-05-15,Mumbai,Home & Kitchen,Cushion Cover,1.0,364.01,15.0,UPI,25.0,3.0,309.4085,Weekday
+ORD100644,2026-03-28,Chennai,Grocery,Cooking Oil 1L,3.0,194.65,0.0,UPI,38.0,5.0,583.95,Weekend
+ORD101458,2026-05-21,Pune,Beauty,Moisturizer,1.0,430.28,10.0,UPI,16.0,,387.252,Weekday
+ORD100218,2026-01-10,Bengaluru,Home & Kitchen,Cushion Cover,3.0,356.6,20.0,Debit Card,27.0,4.0,855.8400000000001,Weekend
+ORD100239,2026-03-29,Delhi,Home & Kitchen,Cushion Cover,2.0,342.16,20.0,UPI,38.0,5.0,547.456,Weekend
+ORD101131,2026-05-14,Bengaluru,Fashion,Cotton T-Shirt,5.0,585.33,5.0,UPI,35.0,,2780.3175,Weekday
+ORD100792,2026-05-27,Hyderabad,Electronics,Wireless Earbuds,2.0,1464.15,20.0,UPI,48.0,5.0,2342.6400000000003,Weekday
+ORD100191,2026-01-17,Mumbai,Electronics,Wireless Earbuds,1.0,1500.42,0.0,Debit Card,27.0,3.0,1500.42,Weekend
+ORD100333,2026-06-01,Chennai,Electronics,Wireless Earbuds,1.0,1528.83,5.0,Credit Card,40.0,3.0,1452.3884999999998,Weekday
+ORD100962,2026-04-09,Pune,Beauty,Sunscreen SPF50,2.0,387.58,10.0,Debit Card,18.0,5.0,697.644,Weekday
+ORD101206,2026-05-10,Hyderabad,Electronics,USB-C Cable,3.0,305.15,25.0,UPI,47.0,4.0,686.5875,Weekend
+ORD101767,2026-04-29,Mumbai,Electronics,Smart Watch,1.0,3065.93,25.0,Credit Card,26.0,5.0,2299.4474999999998,Weekday
+ORD101501,2026-05-12,Mumbai,Fashion,Denim Jacket,2.0,1821.84,0.0,Credit Card,25.0,5.0,3643.68,Weekday
+ORD101469,2026-03-29,Bengaluru,Beauty,Sunscreen SPF50,1.0,402.42,15.0,Net Banking,33.0,4.0,342.057,Weekend
+ORD100582,2026-04-09,Bengaluru,Electronics,Bluetooth Speaker,1.0,1946.56,0.0,UPI,38.0,,1946.56,Weekday
+ORD101773,2026-01-12,Bengaluru,Home & Kitchen,Electric Kettle,3.0,1135.42,5.0,Cash on Delivery,32.0,,3235.947,Weekday
+ORD101307,2026-03-01,Bengaluru,Home & Kitchen,Non-stick Pan,1.0,785.47,0.0,Credit Card,35.0,5.0,785.47,Weekend
+ORD100839,2026-02-08,Bengaluru,Grocery,Honey Jar,4.0,296.43,0.0,Debit Card,18.0,3.0,1185.72,Weekend
+ORD100627,2026-03-18,Bengaluru,Electronics,Bluetooth Speaker,2.0,1927.29,10.0,UPI,25.0,2.0,3469.122,Weekday
+ORD100323,2026-04-20,Bengaluru,Beauty,Face Wash,3.0,251.92,0.0,Debit Card,35.0,3.0,755.76,Weekday
+ORD101492,2026-02-03,Delhi,Electronics,Power Bank,2.0,979.54,25.0,UPI,27.0,4.0,1469.31,Weekday
+ORD101160,2026-05-07,Delhi,Fashion,Running Shoes,1.0,2499.0,0.0,Debit Card,20.0,,2499.0,Weekday
+ORD100778,2026-02-13,Delhi,Fashion,Running Shoes,2.0,2397.23,10.0,Credit Card,31.0,4.0,4315.014,Weekday
+ORD101076,2026-02-25,Delhi,Home & Kitchen,LED Lamp,1.0,604.1,0.0,UPI,40.0,,604.1,Weekday
+ORD100939,2026-03-20,Bengaluru,Home & Kitchen,Cushion Cover,1.0,346.83,25.0,UPI,20.0,,260.1225,Weekday
+ORD100437,2026-03-10,Mumbai,Home & Kitchen,Cushion Cover,1.0,325.11,20.0,Net Banking,16.0,5.0,260.088,Weekday
+ORD100119,2026-03-23,Delhi,Electronics,Bluetooth Speaker,2.0,1885.55,0.0,Debit Card,52.0,,3771.1,Weekday
+ORD101709,2026-01-17,Delhi,Grocery,Basmati Rice 5kg,1.0,638.35,0.0,UPI,34.0,2.0,638.35,Weekend
+ORD101026,2026-01-16,Delhi,Electronics,Wireless Earbuds,2.0,1453.88,0.0,Debit Card,32.0,5.0,2907.76,Weekday
+ORD101257,2026-02-23,Mumbai,Fashion,Running Shoes,1.0,2524.61,0.0,Debit Card,32.0,4.0,2524.61,Weekday
+ORD100076,2026-05-27,Bengaluru,Grocery,Honey Jar,1.0,294.44,0.0,UPI,33.0,,294.44,Weekday
+ORD101053,2026-05-04,Pune,Beauty,Lip Balm,1.0,156.05,0.0,Debit Card,26.0,4.0,156.05,Weekday
+ORD100900,2026-06-06,Mumbai,Grocery,Honey Jar,1.0,284.78,0.0,Cash on Delivery,18.0,3.0,284.78,Weekend
+ORD100371,2026-01-07,Hyderabad,Electronics,Smart Watch,2.0,3072.46,5.0,UPI,26.0,4.0,5837.674,Weekday
+ORD101689,2026-01-02,Mumbai,Electronics,Wireless Earbuds,5.0,1496.3,15.0,Debit Card,38.0,,6359.275,Weekday
+ORD101790,2026-03-03,Pune,Electronics,Bluetooth Speaker,1.0,1897.58,0.0,Credit Card,49.0,3.0,1897.58,Weekday
+ORD100941,2026-04-06,Chennai,Home & Kitchen,Storage Containers,2.0,515.77,0.0,Net Banking,39.0,3.0,1031.54,Weekday
+ORD100577,2026-02-23,Mumbai,Home & Kitchen,Non-stick Pan,1.0,825.52,0.0,Unknown,31.0,5.0,825.52,Weekday
+ORD100819,2026-03-20,Delhi,Home & Kitchen,Storage Containers,3.0,494.99,0.0,Net Banking,29.0,4.0,1484.97,Weekday
+ORD101334,2026-01-02,Mumbai,Home & Kitchen,Electric Kettle,3.0,1038.89,0.0,UPI,41.0,4.0,3116.67,Weekday
+ORD101354,2026-05-28,Mumbai,Electronics,Power Bank,3.0,970.31,0.0,UPI,36.0,,2910.93,Weekday
+ORD101571,2026-03-22,Delhi,Home & Kitchen,Electric Kettle,1.0,1109.4,0.0,UPI,44.0,,1109.4,Weekend
+ORD101673,2026-01-09,Bengaluru,Home & Kitchen,Storage Containers,2.0,515.65,20.0,Credit Card,44.0,,825.04,Weekday
+ORD100886,2026-05-24,Delhi,Grocery,Cooking Oil 1L,1.0,196.65,0.0,UPI,32.0,,196.65,Weekend
+ORD100968,2026-01-11,Mumbai,Grocery,Almonds 500g,1.0,561.36,0.0,Net Banking,41.0,,561.36,Weekend
+ORD100785,2026-05-23,Mumbai,Electronics,Power Bank,1.0,1051.65,0.0,Credit Card,29.0,4.0,1051.65,Weekend
+ORD101396,2026-04-10,Chennai,Electronics,USB-C Cable,3.0,301.22,10.0,Net Banking,38.0,4.0,813.2940000000001,Weekday
+ORD101461,2026-04-12,Pune,Electronics,USB-C Cable,1.0,300.62,15.0,Credit Card,34.0,1.0,255.527,Weekend
+ORD100301,2026-01-17,Hyderabad,Electronics,Smart Watch,2.0,3005.36,5.0,UPI,53.0,,5710.184,Weekend
+ORD100689,2026-03-21,Pune,Home & Kitchen,Storage Containers,2.0,491.25,0.0,UPI,26.0,4.0,982.5,Weekend
+ORD100812,2026-05-29,Chennai,Beauty,Lip Balm,1.0,152.95,15.0,UPI,20.0,4.0,130.0075,Weekday
+ORD101061,2026-03-16,Delhi,Fashion,Backpack,3.0,1251.28,20.0,Cash on Delivery,34.0,,3003.072,Weekday
+ORD100236,2026-05-01,Bengaluru,Home & Kitchen,Cushion Cover,1.0,332.87,20.0,UPI,28.0,,266.296,Weekday
+ORD101115,2026-06-28,Delhi,Electronics,Wireless Earbuds,1.0,1418.63,0.0,UPI,23.0,4.0,1418.63,Weekend
+ORD101324,2026-03-17,Hyderabad,Fashion,Cotton T-Shirt,1.0,614.86,5.0,UPI,32.0,,584.117,Weekday
+ORD100499,2026-06-27,Mumbai,Grocery,Green Tea Pack,3.0,252.17,0.0,UPI,26.0,5.0,756.51,Weekend
+ORD101506,2026-05-26,Hyderabad,Home & Kitchen,Cushion Cover,1.0,358.36,0.0,UPI,37.0,,358.36,Weekday
+ORD101079,2026-06-07,Bengaluru,Fashion,Cotton T-Shirt,2.0,608.83,10.0,Credit Card,22.0,,1095.894,Weekend
+ORD100794,2026-02-27,Bengaluru,Fashion,Denim Jacket,1.0,1837.66,0.0,UPI,21.0,,1837.66,Weekday
+ORD101570,2026-01-07,Pune,Fashion,Running Shoes,1.0,2508.42,0.0,Debit Card,49.0,4.0,2508.42,Weekday
+ORD100990,2026-04-19,Delhi,Home & Kitchen,Non-stick Pan,4.0,799.27,0.0,Debit Card,40.0,,3197.08,Weekend
+ORD101450,2026-02-06,Hyderabad,Fashion,Denim Jacket,1.0,1855.76,0.0,Net Banking,29.0,3.0,1855.76,Weekday
+ORD100934,2026-03-23,Delhi,Beauty,Sunscreen SPF50,3.0,408.35,20.0,UPI,28.0,,980.0400000000002,Weekday
+ORD100387,2026-01-21,Bengaluru,Grocery,Green Tea Pack,1.0,250.28,0.0,Net Banking,43.0,5.0,250.28,Weekday
+ORD100390,2026-02-13,Pune,Grocery,Almonds 500g,4.0,532.77,0.0,Debit Card,39.0,4.0,2131.08,Weekday
+ORD100743,2026-05-25,Bengaluru,Home & Kitchen,Storage Containers,3.0,479.29,0.0,UPI,47.0,3.0,1437.8700000000001,Weekday
+ORD100352,2026-04-17,Delhi,Fashion,Cotton T-Shirt,1.0,611.72,0.0,Unknown,38.0,4.0,611.72,Weekday
+ORD101217,2026-04-10,Delhi,Fashion,Cotton T-Shirt,3.0,603.15,15.0,UPI,32.0,,1538.0324999999998,Weekday
+ORD100235,2026-04-19,Delhi,Fashion,Cotton T-Shirt,1.0,610.01,0.0,UPI,33.0,4.0,610.01,Weekend
+ORD101550,2026-06-06,Mumbai,Home & Kitchen,Electric Kettle,2.0,1035.15,0.0,Credit Card,22.0,5.0,2070.3,Weekend
+ORD100480,2026-02-21,Delhi,Electronics,Bluetooth Speaker,1.0,1893.13,0.0,Debit Card,20.0,,1893.13,Weekend
+ORD100567,2026-03-02,Pune,Grocery,Honey Jar,2.0,297.97,0.0,Net Banking,33.0,2.0,595.94,Weekday
+ORD101140,2026-04-30,Mumbai,Electronics,USB-C Cable,1.0,284.72,20.0,UPI,19.0,2.0,227.77600000000004,Weekday
+ORD101531,2026-01-01,Delhi,Grocery,Green Tea Pack,1.0,251.69,0.0,UPI,26.0,,251.69,Weekday
+ORD101690,2026-05-23,Chennai,Fashion,Backpack,2.0,1280.05,0.0,Credit Card,29.0,4.0,2560.1,Weekend
+ORD101421,2026-04-21,Pune,Electronics,Smart Watch,3.0,2958.26,15.0,Cash on Delivery,21.0,,7543.563,Weekday
+ORD100120,2026-05-14,Pune,Beauty,Face Wash,1.0,246.07,0.0,Cash on Delivery,32.0,,246.07,Weekday
+ORD101567,2026-02-08,Delhi,Beauty,Hair Serum,2.0,580.11,0.0,Debit Card,35.0,,1160.22,Weekend
+ORD101024,2026-06-02,Delhi,Grocery,Basmati Rice 5kg,4.0,676.72,0.0,Credit Card,37.0,5.0,2706.88,Weekday
+ORD101086,2026-03-14,Mumbai,Grocery,Basmati Rice 5kg,3.0,638.63,10.0,Cash on Delivery,18.0,,1724.301,Weekend
+ORD100926,2026-03-07,Mumbai,Grocery,Cooking Oil 1L,2.0,204.48,0.0,Cash on Delivery,42.0,5.0,408.96,Weekend
+ORD100515,2026-02-10,Delhi,Fashion,Backpack,1.0,1303.54,25.0,Net Banking,23.0,,977.655,Weekday
+ORD100223,2026-01-21,Mumbai,Electronics,Power Bank,3.0,1061.45,0.0,UPI,38.0,,3184.3500000000004,Weekday
+ORD101343,2026-01-05,Pune,Electronics,USB-C Cable,3.0,290.75,25.0,UPI,35.0,2.0,654.1875,Weekday
+ORD100613,2026-06-20,Delhi,Fashion,Cotton T-Shirt,1.0,590.27,0.0,Credit Card,30.0,,590.27,Weekend
+ORD100843,2026-02-11,Pune,Home & Kitchen,Electric Kettle,1.0,1126.95,5.0,Debit Card,31.0,3.0,1070.6025,Weekday
+ORD101245,2026-01-15,Chennai,Home & Kitchen,Cushion Cover,1.0,366.49,0.0,UPI,31.0,4.0,366.49,Weekday
+ORD100052,2026-02-08,Delhi,Home & Kitchen,Cushion Cover,2.0,347.07,10.0,UPI,35.0,,624.726,Weekend
+ORD101701,2026-04-14,Hyderabad,Fashion,Backpack,2.0,1219.86,0.0,Debit Card,52.0,,2439.72,Weekday
+ORD100485,2026-02-21,Bengaluru,Fashion,Backpack,1.0,1256.12,0.0,Debit Card,40.0,3.0,1256.12,Weekend
+ORD101734,2026-06-25,Pune,Beauty,Face Wash,2.0,239.66,15.0,UPI,47.0,2.0,407.42199999999997,Weekday
+ORD100818,2026-01-05,Bengaluru,Grocery,Basmati Rice 5kg,1.0,654.11,10.0,UPI,16.0,3.0,588.6990000000001,Weekday
+ORD100155,2026-02-02,Mumbai,Electronics,Wireless Earbuds,2.0,1557.46,0.0,Credit Card,47.0,4.0,3114.92,Weekday
+ORD100600,2026-03-16,Mumbai,Home & Kitchen,Non-stick Pan,1.0,852.11,0.0,UPI,29.0,3.0,852.11,Weekday
+ORD101725,2026-01-16,Mumbai,Grocery,Almonds 500g,5.0,537.32,0.0,Credit Card,43.0,5.0,2686.6000000000004,Weekday
+ORD100248,2026-01-02,Chennai,Beauty,Lip Balm,1.0,154.48,0.0,UPI,25.0,3.0,154.48,Weekday
+ORD100761,2026-04-14,Mumbai,Home & Kitchen,Non-stick Pan,2.0,800.61,0.0,UPI,35.0,,1601.22,Weekday
+ORD101658,2026-05-26,Hyderabad,Home & Kitchen,Non-stick Pan,1.0,873.05,0.0,UPI,25.0,,873.05,Weekday
+ORD101130,2026-06-16,Hyderabad,Grocery,Cooking Oil 1L,2.0,185.48,20.0,Debit Card,22.0,3.0,296.768,Weekday
+ORD100542,2026-06-05,Delhi,Electronics,Power Bank,1.0,950.29,0.0,Credit Card,44.0,3.0,950.29,Weekday
+ORD100793,2026-04-05,Hyderabad,Beauty,Hair Serum,2.0,522.22,0.0,UPI,49.0,4.0,1044.44,Weekend
+ORD101141,2026-02-12,Delhi,Grocery,Cooking Oil 1L,5.0,191.68,10.0,UPI,35.0,,862.5600000000001,Weekday
+ORD101323,2026-06-15,Mumbai,Grocery,Cooking Oil 1L,1.0,201.75,0.0,Credit Card,36.0,1.0,201.75,Weekday
+ORD100628,2026-06-03,Chennai,Grocery,Honey Jar,1.0,291.97,0.0,UPI,40.0,3.0,291.97,Weekday
+ORD100150,2026-03-19,Bengaluru,Beauty,Sunscreen SPF50,1.0,415.86,15.0,Debit Card,32.0,3.0,353.481,Weekday
+ORD101491,2026-03-04,Pune,Home & Kitchen,Non-stick Pan,3.0,773.01,20.0,Credit Card,29.0,2.0,1855.224,Weekday
+ORD100291,2026-06-05,Bengaluru,Electronics,USB-C Cable,3.0,-292.06,0.0,Debit Card,31.0,,-876.1800000000001,Weekday
+ORD100381,2026-05-19,Delhi,Home & Kitchen,Cushion Cover,1.0,333.43,0.0,Credit Card,26.0,3.0,333.43,Weekday
+ORD100686,2026-04-17,Chennai,Home & Kitchen,Non-stick Pan,1.0,798.81,0.0,UPI,33.0,,798.81,Weekday
+ORD101224,2026-04-02,Hyderabad,Fashion,Cotton T-Shirt,2.0,611.75,0.0,UPI,39.0,,1223.5,Weekday
+ORD100897,2026-03-31,Pune,Home & Kitchen,Electric Kettle,1.0,1077.27,0.0,UPI,16.0,,1077.27,Weekday
+ORD100854,2026-05-29,Bengaluru,Electronics,Power Bank,1.0,995.87,0.0,Net Banking,28.0,1.0,995.87,Weekday
+ORD101071,2026-02-05,Bengaluru,Fashion,Backpack,2.0,1335.01,10.0,Debit Card,39.0,4.0,2403.018,Weekday
+ORD101384,2026-05-21,Delhi,Electronics,Wireless Earbuds,2.0,1522.15,0.0,Net Banking,27.0,,3044.3,Weekday
+ORD100891,2026-05-20,Mumbai,Grocery,Cooking Oil 1L,1.0,176.0,5.0,UPI,42.0,4.0,167.2,Weekday
+ORD100615,2026-03-19,Mumbai,Beauty,Moisturizer,2.0,454.62,0.0,Cash on Delivery,33.0,,909.24,Weekday
+ORD100154,2026-06-08,Hyderabad,Home & Kitchen,Electric Kettle,1.0,1098.26,15.0,UPI,45.0,5.0,933.521,Weekday
+ORD101193,2026-06-20,Delhi,Electronics,Power Bank,1.0,-991.53,25.0,UPI,22.0,4.0,-743.6475,Weekend
+ORD101555,2026-04-15,Delhi,Home & Kitchen,Storage Containers,1.0,494.66,5.0,UPI,43.0,4.0,469.927,Weekday
+ORD100322,2026-02-10,Mumbai,Electronics,Wireless Earbuds,2.0,1457.93,0.0,UPI,33.0,5.0,2915.86,Weekday
+ORD101403,2026-05-25,Bengaluru,Fashion,Sunglasses,3.0,866.13,5.0,Credit Card,37.0,,2468.4705,Weekday
+ORD101282,2026-04-08,Pune,Electronics,Smart Watch,1.0,2994.0299999999997,15.0,Credit Card,40.0,,2544.9255,Weekday
+ORD100082,2026-04-12,Delhi,Fashion,Running Shoes,1.0,2464.03,0.0,UPI,27.0,5.0,2464.03,Weekend
+ORD100512,2026-02-14,Bengaluru,Grocery,Basmati Rice 5kg,1.0,669.18,20.0,Cash on Delivery,24.0,,535.3439999999999,Weekend
+ORD101383,2026-02-24,Bengaluru,Electronics,USB-C Cable,2.0,299.49,5.0,Net Banking,25.0,5.0,569.031,Weekday
+ORD100929,2026-02-23,Pune,Grocery,Basmati Rice 5kg,1.0,676.31,5.0,UPI,20.0,4.0,642.4944999999999,Weekday
+ORD101482,2026-04-04,Mumbai,Beauty,Moisturizer,1.0,444.97,0.0,UPI,21.0,5.0,444.97,Weekend
+ORD100010,2026-06-17,Delhi,Fashion,Sunglasses,2.0,919.63,0.0,Debit Card,42.0,3.0,1839.26,Weekday
+ORD100831,2026-04-09,Hyderabad,Home & Kitchen,LED Lamp,2.0,603.0,0.0,UPI,16.0,5.0,1206.0,Weekday
+ORD100032,2026-03-20,Chennai,Electronics,USB-C Cable,1.0,307.11,0.0,Cash on Delivery,34.0,5.0,307.11,Weekday
+ORD101375,2026-04-13,Delhi,Home & Kitchen,Non-stick Pan,1.0,848.63,5.0,UPI,26.0,,806.1985,Weekday
+ORD100413,2026-02-15,Chennai,Electronics,Smart Watch,3.0,2961.11,0.0,UPI,39.0,4.0,8883.33,Weekend
+ORD100580,2026-04-06,Hyderabad,Beauty,Face Wash,4.0,267.41,0.0,UPI,32.0,,1069.64,Weekday
+ORD101406,2026-06-18,Bengaluru,Home & Kitchen,Cushion Cover,2.0,354.28,5.0,Debit Card,33.0,,673.132,Weekday
+ORD100614,2026-04-24,Delhi,Home & Kitchen,LED Lamp,4.0,629.07,0.0,Cash on Delivery,43.0,5.0,2516.28,Weekday
+ORD101045,2026-02-06,Bengaluru,Electronics,Smart Watch,2.0,2919.74,15.0,UPI,35.0,4.0,4963.557999999999,Weekday
+ORD101014,2026-02-13,Pune,Beauty,Moisturizer,2.0,464.61,10.0,Credit Card,20.0,4.0,836.298,Weekday
+ORD100089,2026-04-15,Delhi,Grocery,Cooking Oil 1L,2.0,188.18,5.0,Cash on Delivery,30.0,5.0,357.542,Weekday
+ORD101545,2026-06-17,Delhi,Electronics,Smart Watch,3.0,2908.37,10.0,Cash on Delivery,27.0,,7852.599000000001,Weekday
+ORD100601,2026-03-07,Mumbai,Beauty,Hair Serum,1.0,580.81,5.0,UPI,47.0,4.0,551.7694999999999,Weekend
+ORD101237,2026-06-24,Chennai,Electronics,Power Bank,2.0,988.59,15.0,Cash on Delivery,37.0,5.0,1680.603,Weekday
+ORD100133,2026-02-07,Hyderabad,Grocery,Almonds 500g,5.0,549.7,10.0,UPI,30.0,,2473.65,Weekend
+ORD100555,2026-01-17,Pune,Electronics,Wireless Earbuds,1.0,1550.58,0.0,Debit Card,16.0,4.0,1550.58,Weekend
+ORD101031,2026-03-27,Hyderabad,Fashion,Running Shoes,2.0,2512.16,0.0,UPI,24.0,2.0,5024.32,Weekday
+ORD100320,2026-01-21,Chennai,Electronics,USB-C Cable,2.0,294.86,5.0,Debit Card,38.0,5.0,560.234,Weekday
+ORD101211,2026-01-19,Delhi,Home & Kitchen,Cushion Cover,3.0,351.94,0.0,UPI,30.0,,1055.82,Weekday
+ORD101577,2026-05-11,Hyderabad,Grocery,Green Tea Pack,1.0,250.86,0.0,UPI,28.0,5.0,250.86,Weekday
+ORD100634,2026-03-25,Pune,Fashion,Running Shoes,3.0,2503.52,5.0,Net Banking,27.0,5.0,7135.031999999999,Weekday
+ORD100552,2026-04-19,Bengaluru,Home & Kitchen,Electric Kettle,1.0,1099.06,0.0,Credit Card,34.0,3.0,1099.06,Weekend
+ORD101328,2026-02-18,Delhi,Electronics,Smart Watch,3.0,3094.07,0.0,Cash on Delivery,30.0,2.0,9282.210000000001,Weekday
+ORD101055,2026-03-29,Pune,Home & Kitchen,Cushion Cover,2.0,344.26,10.0,Net Banking,27.0,5.0,619.668,Weekend
+ORD101759,2026-05-05,Mumbai,Beauty,Sunscreen SPF50,4.0,394.54,15.0,Credit Card,32.0,5.0,1341.436,Weekday
+ORD100796,2026-06-07,Bengaluru,Electronics,Power Bank,3.0,941.55,0.0,UPI,22.0,,2824.6499999999996,Weekend
+ORD101680,2026-02-28,Mumbai,Grocery,Basmati Rice 5kg,2.0,648.91,0.0,Credit Card,21.0,5.0,1297.82,Weekend
+ORD101264,2026-06-15,Bengaluru,Electronics,USB-C Cable,1.0,302.32,0.0,UPI,33.0,,302.32,Weekday
+ORD101554,2026-02-12,Delhi,Fashion,Running Shoes,3.0,2526.47,0.0,Cash on Delivery,33.0,,7579.41,Weekday
+ORD100766,2026-04-20,Pune,Fashion,Denim Jacket,2.0,1837.89,0.0,UPI,35.0,,3675.78,Weekday
+ORD100245,2026-04-01,Pune,Grocery,Cooking Oil 1L,3.0,181.64,20.0,Debit Card,34.0,2.0,435.936,Weekday
+ORD101080,2026-03-08,Delhi,Electronics,Power Bank,1.0,1007.71,10.0,UPI,27.0,4.0,906.9390000000001,Weekend
+ORD101576,2026-05-02,Mumbai,Grocery,Cooking Oil 1L,1.0,183.61,0.0,UPI,32.0,4.0,183.61,Weekend
+ORD100145,2026-01-16,Bengaluru,Fashion,Sunglasses,1.0,917.93,5.0,Credit Card,38.0,2.0,872.0334999999999,Weekday
+ORD100682,2026-05-21,Delhi,Beauty,Lip Balm,1.0,142.7,0.0,Cash on Delivery,25.0,5.0,142.7,Weekday
+ORD100310,2026-06-02,Chennai,Fashion,Denim Jacket,1.0,1763.85,5.0,Debit Card,32.0,,1675.6574999999998,Weekday
+ORD100093,2026-04-12,Bengaluru,Home & Kitchen,Electric Kettle,2.0,1131.61,15.0,Net Banking,38.0,5.0,1923.7369999999999,Weekend
+ORD101515,2026-03-14,Delhi,Home & Kitchen,Non-stick Pan,5.0,779.69,0.0,Cash on Delivery,46.0,5.0,3898.4500000000003,Weekend
+ORD100924,2026-03-09,Delhi,Home & Kitchen,Storage Containers,1.0,490.71,0.0,UPI,33.0,,490.71,Weekday
+ORD101535,2026-05-30,Pune,Home & Kitchen,Storage Containers,1.0,481.58,0.0,Debit Card,45.0,4.0,481.58,Weekend
+ORD101035,2026-06-27,Mumbai,Fashion,Running Shoes,1.0,2561.79,5.0,UPI,35.0,3.0,2433.7005,Weekend
+ORD100243,2026-04-26,Chennai,Electronics,Smart Watch,1.0,2936.2,0.0,UPI,34.0,5.0,2936.2,Weekend
+ORD101111,2026-02-22,Mumbai,Home & Kitchen,Electric Kettle,2.0,1050.81,0.0,Credit Card,40.0,,2101.62,Weekend
+ORD100214,2026-03-02,Mumbai,Grocery,Honey Jar,1.0,314.67,0.0,UPI,39.0,4.0,314.67,Weekday
+ORD101197,2026-06-07,Pune,Fashion,Denim Jacket,1.0,1800.87,0.0,Debit Card,24.0,,1800.87,Weekend
+ORD100998,2026-04-28,Pune,Fashion,Backpack,4.0,1305.29,5.0,Credit Card,30.0,,4960.102,Weekday
+ORD100853,2026-06-25,Mumbai,Home & Kitchen,Storage Containers,2.0,492.92,0.0,Credit Card,16.0,,985.84,Weekday
+ORD100425,2026-06-28,Delhi,Home & Kitchen,Storage Containers,2.0,487.37,20.0,UPI,40.0,4.0,779.792,Weekend
+ORD101600,2026-02-19,Pune,Electronics,Wireless Earbuds,1.0,1526.8,15.0,Cash on Delivery,39.0,3.0,1297.78,Weekday
+ORD101142,2026-04-26,Bengaluru,Home & Kitchen,LED Lamp,5.0,583.11,0.0,UPI,49.0,4.0,2915.55,Weekend
+ORD101143,2026-04-26,Mumbai,Fashion,Running Shoes,4.0,2523.56,0.0,UPI,16.0,5.0,10094.24,Weekend
+ORD100226,2026-03-22,Mumbai,Beauty,Sunscreen SPF50,3.0,401.13,0.0,UPI,16.0,,1203.3899999999999,Weekend
+ORD101479,2026-05-02,Delhi,Home & Kitchen,Storage Containers,4.0,502.66,10.0,UPI,28.0,4.0,1809.576,Weekend
+ORD100000,2026-06-04,Pune,Home & Kitchen,Non-stick Pan,3.0,792.58,0.0,Cash on Delivery,36.0,4.0,2377.7400000000002,Weekday
+ORD100401,2026-06-09,Mumbai,Grocery,Cooking Oil 1L,5.0,183.08,10.0,UPI,22.0,3.0,823.8600000000001,Weekday
+ORD101103,2026-03-04,Mumbai,Fashion,Sunglasses,1.0,896.04,5.0,Net Banking,41.0,1.0,851.2379999999999,Weekday
+ORD100084,2026-03-09,Hyderabad,Home & Kitchen,Cushion Cover,1.0,340.43,10.0,Credit Card,29.0,5.0,306.387,Weekday
+ORD100162,2026-05-08,Mumbai,Grocery,Almonds 500g,1.0,571.24,0.0,Unknown,29.0,3.0,571.24,Weekday
+ORD100114,2026-01-12,Delhi,Home & Kitchen,Electric Kettle,2.0,1112.32,5.0,Cash on Delivery,18.0,5.0,2113.408,Weekday
+ORD100670,2026-05-09,Mumbai,Grocery,Cooking Oil 1L,3.0,186.9,0.0,Debit Card,42.0,,560.7,Weekend
+ORD101174,2026-05-23,Mumbai,Home & Kitchen,Electric Kettle,1.0,1063.87,0.0,Debit Card,38.0,4.0,1063.87,Weekend
+ORD101385,2026-06-22,Chennai,Electronics,Bluetooth Speaker,1.0,2044.94,0.0,UPI,46.0,4.0,2044.94,Weekday
+ORD100889,2026-03-06,Delhi,Home & Kitchen,Storage Containers,1.0,488.87,0.0,Cash on Delivery,26.0,,488.87,Weekday
+ORD100625,2026-05-23,Pune,Fashion,Running Shoes,2.0,2567.7,0.0,Debit Card,21.0,4.0,5135.4,Weekend
+ORD101776,2026-03-03,Pune,Home & Kitchen,Storage Containers,2.0,515.5,0.0,Debit Card,20.0,4.0,1031.0,Weekday
+ORD100952,2026-05-27,Hyderabad,Electronics,Wireless Earbuds,2.0,1544.68,0.0,Net Banking,32.0,4.0,3089.36,Weekday
+ORD100807,2026-01-14,Pune,Electronics,Smart Watch,4.0,2922.95,0.0,UPI,43.0,3.0,11691.8,Weekday
+ORD100258,2026-06-04,Bengaluru,Home & Kitchen,LED Lamp,2.0,563.07,20.0,UPI,32.0,,900.9120000000001,Weekday
+ORD100624,2026-05-28,Bengaluru,Electronics,USB-C Cable,1.0,298.56,5.0,UPI,22.0,,283.632,Weekday
+ORD100826,2026-04-09,Pune,Fashion,Sunglasses,4.0,904.66,0.0,Credit Card,38.0,,3618.64,Weekday
+ORD100234,2026-05-30,Pune,Electronics,Bluetooth Speaker,3.0,1851.72,20.0,Credit Card,33.0,,4444.128,Weekend
+ORD100135,2026-01-05,Chennai,Electronics,Wireless Earbuds,1.0,1487.85,10.0,Credit Card,35.0,,1339.065,Weekday
+ORD100616,2026-01-03,Mumbai,Beauty,Moisturizer,2.0,460.68,0.0,Net Banking,24.0,,921.36,Weekend
+ORD101777,2026-01-26,Mumbai,Home & Kitchen,Non-stick Pan,1.0,800.61,5.0,Debit Card,41.0,5.0,760.5794999999999,Weekday
+ORD100836,2026-04-16,Delhi,Beauty,Face Wash,2.0,248.92,5.0,Debit Card,26.0,3.0,472.948,Weekday
+ORD100842,2026-01-04,Mumbai,Fashion,Denim Jacket,4.0,1858.81,20.0,UPI,43.0,,5948.192,Weekend
+ORD100959,2026-03-30,Mumbai,Fashion,Cotton T-Shirt,2.0,597.62,0.0,UPI,20.0,4.0,1195.24,Weekday
+ORD100592,2026-05-11,Pune,Home & Kitchen,Non-stick Pan,1.0,788.48,0.0,Cash on Delivery,32.0,5.0,788.48,Weekday
+ORD101314,2026-06-15,Delhi,Electronics,Power Bank,1.0,963.25,0.0,UPI,33.0,,963.25,Weekday
+ORD101291,2026-01-22,Delhi,Fashion,Backpack,1.0,1303.54,5.0,UPI,26.0,5.0,1238.3629999999998,Weekday
+ORD100343,2026-06-02,Pune,Fashion,Running Shoes,2.0,2491.33,0.0,UPI,41.0,5.0,4982.66,Weekday
+ORD101500,2026-01-10,Mumbai,Electronics,Power Bank,2.0,955.58,10.0,UPI,23.0,4.0,1720.044,Weekend
+ORD101431,2026-05-09,Hyderabad,Home & Kitchen,Cushion Cover,5.0,365.63,0.0,UPI,47.0,5.0,1828.15,Weekend
+ORD100293,2026-03-25,Bengaluru,Fashion,Running Shoes,2.0,2475.28,15.0,Unknown,41.0,5.0,4207.976000000001,Weekday
+ORD100364,2026-05-20,Mumbai,Grocery,Green Tea Pack,2.0,227.99,0.0,Debit Card,29.0,,455.98,Weekday
+ORD100178,2026-03-31,Chennai,Electronics,Smart Watch,1.0,2919.21,0.0,UPI,40.0,4.0,2919.21,Weekday
+ORD100659,2026-02-03,Chennai,Electronics,Bluetooth Speaker,1.0,1875.53,0.0,UPI,17.0,,1875.53,Weekday
+ORD100996,2026-04-22,Bengaluru,Grocery,Honey Jar,1.0,286.84,15.0,UPI,35.0,3.0,243.81399999999996,Weekday
+ORD100014,2026-02-20,Delhi,Grocery,Cooking Oil 1L,1.0,193.21,0.0,UPI,40.0,,193.21,Weekday
+ORD101110,2026-04-09,Chennai,Electronics,Power Bank,1.0,936.61,0.0,Debit Card,26.0,4.0,936.61,Weekday
+ORD101394,2026-03-08,Pune,Fashion,Cotton T-Shirt,2.0,607.14,15.0,UPI,18.0,2.0,1032.138,Weekend
+ORD100165,2026-05-17,Bengaluru,Home & Kitchen,LED Lamp,1.0,581.83,0.0,UPI,29.0,4.0,581.83,Weekend
+ORD101705,2026-01-25,Pune,Electronics,Bluetooth Speaker,2.0,1878.55,0.0,UPI,18.0,3.0,3757.1,Weekend
+ORD101359,2026-05-24,Pune,Electronics,Smart Watch,3.0,2978.13,20.0,Credit Card,39.0,2.0,7147.512,Weekend
+ORD100059,2026-02-24,Hyderabad,Fashion,Backpack,1.0,1241.96,0.0,UPI,24.0,,1241.96,Weekday
+ORD100709,2026-05-08,Bengaluru,Electronics,USB-C Cable,1.0,298.05,0.0,UPI,37.0,3.0,298.05,Weekday
+ORD100676,2026-03-04,Mumbai,Beauty,Moisturizer,3.0,431.48,0.0,UPI,32.0,5.0,1294.44,Weekday
+ORD101378,2026-02-03,Mumbai,Fashion,Running Shoes,1.0,2436.06,20.0,UPI,36.0,,1948.848,Weekday
+ORD100780,2026-06-25,Hyderabad,Grocery,Honey Jar,1.0,290.92,0.0,Debit Card,31.0,2.0,290.92,Weekday
+ORD100424,2026-04-25,Delhi,Electronics,Smart Watch,2.0,2957.56,5.0,Credit Card,25.0,,5619.364,Weekend
+ORD100292,2026-06-27,Hyderabad,Beauty,Lip Balm,4.0,149.62,0.0,UPI,30.0,3.0,598.48,Weekend
+ORD101065,2026-03-31,Hyderabad,Grocery,Basmati Rice 5kg,1.0,618.58,20.0,UPI,37.0,3.0,494.86400000000003,Weekday
+ORD101628,2026-01-30,Pune,Electronics,Bluetooth Speaker,1.0,1910.74,0.0,Net Banking,49.0,3.0,1910.74,Weekday
+ORD100329,2026-06-30,Bengaluru,Grocery,Almonds 500g,3.0,526.86,25.0,UPI,28.0,3.0,1185.435,Weekday
+ORD100429,2026-05-29,Mumbai,Fashion,Denim Jacket,3.0,1780.08,0.0,Debit Card,28.0,,5340.24,Weekday
+ORD101012,2026-04-20,Chennai,Electronics,USB-C Cable,1.0,302.74,0.0,UPI,47.0,,302.74,Weekday
+ORD100079,2026-06-05,Mumbai,Home & Kitchen,Cushion Cover,1.0,350.18,10.0,UPI,37.0,,315.16200000000003,Weekday
+ORD101052,2026-05-11,Mumbai,Beauty,Face Wash,1.0,246.62,10.0,UPI,32.0,4.0,221.958,Weekday
+ORD100937,2026-01-05,Delhi,Electronics,USB-C Cable,5.0,300.1,0.0,UPI,30.0,5.0,1500.5,Weekday
+ORD100834,2026-02-17,Delhi,Fashion,Running Shoes,1.0,2570.86,0.0,UPI,38.0,3.0,2570.86,Weekday
+ORD100749,2026-04-30,Mumbai,Home & Kitchen,Non-stick Pan,1.0,808.8,0.0,Credit Card,34.0,1.0,808.8,Weekday
+ORD100890,2026-02-24,Delhi,Beauty,Moisturizer,1.0,447.68,0.0,Cash on Delivery,29.0,2.0,447.68,Weekday
+ORD100254,2026-05-25,Delhi,Home & Kitchen,Storage Containers,1.0,512.86,0.0,Debit Card,23.0,4.0,512.86,Weekday
+ORD101574,2026-06-12,Bengaluru,Grocery,Cooking Oil 1L,1.0,189.21,15.0,Cash on Delivery,33.0,5.0,160.8285,Weekday
+ORD101775,2026-06-09,Mumbai,Electronics,Wireless Earbuds,4.0,1451.21,5.0,Credit Card,33.0,,5514.598,Weekday
+ORD101407,2026-04-01,Hyderabad,Home & Kitchen,Non-stick Pan,1.0,791.3,10.0,UPI,29.0,,712.17,Weekday
+ORD101337,2026-05-07,Mumbai,Fashion,Backpack,2.0,1309.98,5.0,Net Banking,42.0,4.0,2488.962,Weekday
+ORD101108,2026-05-17,Delhi,Beauty,Lip Balm,3.0,153.59,0.0,UPI,29.0,,460.77,Weekend
+ORD100136,2026-02-01,Hyderabad,Electronics,Smart Watch,1.0,3138.63,0.0,Credit Card,16.0,,3138.63,Weekend
+ORD101135,2026-03-14,Mumbai,Electronics,Smart Watch,3.0,3050.83,0.0,Debit Card,47.0,5.0,9152.49,Weekend
+ORD101218,2026-06-02,Chennai,Beauty,Face Wash,1.0,247.63,0.0,Cash on Delivery,42.0,5.0,247.63,Weekday
+ORD100852,2026-03-13,Pune,Home & Kitchen,Cushion Cover,1.0,350.18,5.0,Credit Card,40.0,2.0,332.671,Weekday
+ORD101202,2026-04-24,Chennai,Home & Kitchen,Cushion Cover,4.0,356.35,10.0,Net Banking,46.0,4.0,1282.8600000000001,Weekday
+ORD100723,2026-06-02,Pune,Fashion,Sunglasses,2.0,919.05,25.0,Net Banking,27.0,4.0,1378.5749999999998,Weekday
+ORD100859,2026-01-19,Chennai,Electronics,Smart Watch,2.0,2839.4,5.0,Debit Card,17.0,4.0,5394.86,Weekday
+ORD100969,2026-04-16,Mumbai,Fashion,Cotton T-Shirt,3.0,605.73,0.0,UPI,25.0,,1817.19,Weekday
+ORD100496,2026-03-18,Chennai,Electronics,Bluetooth Speaker,1.0,1850.01,0.0,UPI,26.0,4.0,1850.01,Weekday
+ORD100950,2026-01-03,Delhi,Electronics,Wireless Earbuds,1.0,1546.04,0.0,Debit Card,33.0,4.0,1546.04,Weekend
+ORD100805,2026-05-19,Pune,Home & Kitchen,Cushion Cover,3.0,341.68,5.0,UPI,32.0,3.0,973.7879999999999,Weekday
+ORD100129,2026-01-17,Delhi,Electronics,Bluetooth Speaker,5.0,1874.11,0.0,Net Banking,32.0,3.0,9370.55,Weekend
+ORD100337,2026-01-20,Mumbai,Home & Kitchen,Cushion Cover,2.0,353.52,0.0,Cash on Delivery,39.0,5.0,707.04,Weekday
+ORD101512,2026-03-12,Bengaluru,Grocery,Cooking Oil 1L,1.0,184.25,15.0,Credit Card,17.0,5.0,156.61249999999998,Weekday
+ORD100608,2026-06-13,Hyderabad,Grocery,Green Tea Pack,2.0,254.48,10.0,Cash on Delivery,37.0,4.0,458.06399999999996,Weekend
+ORD101148,2026-01-01,Chennai,Home & Kitchen,Cushion Cover,4.0,350.18,0.0,Credit Card,32.0,3.0,1400.72,Weekday
+ORD100195,2026-01-13,Bengaluru,Electronics,Wireless Earbuds,1.0,1475.05,10.0,Credit Card,36.0,,1327.545,Weekday
+ORD101250,2026-01-15,Pune,Home & Kitchen,Storage Containers,1.0,500.67,15.0,Net Banking,18.0,2.0,425.5695,Weekday
+ORD101292,2026-03-12,Pune,Home & Kitchen,Storage Containers,3.0,532.28,20.0,Cash on Delivery,30.0,4.0,1277.472,Weekday
+ORD101792,2026-01-05,Bengaluru,Grocery,Cooking Oil 1L,3.0,187.34,5.0,Net Banking,28.0,4.0,533.919,Weekday
+ORD100909,2026-01-04,Hyderabad,Electronics,USB-C Cable,4.0,314.52,0.0,Debit Card,34.0,3.0,1258.08,Weekend
+ORD100584,2026-02-13,Pune,Fashion,Backpack,1.0,1238.66,20.0,UPI,34.0,,990.9280000000001,Weekday
+ORD100103,2026-05-07,Mumbai,Electronics,Wireless Earbuds,1.0,1530.06,0.0,Cash on Delivery,32.0,4.0,1530.06,Weekday
+ORD101679,2026-04-11,Mumbai,Fashion,Running Shoes,3.0,2501.63,5.0,UPI,48.0,5.0,7129.6455,Weekend
+ORD101694,2026-06-23,Hyderabad,Electronics,USB-C Cable,1.0,303.05,0.0,Net Banking,34.0,4.0,303.05,Weekday
+ORD100719,2026-02-18,Chennai,Fashion,Backpack,2.0,1221.92,10.0,Debit Card,27.0,5.0,2199.456,Weekday
+ORD100884,2026-02-07,Hyderabad,Electronics,USB-C Cable,1.0,302.39,0.0,UPI,25.0,3.0,302.39,Weekend
+ORD100776,2026-01-27,Mumbai,Fashion,Denim Jacket,1.0,1800.87,20.0,Debit Card,31.0,4.0,1440.696,Weekday
+ORD100849,2026-06-27,Pune,Fashion,Sunglasses,2.0,893.23,0.0,Credit Card,29.0,3.0,1786.46,Weekend
+ORD100894,2026-06-13,Mumbai,Fashion,Denim Jacket,1.0,1744.85,0.0,UPI,43.0,5.0,1744.85,Weekend
+ORD100227,2026-05-09,Pune,Beauty,Moisturizer,2.0,454.2,0.0,UPI,38.0,,908.4,Weekend
+ORD101707,2026-05-01,Delhi,Home & Kitchen,Storage Containers,1.0,507.98,0.0,Net Banking,34.0,4.0,507.98,Weekday
+ORD101325,2026-05-17,Pune,Beauty,Sunscreen SPF50,4.0,392.12,5.0,Cash on Delivery,26.0,4.0,1490.056,Weekend
+ORD101299,2026-01-28,Hyderabad,Beauty,Moisturizer,5.0,438.81,0.0,Credit Card,34.0,5.0,2194.05,Weekday
+ORD100126,2026-05-21,Delhi,Electronics,Bluetooth Speaker,1.0,1808.43,20.0,Debit Card,33.0,5.0,1446.7440000000001,Weekday
+ORD100405,2026-04-29,Hyderabad,Home & Kitchen,Electric Kettle,1.0,1098.26,0.0,Cash on Delivery,35.0,4.0,1098.26,Weekday
+ORD100775,2026-05-26,Hyderabad,Electronics,Smart Watch,1.0,2926.07,0.0,UPI,33.0,1.0,2926.07,Weekday
+ORD100821,2026-05-30,Mumbai,Home & Kitchen,Storage Containers,2.0,484.26,10.0,Credit Card,28.0,5.0,871.668,Weekend
+ORD100711,2026-06-15,Bengaluru,Fashion,Sunglasses,3.0,864.22,20.0,UPI,30.0,,2074.128,Weekday
+ORD101714,2026-01-09,Mumbai,Fashion,Sunglasses,1.0,911.64,15.0,UPI,35.0,2.0,774.894,Weekday
+ORD101060,2026-04-29,Pune,Home & Kitchen,LED Lamp,3.0,592.36,5.0,Credit Card,26.0,5.0,1688.2259999999999,Weekday
+ORD101163,2026-02-28,Mumbai,Grocery,Cooking Oil 1L,2.0,181.41,0.0,Cash on Delivery,18.0,5.0,362.82,Weekend
+ORD100303,2026-06-03,Pune,Beauty,Moisturizer,1.0,446.15,0.0,Credit Card,33.0,,446.15,Weekday
+ORD100267,2026-02-12,Hyderabad,Home & Kitchen,Storage Containers,1.0,482.9,0.0,Debit Card,40.0,5.0,482.9,Weekday
+ORD100545,2026-02-11,Chennai,Electronics,Power Bank,2.0,1001.0,15.0,Cash on Delivery,16.0,,1701.7,Weekday
+ORD100212,2026-04-10,Chennai,Electronics,USB-C Cable,2.0,308.13,25.0,UPI,35.0,4.0,462.195,Weekday
+ORD100896,2026-03-03,Delhi,Electronics,Bluetooth Speaker,1.0,1839.42,15.0,Credit Card,23.0,1.0,1563.507,Weekday
+ORD101222,2026-05-16,Mumbai,Beauty,Moisturizer,1.0,452.53,10.0,Debit Card,49.0,3.0,407.277,Weekend
+ORD100916,2026-04-15,Mumbai,Grocery,Cooking Oil 1L,1.0,194.37,0.0,Net Banking,28.0,,194.37,Weekday
+ORD100675,2026-05-23,Delhi,Beauty,Sunscreen SPF50,2.0,405.29,0.0,Debit Card,21.0,5.0,810.58,Weekend
+ORD101289,2026-06-24,Delhi,Grocery,Basmati Rice 5kg,1.0,693.37,5.0,Credit Card,32.0,3.0,658.7015,Weekday
+ORD100814,2026-01-03,Chennai,Fashion,Sunglasses,9.0,906.44,20.0,UPI,40.0,,6526.368000000001,Weekend
+ORD101265,2026-01-22,Bengaluru,Grocery,Basmati Rice 5kg,1.0,652.46,10.0,UPI,41.0,4.0,587.214,Weekday
+ORD100342,2026-06-28,Bengaluru,Electronics,Smart Watch,2.0,3103.73,0.0,Credit Card,23.0,,6207.46,Weekend
+ORD100549,2026-03-08,Bengaluru,Home & Kitchen,LED Lamp,1.0,567.2,0.0,UPI,24.0,,567.2,Weekend
+ORD101410,2026-03-21,Bengaluru,Fashion,Denim Jacket,2.0,1736.37,5.0,UPI,31.0,5.0,3299.1029999999996,Weekend
+ORD101214,2026-02-04,Bengaluru,Home & Kitchen,Storage Containers,1.0,490.59,5.0,Debit Card,16.0,4.0,466.06049999999993,Weekday
+ORD100966,2026-03-19,Delhi,Electronics,USB-C Cable,3.0,293.83,0.0,Debit Card,31.0,5.0,881.49,Weekday
+ORD101230,2026-04-03,Delhi,Beauty,Lip Balm,3.0,145.18,0.0,Credit Card,37.0,3.0,435.54,Weekday
+ORD100295,2026-03-10,Mumbai,Home & Kitchen,Cushion Cover,1.0,354.91,5.0,UPI,49.0,4.0,337.16450000000003,Weekday
+ORD100695,2026-03-06,Delhi,Home & Kitchen,Non-stick Pan,2.0,757.15,0.0,Debit Card,33.0,,1514.3,Weekday
+ORD101452,2026-02-08,Bengaluru,Beauty,Moisturizer,4.0,445.75,0.0,UPI,28.0,4.0,1783.0,Weekend
+ORD100073,2026-06-22,Pune,Home & Kitchen,Storage Containers,1.0,509.66,5.0,Net Banking,42.0,3.0,484.177,Weekday
+ORD100605,2026-06-05,Delhi,Grocery,Honey Jar,3.0,312.42,0.0,UPI,21.0,4.0,937.26,Weekday
+ORD100104,2026-04-21,Pune,Grocery,Almonds 500g,1.0,538.29,0.0,UPI,25.0,,538.29,Weekday
+ORD100645,2026-02-02,Pune,Electronics,Power Bank,1.0,997.26,15.0,Debit Card,38.0,5.0,847.6709999999999,Weekday
+ORD101404,2026-01-26,Chennai,Grocery,Honey Jar,1.0,310.59,0.0,UPI,41.0,3.0,310.59,Weekday
+ORD101780,2026-05-08,Mumbai,Fashion,Backpack,3.0,1338.08,5.0,Credit Card,36.0,,3813.528,Weekday
+ORD101040,2026-03-06,Delhi,Beauty,Moisturizer,1.0,452.86,5.0,UPI,16.0,5.0,430.217,Weekday
+ORD100439,2026-04-11,Delhi,Grocery,Almonds 500g,3.0,533.62,20.0,Debit Card,36.0,4.0,1280.688,Weekend
+ORD101019,2026-01-03,Mumbai,Grocery,Cooking Oil 1L,2.0,194.64,0.0,UPI,34.0,4.0,389.28,Weekend
+ORD100091,2026-02-07,Pune,Grocery,Honey Jar,1.0,306.5,0.0,Cash on Delivery,21.0,4.0,306.5,Weekend
+ORD101112,2026-06-27,Bengaluru,Electronics,Power Bank,1.0,971.63,15.0,UPI,26.0,3.0,825.8855,Weekend
+ORD101595,2026-04-03,Pune,Electronics,Bluetooth Speaker,2.0,1890.46,15.0,UPI,24.0,,3213.782,Weekday
+ORD100908,2026-04-19,Pune,Home & Kitchen,Cushion Cover,3.0,364.04,0.0,Debit Card,28.0,4.0,1092.1200000000001,Weekend
+ORD101474,2026-04-08,Chennai,Grocery,Almonds 500g,1.0,536.69,20.0,Net Banking,38.0,5.0,429.3520000000001,Weekday
+ORD100102,2026-04-15,Bengaluru,Fashion,Cotton T-Shirt,2.0,585.63,5.0,UPI,41.0,1.0,1112.697,Weekday
+ORD100238,2026-06-08,Bengaluru,Fashion,Running Shoes,1.0,2362.0,0.0,UPI,28.0,,2362.0,Weekday
+ORD101549,2026-04-11,Mumbai,Fashion,Denim Jacket,3.0,1808.2,0.0,UPI,43.0,5.0,5424.6,Weekend
+ORD100942,2026-05-15,Pune,Home & Kitchen,Non-stick Pan,2.0,787.06,0.0,Credit Card,41.0,5.0,1574.12,Weekday
+ORD101270,2026-01-25,Mumbai,Electronics,Smart Watch,1.0,2953.91,15.0,Cash on Delivery,47.0,4.0,2510.8235,Weekend
+ORD100938,2026-05-14,Bengaluru,Electronics,Wireless Earbuds,2.0,1432.2,0.0,UPI,32.0,1.0,2864.4,Weekday
+ORD101542,2026-03-24,Delhi,Home & Kitchen,Non-stick Pan,1.0,801.93,0.0,UPI,24.0,,801.93,Weekday
+ORD101181,2026-03-17,Pune,Grocery,Cooking Oil 1L,3.0,186.09,0.0,UPI,27.0,4.0,558.27,Weekday
+ORD101503,2026-06-22,Pune,Grocery,Almonds 500g,1.0,553.81,15.0,Credit Card,33.0,,470.73849999999993,Weekday
+ORD100005,2026-04-10,Mumbai,Fashion,Backpack,1.0,1356.43,20.0,Cash on Delivery,22.0,2.0,1085.144,Weekday
+ORD101650,2026-02-24,Delhi,Grocery,Honey Jar,1.0,307.15,0.0,Credit Card,27.0,3.0,307.15,Weekday
+ORD100965,2026-04-20,Hyderabad,Fashion,Denim Jacket,2.0,1801.13,15.0,UPI,26.0,,3061.9210000000003,Weekday
+ORD100018,2026-06-08,Hyderabad,Grocery,Green Tea Pack,1.0,249.57,0.0,Credit Card,33.0,3.0,249.57,Weekday
+ORD101430,2026-05-05,Bengaluru,Electronics,Bluetooth Speaker,1.0,1920.38,0.0,UPI,29.0,1.0,1920.38,Weekday
+ORD100121,2026-02-02,Pune,Grocery,Cooking Oil 1L,2.0,190.27,0.0,Debit Card,35.0,1.0,380.54,Weekday
+ORD100661,2026-04-23,Delhi,Fashion,Denim Jacket,2.0,1880.36,5.0,UPI,37.0,,3572.6839999999997,Weekday
+ORD101534,2026-02-14,Pune,Fashion,Backpack,1.0,-1257.16,0.0,Credit Card,22.0,1.0,-1257.16,Weekend
+ORD100274,2026-04-24,Bengaluru,Home & Kitchen,Storage Containers,1.0,484.22,5.0,Cash on Delivery,37.0,2.0,460.009,Weekday
+ORD100433,2026-06-25,Delhi,Fashion,Backpack,2.0,1304.62,5.0,Net Banking,24.0,4.0,2478.778,Weekday
+ORD100811,2026-01-12,Chennai,Grocery,Almonds 500g,2.0,569.32,15.0,UPI,39.0,1.0,967.844,Weekday
+ORD101300,2026-06-07,Hyderabad,Home & Kitchen,Storage Containers,3.0,510.39,0.0,UPI,32.0,5.0,1531.17,Weekend
+ORD101335,2026-05-12,Pune,Electronics,USB-C Cable,1.0,288.39,0.0,UPI,52.0,1.0,288.39,Weekday
+ORD101695,2026-03-02,Mumbai,Electronics,Smart Watch,2.0,3070.25,10.0,UPI,31.0,4.0,5526.45,Weekday
+ORD101715,2026-06-03,Mumbai,Fashion,Running Shoes,2.0,2425.81,0.0,Debit Card,38.0,4.0,4851.62,Weekday
+ORD100181,2026-01-08,Bengaluru,Electronics,Bluetooth Speaker,1.0,1887.43,25.0,Debit Card,27.0,5.0,1415.5725,Weekday
+ORD100184,2026-06-07,Mumbai,Fashion,Running Shoes,3.0,2429.15,0.0,UPI,43.0,,7287.450000000001,Weekend
+ORD100406,2026-04-07,Delhi,Electronics,Smart Watch,2.0,2978.47,15.0,Debit Card,29.0,,5063.398999999999,Weekday
+ORD100865,2026-06-09,Mumbai,Fashion,Running Shoes,2.0,2390.12,20.0,Cash on Delivery,38.0,5.0,3824.192,Weekday
+ORD100520,2026-01-16,Chennai,Fashion,Backpack,1.0,1304.06,0.0,Cash on Delivery,16.0,4.0,1304.06,Weekday
+ORD101003,2026-01-26,Bengaluru,Electronics,Wireless Earbuds,3.0,1410.7,0.0,Debit Card,33.0,,4232.1,Weekday
+ORD100380,2026-06-06,Delhi,Fashion,Cotton T-Shirt,1.0,587.89,25.0,Credit Card,23.0,,440.9175,Weekend
+ORD101434,2026-05-16,Chennai,Fashion,Running Shoes,2.0,2398.22,0.0,UPI,56.0,5.0,4796.44,Weekend
+ORD101393,2026-06-17,Pune,Fashion,Denim Jacket,2.0,1725.51,0.0,Debit Card,32.0,,3451.02,Weekday
+ORD101424,2026-06-02,Hyderabad,Home & Kitchen,Cushion Cover,2.0,337.56,0.0,Net Banking,43.0,,675.12,Weekday
+ORD100427,2026-03-28,Chennai,Grocery,Honey Jar,1.0,295.57,10.0,Net Banking,32.0,5.0,266.013,Weekend
+ORD100078,2026-03-31,Pune,Home & Kitchen,Storage Containers,6.0,513.01,0.0,UPI,16.0,5.0,3078.06,Weekday
+ORD101009,2026-06-23,Delhi,Grocery,Green Tea Pack,1.0,250.28,0.0,UPI,26.0,,250.28,Weekday
+ORD101788,2026-06-15,Bengaluru,Fashion,Running Shoes,4.0,2582.08,20.0,Credit Card,32.0,4.0,8262.656,Weekday
+ORD100607,2026-05-30,Hyderabad,Grocery,Honey Jar,1.0,288.74,0.0,Cash on Delivery,32.0,5.0,288.74,Weekend
+ORD101622,2026-05-22,Hyderabad,Home & Kitchen,Electric Kettle,3.0,1065.63,0.0,UPI,27.0,3.0,3196.8900000000003,Weekday
+ORD101656,2026-04-13,Mumbai,Electronics,Power Bank,2.0,1007.02,0.0,UPI,45.0,,2014.04,Weekday
+ORD101057,2026-06-11,Mumbai,Fashion,Sunglasses,3.0,883.72,20.0,UPI,20.0,2.0,2120.928,Weekday
+ORD101440,2026-06-27,Hyderabad,Electronics,Wireless Earbuds,1.0,1414.96,20.0,Credit Card,32.0,,1131.968,Weekend
+ORD101514,2026-04-21,Chennai,Home & Kitchen,Electric Kettle,1.0,1110.64,15.0,UPI,23.0,,944.0440000000001,Weekday
+ORD101091,2026-03-27,Mumbai,Home & Kitchen,Electric Kettle,2.0,1014.99,0.0,UPI,29.0,,2029.98,Weekday
+ORD101101,2026-05-09,Pune,Home & Kitchen,Cushion Cover,1.0,330.41,0.0,UPI,32.0,5.0,330.41,Weekend
+ORD101129,2026-04-18,Bengaluru,Home & Kitchen,Electric Kettle,2.0,1086.02,5.0,UPI,23.0,,2063.4379999999996,Weekend
+ORD101235,2026-06-24,Chennai,Grocery,Cooking Oil 1L,1.0,196.63,25.0,UPI,39.0,4.0,147.4725,Weekday
+ORD101605,2026-01-01,Mumbai,Home & Kitchen,Non-stick Pan,1.0,781.99,5.0,Cash on Delivery,34.0,,742.8905,Weekday
+ORD100958,2026-06-20,Bengaluru,Fashion,Denim Jacket,1.0,1784.4,5.0,UPI,25.0,,1695.18,Weekend
+ORD100559,2026-03-24,Hyderabad,Home & Kitchen,Electric Kettle,5.0,1090.24,0.0,UPI,24.0,5.0,5451.2,Weekday
+ORD100846,2026-02-11,Delhi,Home & Kitchen,Electric Kettle,1.0,1123.7,0.0,UPI,24.0,,1123.7,Weekday
+ORD100690,2026-05-06,Bengaluru,Beauty,Lip Balm,1.0,151.45,10.0,UPI,27.0,5.0,136.305,Weekday
+ORD101519,2026-04-08,Hyderabad,Fashion,Denim Jacket,2.0,1790.51,0.0,Cash on Delivery,24.0,2.0,3581.02,Weekday
+ORD101757,2026-03-17,Chennai,Grocery,Basmati Rice 5kg,3.0,647.05,0.0,Debit Card,34.0,4.0,1941.1499999999999,Weekday
+ORD101693,2026-01-23,Bengaluru,Home & Kitchen,Cushion Cover,1.0,341.84,5.0,UPI,39.0,3.0,324.74799999999993,Weekday
+ORD100436,2026-02-11,Mumbai,Electronics,Smart Watch,5.0,2817.62,20.0,Credit Card,36.0,4.0,11270.48,Weekday
+ORD100490,2026-02-15,Pune,Electronics,Wireless Earbuds,3.0,1482.1,10.0,Credit Card,23.0,4.0,4001.6699999999996,Weekend
+ORD101669,2026-04-23,Bengaluru,Grocery,Basmati Rice 5kg,2.0,639.07,0.0,UPI,41.0,,1278.14,Weekday
+ORD101387,2026-04-04,Bengaluru,Home & Kitchen,Cushion Cover,3.0,356.98,0.0,Credit Card,17.0,3.0,1070.94,Weekend
+ORD100069,2026-04-12,Bengaluru,Fashion,Cotton T-Shirt,1.0,597.62,10.0,UPI,35.0,4.0,537.8580000000001,Weekend
+ORD101572,2026-03-16,Mumbai,Fashion,Sunglasses,1.0,875.48,0.0,UPI,31.0,,875.48,Weekday
+ORD100808,2026-03-09,Mumbai,Home & Kitchen,Cushion Cover,3.0,349.24,15.0,UPI,44.0,4.0,890.562,Weekday
+ORD101184,2026-04-11,Mumbai,Grocery,Cooking Oil 1L,1.0,194.38,15.0,Credit Card,39.0,4.0,165.22299999999998,Weekend
+ORD100011,2026-04-30,Bengaluru,Fashion,Sunglasses,2.0,891.39,10.0,Net Banking,22.0,4.0,1604.502,Weekday
+ORD100144,2026-04-30,Bengaluru,Beauty,Sunscreen SPF50,3.0,406.04,0.0,Cash on Delivery,36.0,,1218.1200000000001,Weekday
+ORD100917,2026-06-06,Mumbai,Electronics,Power Bank,7.0,991.26,0.0,UPI,41.0,2.0,6938.82,Weekend
+ORD101541,2026-06-21,Hyderabad,Beauty,Face Wash,1.0,257.48,20.0,Credit Card,25.0,,205.98400000000004,Weekend
+ORD101451,2026-03-18,Bengaluru,Electronics,Power Bank,3.0,1005.065,0.0,Net Banking,35.0,,3015.195,Weekday
+ORD100639,2026-05-20,Bengaluru,Electronics,Smart Watch,2.0,2992.33,25.0,UPI,28.0,4.0,4488.495,Weekday
+ORD100176,2026-01-21,Pune,Home & Kitchen,LED Lamp,3.0,576.69,20.0,Net Banking,32.0,4.0,1384.0560000000003,Weekday
+ORD100994,2026-06-17,Hyderabad,Home & Kitchen,LED Lamp,3.0,617.65,5.0,UPI,37.0,3.0,1760.3024999999998,Weekday
+ORD100440,2026-03-22,Delhi,Grocery,Almonds 500g,3.0,567.19,25.0,Debit Card,32.0,5.0,1276.1775000000002,Weekend
+ORD100521,2026-04-09,Mumbai,Electronics,USB-C Cable,1.0,287.93,10.0,UPI,32.0,3.0,259.137,Weekday
+ORD101795,2026-05-09,Chennai,Beauty,Lip Balm,4.0,149.74,0.0,Credit Card,28.0,,598.96,Weekend
+ORD101761,2026-06-20,Mumbai,Home & Kitchen,Storage Containers,1.0,496.03,5.0,Credit Card,17.0,,471.22849999999994,Weekend
+ORD101004,2026-02-13,Pune,Electronics,Power Bank,3.0,979.37,0.0,UPI,43.0,4.0,2938.11,Weekday
+ORD101255,2026-06-01,Delhi,Electronics,USB-C Cable,1.0,297.66,20.0,UPI,29.0,,238.12800000000004,Weekday
+ORD101234,2026-03-28,Chennai,Home & Kitchen,Electric Kettle,2.0,1127.39,15.0,UPI,17.0,,1916.563,Weekend
+ORD100143,2026-06-18,Bengaluru,Grocery,Cooking Oil 1L,1.0,188.81,0.0,UPI,33.0,1.0,188.81,Weekday
+ORD100753,2026-04-21,Mumbai,Fashion,Cotton T-Shirt,2.0,596.82,15.0,UPI,64.0,5.0,1014.594,Weekday
+ORD100519,2026-02-23,Delhi,Home & Kitchen,Storage Containers,1.0,519.77,0.0,Credit Card,25.0,,519.77,Weekday
+ORD100021,2026-04-11,Delhi,Home & Kitchen,LED Lamp,5.0,595.15,0.0,UPI,45.0,,2975.75,Weekend
+ORD101322,2026-02-14,Hyderabad,Fashion,Backpack,1.0,1329.59,0.0,Debit Card,36.0,5.0,1329.59,Weekend
+ORD100822,2026-03-23,Hyderabad,Fashion,Denim Jacket,1.0,1844.73,20.0,UPI,44.0,5.0,1475.784,Weekday
+ORD100428,2026-04-16,Bengaluru,Beauty,Hair Serum,2.0,540.65,0.0,Credit Card,35.0,4.0,1081.3,Weekday
+ORD100612,2026-03-06,Chennai,Electronics,Bluetooth Speaker,1.0,1936.63,5.0,UPI,26.0,4.0,1839.7985,Weekday
+ORD101505,2026-04-08,Chennai,Electronics,Wireless Earbuds,1.0,1551.11,0.0,UPI,34.0,4.0,1551.11,Weekday
+ORD101032,2026-04-30,Chennai,Electronics,Smart Watch,1.0,2994.0299999999997,0.0,Credit Card,16.0,3.0,2994.0299999999997,Weekday
+ORD100156,2026-05-23,Pune,Electronics,Wireless Earbuds,2.0,1494.71,10.0,Credit Card,16.0,3.0,2690.478,Weekend
+ORD100539,2026-01-27,Bengaluru,Grocery,Green Tea Pack,3.0,231.98,0.0,Net Banking,16.0,4.0,695.9399999999999,Weekday
+ORD101530,2026-04-06,Hyderabad,Electronics,Bluetooth Speaker,2.0,1932.61,0.0,Debit Card,34.0,3.0,3865.22,Weekday
+ORD101460,2026-04-27,Bengaluru,Fashion,Sunglasses,2.0,848.82,0.0,Credit Card,25.0,3.0,1697.64,Weekday
+ORD101290,2026-03-31,Bengaluru,Electronics,Smart Watch,1.0,3064.0,0.0,UPI,32.0,5.0,3064.0,Weekday
+ORD100461,2026-01-25,Hyderabad,Electronics,USB-C Cable,4.0,278.33,0.0,Cash on Delivery,27.0,2.0,1113.32,Weekend
+ORD100576,2026-04-13,Mumbai,Grocery,Cooking Oil 1L,1.0,190.27,0.0,UPI,33.0,5.0,190.27,Weekday
+ORD101362,2026-03-20,Bengaluru,Fashion,Denim Jacket,2.0,1731.73,0.0,Credit Card,30.0,4.0,3463.46,Weekday
+ORD100255,2026-06-29,Pune,Grocery,Cooking Oil 1L,2.0,182.62,0.0,Net Banking,21.0,3.0,365.24,Weekday
+ORD100979,2026-03-18,Pune,Electronics,Bluetooth Speaker,1.0,1928.26,15.0,Net Banking,23.0,5.0,1639.021,Weekday
+ORD101185,2026-05-06,Mumbai,Home & Kitchen,Storage Containers,1.0,495.13,0.0,UPI,46.0,3.0,495.13,Weekday
+ORD101006,2026-01-26,Delhi,Beauty,Hair Serum,1.0,559.94,5.0,Credit Card,32.0,4.0,531.943,Weekday
+ORD101521,2026-04-07,Mumbai,Electronics,Wireless Earbuds,1.0,1479.34,15.0,Debit Card,18.0,4.0,1257.4389999999999,Weekday
+ORD100560,2026-01-17,Mumbai,Grocery,Cooking Oil 1L,2.0,191.08,5.0,UPI,43.0,5.0,363.052,Weekend
+ORD100208,2026-06-12,Chennai,Grocery,Honey Jar,1.0,298.59,5.0,Cash on Delivery,39.0,5.0,283.66049999999996,Weekday
+ORD100910,2026-02-23,Bengaluru,Electronics,Smart Watch,1.0,2786.21,0.0,Cash on Delivery,16.0,4.0,2786.21,Weekday
+ORD101311,2026-03-29,Mumbai,Home & Kitchen,Storage Containers,5.0,494.23,10.0,Credit Card,25.0,4.0,2224.0350000000003,Weekend
+ORD100001,2026-03-09,Hyderabad,Grocery,Green Tea Pack,1.0,248.03,0.0,Credit Card,37.0,4.0,248.03,Weekday
+ORD101365,2026-06-04,Pune,Home & Kitchen,LED Lamp,1.0,600.21,0.0,Credit Card,32.0,1.0,600.21,Weekday
+ORD100269,2026-06-05,Hyderabad,Beauty,Lip Balm,3.0,149.77,0.0,Credit Card,44.0,,449.31000000000006,Weekday
+ORD100265,2026-02-27,Hyderabad,Grocery,Green Tea Pack,1.0,239.75,0.0,UPI,40.0,,239.75,Weekday
+ORD100914,2026-03-15,Hyderabad,Electronics,Wireless Earbuds,1.0,1509.2,15.0,UPI,35.0,,1282.82,Weekend
+ORD100230,2026-04-20,Bengaluru,Home & Kitchen,Cushion Cover,2.0,338.75,0.0,UPI,25.0,,677.5,Weekday
+ORD101791,2026-03-20,Pune,Beauty,Face Wash,1.0,250.57,5.0,UPI,37.0,4.0,238.04149999999998,Weekday
+ORD101119,2026-04-25,Mumbai,Beauty,Moisturizer,3.0,462.97,5.0,UPI,25.0,3.0,1319.4645,Weekend
+ORD101786,2026-02-28,Delhi,Electronics,Power Bank,1.0,1027.13,0.0,Credit Card,25.0,3.0,1027.13,Weekend
+ORD100864,2026-02-06,Delhi,Grocery,Almonds 500g,1.0,547.45,0.0,UPI,37.0,4.0,547.45,Weekday
+ORD101066,2026-04-13,Pune,Fashion,Sunglasses,1.0,850.65,10.0,Debit Card,33.0,4.0,765.585,Weekday
+ORD100873,2026-04-07,Mumbai,Electronics,Bluetooth Speaker,1.0,1963.77,0.0,Net Banking,41.0,5.0,1963.77,Weekday
+ORD101632,2026-01-25,Hyderabad,Fashion,Running Shoes,1.0,2496.39,0.0,Debit Card,43.0,,2496.39,Weekend
+ORD100398,2026-01-30,Bengaluru,Home & Kitchen,Non-stick Pan,1.0,814.04,0.0,Debit Card,39.0,5.0,814.04,Weekday
+ORD101659,2026-05-01,Hyderabad,Electronics,Bluetooth Speaker,1.0,2019.51,0.0,Credit Card,36.0,5.0,2019.51,Weekday
+ORD100045,2026-01-20,Delhi,Electronics,Bluetooth Speaker,2.0,1850.24,25.0,UPI,35.0,5.0,2775.36,Weekday
+ORD100161,2026-03-05,Bengaluru,Home & Kitchen,Storage Containers,2.0,528.11,5.0,UPI,17.0,5.0,1003.409,Weekday
+ORD100991,2026-06-19,Mumbai,Grocery,Honey Jar,1.0,298.86,0.0,UPI,47.0,,298.86,Weekday
+ORD100727,2026-01-02,Mumbai,Grocery,Cooking Oil 1L,1.0,192.82,5.0,UPI,44.0,4.0,183.17899999999997,Weekday
+ORD100629,2026-05-30,Hyderabad,Home & Kitchen,LED Lamp,2.0,614.48,15.0,UPI,28.0,,1044.616,Weekend
+ORD100288,2026-03-10,Mumbai,Electronics,USB-C Cable,1.0,291.71,5.0,Credit Card,37.0,5.0,277.12449999999995,Weekday
+ORD101613,2026-01-17,Delhi,Electronics,Wireless Earbuds,1.0,1542.64,0.0,Cash on Delivery,16.0,4.0,1542.64,Weekend
+ORD101059,2026-05-09,Chennai,Home & Kitchen,LED Lamp,5.0,591.68,0.0,UPI,43.0,4.0,2958.3999999999996,Weekend
+ORD101772,2026-06-27,Chennai,Beauty,Sunscreen SPF50,1.0,411.87,5.0,UPI,40.0,5.0,391.2765,Weekend
+ORD100575,2026-01-30,Mumbai,Home & Kitchen,Cushion Cover,1.0,319.3,0.0,Debit Card,34.0,5.0,319.3,Weekday
+ORD100850,2026-06-11,Mumbai,Electronics,Wireless Earbuds,3.0,1452.47,0.0,UPI,36.0,,4357.41,Weekday
+ORD101339,2026-06-08,Pune,Fashion,Backpack,4.0,1293.81,5.0,Debit Card,21.0,,4916.477999999999,Weekday
+ORD100911,2026-06-08,Chennai,Grocery,Basmati Rice 5kg,1.0,629.2,0.0,Debit Card,36.0,,629.2,Weekday
+ORD101254,2026-05-27,Chennai,Fashion,Sunglasses,3.0,943.41,0.0,UPI,34.0,,2830.23,Weekday
+ORD101652,2026-04-24,Pune,Electronics,Smart Watch,1.0,3138.92,5.0,UPI,31.0,5.0,2981.9739999999997,Weekday
+ORD100932,2026-06-28,Hyderabad,Grocery,Almonds 500g,3.0,526.28,5.0,UPI,32.0,4.0,1499.898,Weekend
+ORD101100,2026-03-24,Mumbai,Beauty,Lip Balm,1.0,148.41,0.0,Cash on Delivery,33.0,,148.41,Weekday
+ORD101207,2026-06-02,Chennai,Beauty,Face Wash,3.0,246.5,0.0,Unknown,39.0,3.0,739.5,Weekday
+ORD100247,2026-03-24,Hyderabad,Home & Kitchen,Cushion Cover,2.0,339.56,0.0,UPI,39.0,4.0,679.12,Weekday
+ORD100476,2026-01-21,Chennai,Home & Kitchen,Cushion Cover,2.0,333.32,0.0,Cash on Delivery,31.0,,666.64,Weekday
+ORD100085,2026-01-08,Delhi,Grocery,Cooking Oil 1L,1.0,187.4,0.0,Cash on Delivery,26.0,1.0,187.4,Weekday
+ORD100469,2026-04-06,Pune,Beauty,Face Wash,1.0,254.39,10.0,UPI,39.0,3.0,228.951,Weekday
+ORD100225,2026-04-21,Hyderabad,Home & Kitchen,Non-stick Pan,1.0,796.53,0.0,UPI,22.0,4.0,796.53,Weekday
+ORD100774,2026-04-19,Mumbai,Grocery,Almonds 500g,3.0,542.68,0.0,Net Banking,24.0,4.0,1628.04,Weekend
+ORD100331,2026-04-23,Bengaluru,Electronics,USB-C Cable,1.0,309.39,20.0,Credit Card,30.0,4.0,247.512,Weekday
+ORD100233,2026-04-27,Pune,Fashion,Backpack,1.0,1342.26,0.0,UPI,32.0,3.0,1342.26,Weekday
+ORD100588,2026-03-05,Mumbai,Home & Kitchen,Electric Kettle,1.0,1120.22,10.0,Debit Card,23.0,5.0,1008.1980000000001,Weekday
+ORD100475,2026-05-25,Pune,Electronics,Wireless Earbuds,4.0,1551.7,5.0,UPI,31.0,5.0,5896.46,Weekday
+ORD101284,2026-01-06,Mumbai,Beauty,Moisturizer,5.0,432.18,0.0,UPI,20.0,5.0,2160.9,Weekday
+ORD100599,2026-03-23,Mumbai,Fashion,Cotton T-Shirt,2.0,616.74,0.0,UPI,36.0,,1233.48,Weekday
+ORD100421,2026-03-10,Mumbai,Electronics,USB-C Cable,3.0,297.7,0.0,UPI,41.0,3.0,893.0999999999999,Weekday
+ORD100182,2026-02-15,Hyderabad,Electronics,Wireless Earbuds,2.0,1480.34,0.0,UPI,30.0,5.0,2960.68,Weekend
+ORD100988,2026-03-07,Delhi,Grocery,Honey Jar,2.0,281.82,0.0,Cash on Delivery,35.0,,563.64,Weekend
+ORD101000,2026-02-15,Hyderabad,Grocery,Cooking Oil 1L,1.0,197.32,25.0,Unknown,45.0,4.0,147.99,Weekend
+ORD101641,2026-05-11,Bengaluru,Electronics,Bluetooth Speaker,6.0,1983.31,0.0,Credit Card,41.0,4.0,11899.86,Weekday
+ORD101356,2026-06-17,Hyderabad,Fashion,Cotton T-Shirt,1.0,591.64,5.0,Credit Card,26.0,4.0,562.058,Weekday
+ORD101462,2026-01-23,Hyderabad,Fashion,Sunglasses,1.0,867.27,0.0,Debit Card,30.0,2.0,867.27,Weekday
+ORD100049,2026-05-18,Bengaluru,Fashion,Sunglasses,2.0,899.59,0.0,Net Banking,27.0,,1799.18,Weekday
+ORD101702,2026-05-11,Delhi,Electronics,Power Bank,1.0,1056.71,10.0,Credit Card,31.0,3.0,951.0390000000001,Weekday
+ORD101029,2026-04-27,Bengaluru,Fashion,Running Shoes,1.0,2491.33,15.0,UPI,34.0,4.0,2117.6304999999998,Weekday
+ORD100529,2026-04-04,Mumbai,Grocery,Honey Jar,1.0,298.99,0.0,Net Banking,25.0,,298.99,Weekend
+ORD101258,2026-03-27,Mumbai,Home & Kitchen,Electric Kettle,1.0,1098.26,15.0,UPI,33.0,3.0,933.521,Weekday
+ORD100486,2026-01-06,Mumbai,Home & Kitchen,Cushion Cover,1.0,337.35,20.0,Credit Card,27.0,4.0,269.88000000000005,Weekday
+ORD101770,2026-01-30,Pune,Electronics,Wireless Earbuds,4.0,1489.22,0.0,UPI,21.0,4.0,5956.88,Weekday
+ORD100497,2026-03-22,Mumbai,Grocery,Green Tea Pack,3.0,256.6,25.0,UPI,41.0,4.0,577.35,Weekend
+ORD101646,2026-04-02,Chennai,Home & Kitchen,Cushion Cover,1.0,350.18,10.0,Debit Card,24.0,4.0,315.16200000000003,Weekday
+ORD100106,2026-02-01,Mumbai,Grocery,Almonds 500g,1.0,532.11,0.0,Credit Card,17.0,4.0,532.11,Weekend
+ORD100443,2026-01-30,Mumbai,Electronics,Wireless Earbuds,1.0,1499.275,0.0,Debit Card,25.0,4.0,1499.275,Weekday
+ORD100646,2026-02-23,Bengaluru,Electronics,Power Bank,1.0,1026.63,0.0,UPI,29.0,,1026.63,Weekday
+ORD101036,2026-04-30,Chennai,Fashion,Backpack,1.0,1301.36,0.0,Credit Card,27.0,3.0,1301.36,Weekday
+ORD100726,2026-04-02,Delhi,Electronics,Wireless Earbuds,2.0,1524.7,0.0,UPI,19.0,5.0,3049.4,Weekday
+ORD100190,2026-03-09,Delhi,Fashion,Sunglasses,4.0,953.22,0.0,UPI,31.0,5.0,3812.88,Weekday
+ORD100282,2026-01-03,Mumbai,Electronics,USB-C Cable,7.0,305.81,10.0,Cash on Delivery,26.0,4.0,1926.603,Weekend
+ORD100029,2026-04-04,Pune,Home & Kitchen,LED Lamp,6.0,594.84,10.0,Credit Card,26.0,,3212.136,Weekend
+ORD100169,2026-05-10,Hyderabad,Electronics,Power Bank,2.0,983.99,0.0,Credit Card,32.0,,1967.98,Weekend
+ORD101001,2026-05-02,Chennai,Home & Kitchen,Non-stick Pan,3.0,747.94,0.0,Cash on Delivery,19.0,,2243.82,Weekend
+ORD101204,2026-05-30,Pune,Home & Kitchen,LED Lamp,2.0,607.75,15.0,Debit Card,36.0,3.0,1033.175,Weekend
+ORD100100,2026-04-08,Delhi,Electronics,Power Bank,5.0,981.6,25.0,UPI,44.0,4.0,3681.0,Weekday
+ORD100197,2026-01-22,Mumbai,Electronics,Wireless Earbuds,1.0,1450.82,20.0,Cash on Delivery,24.0,2.0,1160.656,Weekday
+ORD100495,2026-03-29,Mumbai,Beauty,Hair Serum,1.0,545.19,0.0,UPI,45.0,3.0,545.19,Weekend
+ORD100647,2026-03-10,Bengaluru,Fashion,Sunglasses,1.0,918.15,0.0,UPI,33.0,4.0,918.15,Weekday
+ORD100987,2026-01-31,Delhi,Home & Kitchen,Non-stick Pan,2.0,782.39,10.0,Cash on Delivery,32.0,,1408.302,Weekend
+ORD100044,2026-01-16,Bengaluru,Home & Kitchen,Electric Kettle,1.0,1052.07,0.0,Net Banking,39.0,,1052.07,Weekday
+ORD101754,2026-05-27,Mumbai,Electronics,Wireless Earbuds,2.0,1499.33,10.0,UPI,32.0,5.0,2698.794,Weekday
+ORD100710,2026-04-09,Hyderabad,Electronics,USB-C Cable,3.0,284.39,0.0,UPI,42.0,4.0,853.17,Weekday
+ORD100373,2026-01-26,Pune,Beauty,Hair Serum,1.0,552.74,0.0,UPI,43.0,,552.74,Weekday
+ORD100678,2026-05-19,Delhi,Home & Kitchen,Cushion Cover,1.0,368.06,0.0,UPI,32.0,5.0,368.06,Weekday
+ORD100566,2026-02-06,Bengaluru,Grocery,Green Tea Pack,1.0,236.3,0.0,UPI,28.0,3.0,236.3,Weekday
+ORD101672,2026-05-22,Bengaluru,Grocery,Honey Jar,2.0,297.6,5.0,UPI,30.0,,565.44,Weekday
+ORD100847,2026-05-27,Mumbai,Electronics,Bluetooth Speaker,2.0,1949.1,25.0,Cash on Delivery,48.0,4.0,2923.6499999999996,Weekday
+ORD100460,2026-05-06,Hyderabad,Grocery,Honey Jar,2.0,286.44,0.0,Debit Card,30.0,5.0,572.88,Weekday
+ORD101437,2026-04-09,Hyderabad,Electronics,USB-C Cable,3.0,290.01,0.0,Cash on Delivery,29.0,,870.03,Weekday
+ORD101155,2026-03-31,Delhi,Electronics,Smart Watch,3.0,2980.8,0.0,Credit Card,24.0,5.0,8942.400000000001,Weekday
+ORD100039,2026-01-23,Bengaluru,Fashion,Sunglasses,1.0,901.56,0.0,Credit Card,58.0,5.0,901.56,Weekday
+ORD100434,2026-02-16,Bengaluru,Home & Kitchen,Electric Kettle,1.0,1100.49,0.0,Debit Card,34.0,4.0,1100.49,Weekday
+ORD100973,2026-04-27,Bengaluru,Beauty,Moisturizer,2.0,468.74,15.0,Credit Card,31.0,4.0,796.858,Weekday
+ORD101239,2026-05-27,Pune,Beauty,Sunscreen SPF50,4.0,398.29,15.0,Net Banking,29.0,4.0,1354.186,Weekday
+ORD101007,2026-05-22,Mumbai,Home & Kitchen,LED Lamp,2.0,598.7,0.0,UPI,32.0,,1197.4,Weekday
+ORD101579,2026-06-03,Chennai,Electronics,Wireless Earbuds,2.0,1483.59,0.0,UPI,31.0,4.0,2967.18,Weekday
+ORD101590,2026-06-01,Mumbai,Fashion,Running Shoes,1.0,2541.05,0.0,Credit Card,25.0,5.0,2541.05,Weekday
+ORD101498,2026-01-31,Mumbai,Electronics,Bluetooth Speaker,3.0,1845.82,0.0,Credit Card,33.0,4.0,5537.46,Weekend
+ORD100456,2026-01-07,Bengaluru,Grocery,Green Tea Pack,3.0,254.64,0.0,Credit Card,37.0,4.0,763.92,Weekday
+ORD100260,2026-04-13,Hyderabad,Fashion,Cotton T-Shirt,2.0,580.12,0.0,Debit Card,43.0,4.0,1160.24,Weekday
+ORD100035,2026-01-28,Pune,Electronics,Smart Watch,2.0,3024.8,0.0,Debit Card,37.0,4.0,6049.6,Weekday
+ORD100827,2026-02-13,Hyderabad,Grocery,Basmati Rice 5kg,2.0,650.46,5.0,Credit Card,31.0,,1235.874,Weekday
+ORD100309,2026-02-06,Delhi,Fashion,Backpack,1.0,1265.76,20.0,Debit Card,25.0,4.0,1012.6080000000001,Weekday
+ORD100276,2026-04-03,Bengaluru,Fashion,Sunglasses,2.0,894.37,0.0,UPI,51.0,3.0,1788.74,Weekday
+ORD100636,2026-03-12,Mumbai,Fashion,Running Shoes,1.0,2454.96,5.0,Debit Card,34.0,3.0,2332.212,Weekday
+ORD100654,2026-02-21,Pune,Home & Kitchen,Storage Containers,1.0,502.47,0.0,UPI,48.0,5.0,502.47,Weekend
+ORD100622,2026-06-06,Delhi,Electronics,Smart Watch,4.0,2878.23,15.0,UPI,38.0,,9785.982,Weekend
+ORD100844,2026-02-18,Pune,Grocery,Honey Jar,1.0,297.54,0.0,Debit Card,20.0,,297.54,Weekday
+ORD100393,2026-03-09,Chennai,Grocery,Almonds 500g,1.0,544.98,0.0,Debit Card,32.0,4.0,544.98,Weekday
+ORD100107,2026-03-11,Delhi,Electronics,Smart Watch,2.0,2872.37,25.0,Credit Card,39.0,,4308.555,Weekday
+ORD100349,2026-03-08,Delhi,Fashion,Backpack,2.0,1323.68,0.0,UPI,45.0,5.0,2647.36,Weekend
+ORD100524,2026-02-02,Mumbai,Home & Kitchen,Cushion Cover,2.0,356.62,0.0,Debit Card,45.0,4.0,713.24,Weekday
+ORD100784,2026-02-11,Bengaluru,Electronics,Smart Watch,1.0,2954.81,0.0,Debit Card,20.0,5.0,2954.81,Weekday
+ORD100047,2026-01-21,Pune,Electronics,USB-C Cable,2.0,294.12,0.0,Debit Card,42.0,4.0,588.24,Weekday
+ORD100203,2026-04-27,Mumbai,Fashion,Sunglasses,2.0,908.49,0.0,UPI,36.0,4.0,1816.98,Weekday
+ORD101655,2026-02-06,Pune,Electronics,Bluetooth Speaker,2.0,1814.29,0.0,Debit Card,36.0,4.0,3628.58,Weekday
+ORD100402,2026-01-25,Bengaluru,Electronics,Bluetooth Speaker,1.0,1896.97,0.0,UPI,30.0,3.0,1896.97,Weekend
+ORD101107,2026-06-05,Delhi,Grocery,Basmati Rice 5kg,1.0,687.95,0.0,UPI,16.0,4.0,687.95,Weekday
+ORD101154,2026-04-04,Delhi,Home & Kitchen,Cushion Cover,2.0,341.25,0.0,UPI,28.0,3.0,682.5,Weekend
+ORD101439,2026-05-22,Hyderabad,Fashion,Denim Jacket,2.0,1773.52,5.0,UPI,34.0,,3369.6879999999996,Weekday
+ORD100989,2026-02-22,Chennai,Electronics,USB-C Cable,1.0,301.08,0.0,UPI,20.0,4.0,301.08,Weekend
+ORD100741,2026-03-23,Mumbai,Home & Kitchen,Non-stick Pan,3.0,815.77,0.0,UPI,43.0,5.0,2447.31,Weekday
+ORD101721,2026-01-25,Mumbai,Home & Kitchen,LED Lamp,2.0,654.6,25.0,UPI,40.0,5.0,981.9000000000001,Weekend
+ORD101310,2026-04-10,Hyderabad,Electronics,Smart Watch,4.0,3103.97,0.0,Debit Card,45.0,,12415.88,Weekday
+ORD101147,2026-06-20,Mumbai,Electronics,USB-C Cable,3.0,303.63,0.0,Debit Card,34.0,2.0,910.89,Weekend
+ORD100033,2026-03-09,Delhi,Fashion,Running Shoes,1.0,2519.07,0.0,UPI,26.0,1.0,2519.07,Weekday
+ORD100787,2026-06-10,Mumbai,Electronics,Wireless Earbuds,1.0,1547.35,15.0,UPI,37.0,4.0,1315.2475,Weekday
+ORD101540,2026-06-01,Pune,Home & Kitchen,Cushion Cover,1.0,353.42,5.0,UPI,34.0,5.0,335.749,Weekday
+ORD100923,2026-01-13,Hyderabad,Fashion,Denim Jacket,2.0,1832.97,10.0,Net Banking,27.0,,3299.346,Weekday
+ORD101043,2026-06-19,Chennai,Electronics,Smart Watch,1.0,3023.29,0.0,Cash on Delivery,24.0,5.0,3023.29,Weekday
+ORD101751,2026-04-07,Bengaluru,Fashion,Backpack,1.0,1352.04,0.0,Credit Card,32.0,,1352.04,Weekday
+ORD101243,2026-04-12,Bengaluru,Home & Kitchen,LED Lamp,1.0,604.63,0.0,UPI,33.0,,604.63,Weekend
+ORD100579,2026-01-29,Mumbai,Electronics,USB-C Cable,1.0,308.68,0.0,Debit Card,37.0,3.0,308.68,Weekday
+ORD100481,2026-06-18,Delhi,Fashion,Cotton T-Shirt,1.0,601.99,10.0,Cash on Delivery,19.0,5.0,541.791,Weekday
+ORD100931,2026-04-16,Pune,Beauty,Face Wash,2.0,259.26,15.0,UPI,27.0,4.0,440.74199999999996,Weekday
+ORD100356,2026-03-20,Mumbai,Grocery,Almonds 500g,1.0,536.65,0.0,Credit Card,33.0,,536.65,Weekday
+ORD101685,2026-01-11,Delhi,Home & Kitchen,Non-stick Pan,1.0,806.15,0.0,UPI,30.0,3.0,806.15,Weekend
+ORD101248,2026-02-16,Delhi,Grocery,Honey Jar,2.0,298.64,0.0,Net Banking,23.0,,597.28,Weekday
+ORD100759,2026-04-16,Bengaluru,Electronics,Smart Watch,2.0,2832.21,0.0,Credit Card,33.0,5.0,5664.42,Weekday
+ORD100092,2026-05-14,Chennai,Home & Kitchen,Cushion Cover,1.0,335.25,15.0,UPI,16.0,5.0,284.9625,Weekday
+ORD101175,2026-05-20,Mumbai,Grocery,Green Tea Pack,1.0,254.62,0.0,Debit Card,36.0,4.0,254.62,Weekday
+ORD101415,2026-03-26,Hyderabad,Fashion,Running Shoes,2.0,2486.88,0.0,Debit Card,27.0,4.0,4973.76,Weekday
+ORD101341,2026-06-07,Hyderabad,Electronics,Smart Watch,2.0,2963.8,5.0,Debit Card,35.0,3.0,5631.22,Weekend
+ORD101472,2026-05-19,Mumbai,Fashion,Cotton T-Shirt,4.0,599.33,0.0,UPI,30.0,5.0,2397.32,Weekday
+ORD100803,2026-02-05,Chennai,Home & Kitchen,Non-stick Pan,1.0,772.19,10.0,UPI,27.0,,694.9710000000001,Weekday
+ORD100745,2026-01-12,Bengaluru,Fashion,Sunglasses,1.0,917.7,0.0,Debit Card,25.0,,917.7,Weekday
+ORD101546,2026-05-13,Hyderabad,Grocery,Cooking Oil 1L,1.0,192.47,10.0,UPI,32.0,4.0,173.223,Weekday
+ORD100279,2026-05-07,Chennai,Electronics,USB-C Cable,1.0,299.72,25.0,Debit Card,32.0,2.0,224.79000000000002,Weekday
+ORD101607,2026-05-16,Mumbai,Grocery,Honey Jar,2.0,300.46,0.0,UPI,31.0,5.0,600.92,Weekend
+ORD100764,2026-03-07,Mumbai,Home & Kitchen,Cushion Cover,4.0,377.19,0.0,UPI,23.0,,1508.76,Weekend
+ORD100604,2026-04-02,Mumbai,Electronics,Power Bank,2.0,1005.14,10.0,UPI,17.0,,1809.252,Weekday
+ORD101373,2026-04-18,Mumbai,Electronics,Power Bank,4.0,1025.61,0.0,UPI,39.0,4.0,4102.44,Weekend
+ORD101398,2026-03-14,Bengaluru,Electronics,Smart Watch,2.0,3033.43,0.0,UPI,22.0,,6066.86,Weekend
+ORD100400,2026-01-14,Hyderabad,Fashion,Sunglasses,1.0,879.85,0.0,UPI,44.0,,879.85,Weekday
+ORD101728,2026-02-16,Delhi,Electronics,USB-C Cable,1.0,305.95,10.0,UPI,60.0,4.0,275.355,Weekday
+ORD100257,2026-02-03,Mumbai,Home & Kitchen,LED Lamp,1.0,581.55,5.0,Credit Card,32.0,5.0,552.4725,Weekday
+ORD100944,2026-05-24,Hyderabad,Home & Kitchen,Storage Containers,2.0,518.06,25.0,UPI,31.0,,777.0899999999999,Weekend
+ORD101096,2026-04-16,Delhi,Fashion,Backpack,1.0,1267.27,10.0,UPI,31.0,,1140.5430000000001,Weekday
+ORD101219,2026-05-23,Mumbai,Electronics,Smart Watch,1.0,2994.0299999999997,15.0,UPI,17.0,,2544.9255,Weekend
+ORD101507,2026-01-29,Chennai,Grocery,Basmati Rice 5kg,2.0,604.95,0.0,Credit Card,29.0,4.0,1209.9,Weekday
+ORD101161,2026-01-08,Delhi,Fashion,Denim Jacket,3.0,1812.32,0.0,UPI,32.0,4.0,5436.96,Weekday
+ORD100494,2026-06-12,Bengaluru,Fashion,Denim Jacket,2.0,1800.87,20.0,UPI,34.0,5.0,2881.392,Weekday
+ORD100772,2026-06-05,Mumbai,Grocery,Cooking Oil 1L,2.0,183.99,25.0,UPI,29.0,4.0,275.985,Weekday
+ORD100550,2026-04-10,Bengaluru,Fashion,Cotton T-Shirt,2.0,602.8,15.0,UPI,32.0,,1024.76,Weekday
+ORD101486,2026-04-01,Pune,Electronics,USB-C Cable,1.0,305.75,0.0,Unknown,38.0,1.0,305.75,Weekday
+ORD100201,2026-03-03,Chennai,Electronics,USB-C Cable,2.0,300.93,15.0,Debit Card,29.0,4.0,511.581,Weekday
+ORD100312,2026-03-02,Bengaluru,Home & Kitchen,LED Lamp,2.0,585.53,10.0,UPI,30.0,5.0,1053.954,Weekday
+ORD100290,2026-01-05,Hyderabad,Fashion,Denim Jacket,1.0,1801.64,5.0,Credit Card,40.0,,1711.558,Weekday
+ORD101213,2026-05-22,Mumbai,Fashion,Backpack,2.0,1384.81,0.0,Net Banking,33.0,4.0,2769.62,Weekday
+ORD100763,2026-02-24,Delhi,Electronics,Power Bank,1.0,961.09,0.0,UPI,23.0,,961.09,Weekday
+ORD101136,2026-03-19,Pune,Fashion,Backpack,1.0,1261.89,25.0,Net Banking,27.0,5.0,946.4175,Weekday
+ORD100949,2026-03-20,Delhi,Beauty,Sunscreen SPF50,3.0,391.35,0.0,Cash on Delivery,43.0,3.0,1174.0500000000002,Weekday
+ORD100183,2026-06-20,Pune,Fashion,Denim Jacket,3.0,1769.52,0.0,Credit Card,22.0,3.0,5308.5599999999995,Weekend
+ORD101176,2026-06-06,Bengaluru,Electronics,Wireless Earbuds,5.0,1517.48,5.0,Cash on Delivery,19.0,3.0,7208.03,Weekend
+ORD101349,2026-01-24,Hyderabad,Electronics,Wireless Earbuds,2.0,1527.29,5.0,UPI,16.0,,2901.8509999999997,Weekend
+ORD101727,2026-04-27,Bengaluru,Fashion,Sunglasses,2.0,931.64,15.0,Credit Card,27.0,,1583.788,Weekday
+ORD101068,2026-04-01,Mumbai,Fashion,Backpack,2.0,1268.17,5.0,Cash on Delivery,46.0,4.0,2409.523,Weekday
+ORD101468,2026-01-06,Bengaluru,Fashion,Denim Jacket,3.0,1768.29,0.0,UPI,28.0,5.0,5304.87,Weekday
+ORD101030,2026-02-26,Delhi,Beauty,Sunscreen SPF50,3.0,406.75,15.0,Cash on Delivery,32.0,3.0,1037.2124999999999,Weekday
+ORD100250,2026-02-13,Mumbai,Home & Kitchen,LED Lamp,2.0,573.47,0.0,UPI,46.0,4.0,1146.94,Weekday
+ORD100823,2026-02-20,Bengaluru,Grocery,Basmati Rice 5kg,2.0,606.31,10.0,UPI,34.0,4.0,1091.358,Weekday
+ORD101099,2026-04-14,Delhi,Electronics,USB-C Cable,2.0,276.65,0.0,UPI,33.0,,553.3,Weekday
+ORD101536,2026-03-31,Chennai,Fashion,Backpack,1.0,1336.44,0.0,UPI,32.0,2.0,1336.44,Weekday
+ORD100940,2026-06-01,Bengaluru,Beauty,Moisturizer,2.0,446.44,5.0,Credit Card,22.0,,848.236,Weekday
+ORD100391,2026-06-27,Bengaluru,Fashion,Sunglasses,5.0,921.5,0.0,UPI,44.0,3.0,4607.5,Weekend
+ORD101456,2026-03-01,Mumbai,Fashion,Cotton T-Shirt,1.0,587.22,0.0,UPI,39.0,2.0,587.22,Weekend
+ORD101092,2026-05-17,Pune,Fashion,Sunglasses,4.0,869.69,0.0,Debit Card,42.0,3.0,3478.76,Weekend
+ORD101191,2026-01-13,Delhi,Electronics,USB-C Cable,2.0,323.37,25.0,Cash on Delivery,30.0,4.0,485.055,Weekday
+ORD100904,2026-06-12,Mumbai,Fashion,Backpack,1.0,1299.9,0.0,UPI,39.0,4.0,1299.9,Weekday
+ORD100730,2026-03-07,Mumbai,Electronics,Smart Watch,3.0,2936.0,0.0,Credit Card,23.0,5.0,8808.0,Weekend
+ORD100554,2026-03-17,Mumbai,Beauty,Lip Balm,2.0,152.69,0.0,Debit Card,32.0,4.0,305.38,Weekday
+ORD100366,2026-05-26,Mumbai,Fashion,Backpack,1.0,1296.99,5.0,UPI,49.0,3.0,1232.1405,Weekday
+ORD100345,2026-06-01,Bengaluru,Beauty,Face Wash,2.0,243.49,0.0,UPI,41.0,5.0,486.98,Weekday
+ORD101608,2026-03-22,Pune,Home & Kitchen,LED Lamp,3.0,600.49,0.0,UPI,34.0,2.0,1801.47,Weekend
+ORD100535,2026-04-18,Pune,Fashion,Denim Jacket,2.0,1909.58,0.0,UPI,45.0,3.0,3819.16,Weekend
+ORD101422,2026-05-08,Mumbai,Fashion,Backpack,1.0,1364.95,10.0,Debit Card,28.0,,1228.4550000000002,Weekday
+ORD101209,2026-03-13,Mumbai,Grocery,Honey Jar,5.0,298.925,0.0,UPI,44.0,5.0,1494.625,Weekday
+ORD101372,2026-04-26,Pune,Electronics,Wireless Earbuds,3.0,1499.15,5.0,Net Banking,35.0,,4272.5775,Weekend
+ORD101639,2026-04-05,Chennai,Electronics,USB-C Cable,3.0,310.11,10.0,UPI,24.0,3.0,837.297,Weekend
+ORD100919,2026-06-13,Bengaluru,Electronics,USB-C Cable,1.0,294.14,0.0,Credit Card,30.0,,294.14,Weekend
+ORD100211,2026-05-07,Hyderabad,Beauty,Hair Serum,1.0,551.87,0.0,Unknown,35.0,3.0,551.87,Weekday
+ORD101603,2026-06-17,Bengaluru,Home & Kitchen,LED Lamp,2.0,583.34,15.0,UPI,26.0,,991.678,Weekday
+ORD100502,2026-01-21,Pune,Grocery,Honey Jar,4.0,308.32,0.0,Credit Card,24.0,5.0,1233.28,Weekday
+ORD100537,2026-03-22,Chennai,Grocery,Honey Jar,2.0,307.54,10.0,UPI,20.0,2.0,553.572,Weekend
+ORD101220,2026-04-28,Hyderabad,Home & Kitchen,Cushion Cover,3.0,338.39,25.0,Credit Card,38.0,5.0,761.3774999999999,Weekday
+ORD100175,2026-06-08,Delhi,Electronics,USB-C Cable,1.0,304.32,0.0,Credit Card,38.0,1.0,304.32,Weekday
