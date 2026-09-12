@@ -110,21 +110,15 @@ The exploratory analysis covers:
 
 ```text
 retailpulse-retail-analytics/
-│
 ├── README.md
 ├── requirements.txt
-│
 ├── data/
 │   └── retailpulse_orders_cleaned.csv
-│
 ├── notebooks/
 │   └── RetailPulse_Analysis.ipynb
-│
-├── reports/
-│   ├── Data_Cleaning_Notes.pdf
-│   └── Summary_of_Findings.pdf
-│
-└── visuals/
+└── reports/
+    ├── Data_Cleaning_Notes.pdf
+    └── Summary_of_Findings.pdf
 ```
 
 ## Repository Contents
