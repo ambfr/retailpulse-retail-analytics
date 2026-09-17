@@ -1,110 +1,123 @@
-# RetailPulse — Retail Sales & Data Quality Analysis
+# RetailPulse — Retail Sales & Customer Analytics
 
-RetailPulse is a retail sales analytics project focused on understanding sales performance while improving the quality and reliability of the underlying data.
+RetailPulse is a retail sales analytics project focused on understanding sales performance, customer behavior, product performance, and data quality.
 
-The dataset contains retail orders from **January to June 2026**. The project follows a practical analytics workflow:
+The project follows a practical end-to-end data analysis workflow:
 
-**Raw Data → Data Quality Checks → Data Cleaning → Validation → Exploratory Analysis → Business Insights**
+**Raw Data → Data Cleaning → Validation → Exploratory Analysis → Business Insights → Interactive Dashboard**
 
-## Business Objective
+---
 
-The goal of this project is to:
+## Interactive Dashboard
 
-* Clean and validate raw retail transaction data
-* Analyze revenue across products, categories, and cities
-* Compare weekday and weekend purchasing behavior
-* Analyze payment methods and average order value
-* Examine discount and quantity patterns
-* Identify data-quality issues that could affect business decisions
+### RetailPulse Power BI Dashboard
 
-## Key Business Questions
+![RetailPulse Power BI Dashboard](visuals/retailpulse_db.png)
 
-1. Which product categories generate the most revenue?
-2. Which cities contribute the most to overall revenue?
-3. How does purchasing behavior differ between weekdays and weekends?
-4. Which payment methods are most commonly used?
-5. Which payment methods have the highest average order value?
-6. Is there an observable relationship between discounts and quantity purchased?
-7. What data-quality issues need to be addressed before analysis?
+The interactive Power BI dashboard provides a visual overview of the key business metrics and analytical findings.
 
-## Dataset
+### Dashboard Includes
 
-The original dataset contains retail transaction-level information including:
+- **Total Revenue** — ₹3.24M
+- **Total Orders** — 1.8K
+- **Average Order Value** — ~₹1,801
+- **Top Category** — Electronics
+- **Top City** — Mumbai
+- **Revenue Trend**
+- **Revenue by Category**
+- **Revenue by City**
+- **Revenue by Payment Method**
+- **Average Order Value by Day Type**
+- **Top 5 Products by Revenue**
 
-* Order ID
-* Order Date
-* City
-* Category
-* Product Name
-* Quantity
-* Unit Price
-* Discount
-* Payment Method
-* Customer Age
-* Customer Rating
+The Power BI dashboard is available in both `.pbix` and PDF formats in the `visuals/` folder.
 
-After cleaning, the dataset contains **1,800 records and 13 columns**.
+---
+
+## Project Overview
+
+The dataset contains retail order-level information including customer details, product information, pricing, discounts, payment methods, ratings, and order dates.
+
+The analysis focuses on questions such as:
+
+- How much revenue is being generated?
+- Which product categories contribute the most revenue?
+- Which cities generate the most sales?
+- Which products are top performers?
+- How does order value differ between weekdays and weekends?
+- Which payment methods are most frequently used?
+- Are there meaningful relationships between discounts, quantity, and sales?
+
+---
 
 ## Data Cleaning
 
-Several data-quality issues were identified and addressed:
+The original dataset contained several data quality issues that were addressed before analysis.
 
-* **25 duplicate records** were removed
-* City names were standardized
-* Missing quantities were imputed using the median
-* Missing unit prices were imputed using product-level median prices
-* Missing discounts were treated as 0%
-* Missing payment methods were labelled as `Unknown`
-* Missing customer ages were imputed using the median
-* Missing customer ratings were retained because missing ratings can represent a meaningful absence of feedback
-* Extreme unit-price values were investigated and four apparent data-entry errors were replaced using product-level median prices
-* Four unrealistic quantity values of **999** were replaced using product-level median quantities
+Key cleaning steps included:
 
-The cleaned dataset was validated before being used for analysis.
+- Removed **25 duplicate records**
+- Handled missing quantities using product-level median values
+- Imputed missing unit prices using product-level medians
+- Replaced missing discounts with `0`
+- Replaced missing payment methods with `Unknown`
+- Imputed missing customer ages using the median
+- Retained missing ratings rather than artificially imputing them
+- Identified and replaced **4 extreme unit-price values**
+- Identified and corrected **4 extreme quantity values (999)**
+- Created additional analytical columns including `revenue` and `day_type`
 
-## Analysis
+After cleaning, the dataset contained **1,800 records and 13 columns**.
 
-The exploratory analysis covers:
-
-### Revenue Performance
-
-* Total revenue
-* Revenue by product category
-* Revenue by city
-* Top-performing products
-
-### Customer & Purchasing Behavior
-
-* Weekday vs weekend sales
-* Average order value
-* Payment method usage
-* Customer rating availability
-
-### Discount Analysis
-
-* Distribution of discount levels
-* Quantity sold across discount levels
-* Relationship between discount percentage and quantity purchased
+---
 
 ## Key Findings
 
-* Total revenue was approximately **₹3.24 million**
-* **Electronics** generated the highest category revenue at approximately **₹1.39 million**
-* **Mumbai** generated the highest city revenue at approximately **₹741.5K**
-* **Smart Watch** was the highest-revenue individual product at approximately **₹542.9K**
-* Weekend orders had a higher average order value than weekday orders
-* **UPI** was the most frequently used payment method
-* The correlation between discount percentage and quantity purchased was approximately **0.003**, indicating almost no linear relationship in this dataset
+### Revenue
+
+Total revenue generated was approximately **₹3.24 million**.
+
+### Category Performance
+
+**Electronics** generated the highest revenue at approximately **₹1.39 million**.
+
+### City Performance
+
+**Mumbai** generated the highest revenue at approximately **₹741.5K**.
+
+### Product Performance
+
+**Smart Watch** was the highest-revenue product at approximately **₹542.9K**.
+
+### Customer Spending
+
+Average Order Value was higher on weekends than weekdays:
+
+- Weekday AOV: **₹1,676.23**
+- Weekend AOV: **₹2,112.71**
+
+### Payment Behavior
+
+**UPI** was the most frequently used payment method.
+
+### Discount & Quantity
+
+The relationship between discount and quantity was extremely weak, with a correlation of approximately **0.0028**.
+
+This suggests that, within this dataset, higher discounts were not strongly associated with higher quantities purchased.
+
+---
 
 ## Tools Used
 
-* **Python**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Power BI
 
-  * Pandas
-  * NumPy
-  * Matplotlib
-* **Jupyter Notebook**
-* **Git & GitHub**
+---
 
 ## Project Structure
 
@@ -116,42 +129,10 @@ retailpulse-retail-analytics/
 │   └── retailpulse_orders_cleaned.csv
 ├── notebooks/
 │   └── RetailPulse_Analysis.ipynb
-└── reports/
-    ├── Data_Cleaning_Notes.pdf
-    └── Summary_of_Findings.pdf
-```
-
-## Repository Contents
-
-**RetailPulse_Analysis.ipynb**
-Complete analysis workflow covering data quality checks, cleaning, validation, exploratory analysis, and visualizations.
-
-**Data_Cleaning_Notes.pdf**
-Detailed documentation of the data-quality issues identified and the decisions made during cleaning.
-
-**Summary_of_Findings.pdf**
-Summary of the major analytical findings and business observations.
-
-**retailpulse_orders_cleaned.csv**
-The cleaned dataset used for the final analysis.
-
-## What This Project Demonstrates
-
-This project demonstrates a practical approach to data analysis rather than focusing only on visualization.
-
-Key skills demonstrated include:
-
-* Data cleaning and validation
-* Exploratory data analysis
-* Data quality assessment
-* Business-oriented analysis
-* Aggregation and comparison of metrics
-* Data visualization
-* Documenting analytical decisions
-* Reproducible analysis using Python and Jupyter
-
----
-
-**Project:** RetailPulse
-**Focus:** Retail Sales & Data Quality Analysis
-**Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
+├── reports/
+│   ├── Data_Cleaning_Notes.pdf
+│   └── Summary_of_Findings.pdf
+└── visuals/
+    ├── retailpulse_dashboard.pbix
+    ├── retailpulse_dashboard.pdf
+    └── retailpulse_dashboard.png
